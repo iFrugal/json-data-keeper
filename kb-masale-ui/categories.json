@@ -5,11 +5,11 @@
       "subCategories": [
         {
           "name": "Powder",
-          "icon": "/images/icons/menFashion.png"
+          "icon": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/refs/heads/main/kb-masale-ui/images/icons/spices-powder.png"
         },
         {
           "name": "Whole",
-          "icon": "https://images.app.goo.gl/8uU82QBF2WvCCB4X8"
+          "icon": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/refs/heads/main/kb-masale-ui/images/icons/spices-powder.png"
         }
       ]
     },
