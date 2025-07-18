@@ -1,19 +1,15 @@
 [
     {
-      "name": "Fashion-3",
+      "name": "Spices",
       "icon": "/images/icons/fashion.png",
       "subCategories": [
         {
-          "name": "Men",
+          "name": "Powder",
           "icon": "/images/icons/menFashion.png"
         },
         {
-          "name": "Woman",
-          "icon": "/images/icons/womanFashion.png"
-        },
-        {
-          "name": "Kids",
-          "icon": "/images/icons/womanFashion.png"
+          "name": "Whole",
+          "icon": "https://images.app.goo.gl/8uU82QBF2WvCCB4X8"
         }
       ]
     },
