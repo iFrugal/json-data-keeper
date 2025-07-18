@@ -1,5 +1,4 @@
-{
-  "products": [
+[
     {
       "name": "RED CHILLY POWDER",
       "slug": "red-chilly-powder",
@@ -252,5 +251,4 @@
       "banner": null,
       "itemId": 8
     }
-  ]
-}
+]
