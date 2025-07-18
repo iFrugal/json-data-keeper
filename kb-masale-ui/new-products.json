@@ -5,10 +5,7 @@
       "category": "SPICES",
       "subCategory": "POWDER",
       "description": "Premium quality red chilly powder, perfect for adding heat and color to your dishes",
-      "images": [
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/red-chilly-powder-1.jpg",
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/red-chilly-powder-2.jpg"
-      ],
+      "images": ["https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/redchilli-powder.jpg"],
       "price": 25,
       "unit": "50 GM",
       "unitType": "PCS",
@@ -27,9 +24,7 @@
       "subCategory": "POWDER",
       "description": "Pure turmeric powder with natural golden color and earthy flavor",
       "images": [
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/turmeric-powder-1.jpg",
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/turmeric-powder-2.jpg"
-      ],
+        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/turmeric-powder.jpg"      ],
       "price": 25,
       "unit": "50 GM",
       "unitType": "PCS",
@@ -48,9 +43,7 @@
       "subCategory": "POWDER",
       "description": "Freshly ground coriander powder with aromatic fragrance",
       "images": [
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/dhaniya-powder-1.jpg",
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/dhaniya-powder-2.jpg"
-      ],
+        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/dhaniya-powder.jpg"      ],
       "price": 25,
       "unit": "50 GM",
       "unitType": "PCS",
@@ -69,9 +62,7 @@
       "subCategory": "POWDER",
       "description": "Premium cumin powder with intense flavor and aroma",
       "images": [
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/jeera-powder-1.jpg",
-        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/jeera-powder-2.jpg"
-      ],
+        "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/products/jeera-powder.jpg"      ],
       "price": 45,
       "unit": "50 GM",
       "unitType": "PCS",
