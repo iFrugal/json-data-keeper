@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Fashion",
+      "icon": "/images/icons/fashion.png",
+      "subCategories": [
+        {
+          "name": "Men",
+          "icon": "/images/icons/menFashion.png"
+        },
+        {
+          "name": "Woman",
+          "icon": "/images/icons/womanFashion.png"
+        },
+        {
+          "name": "Kids",
+          "icon": "/images/icons/womanFashion.png"
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "icon": "/images/icons/electronics.png",
+      "subCategories": [
+        {
+          "name": "Laptop",
+          "icon": "/images/icons/laptop.png"
+        },
+        {
+          "name": "Smart Watches",
+          "icon": "/images/icons/wrist-watch.png"
+        },
+        {
+          "name": "Camera",
+          "icon": "/images/icons/camera.png"
+        },
+        {
+          "name": "Television 1",
+          "icon": "/images/icons/laptop.png"
+        },
+        {
+          "name": "Camera 2",
+          "icon": "/images/icons/camera.png"
+        }
+      ]
+    },
+    {
+      "name": "Groceries",
+      "icon": "/images/icons/grocery-cart.png",
+      "subCategories": [
+        {
+          "name": "Rice",
+          "icon": "/images/icons/rice.png"
+        },
+        {
+          "name": "Pulses",
+          "icon": "/images/icons/pulses.png"
+        },
+        {
+          "name": "Fresh Vegetables",
+          "icon": "/images/icons/pulses.png"
+        }
+      ]
+    },
+    {
+      "name": "Footwear",
+      "icon": "/images/icons/footwear.png",
+      "subCategories": [
+        {
+          "name": "Men's Footwear",
+          "icon": "/images/icons/menFootwear.png"
+        },
+        {
+          "name": "Woman's Footwear",
+          "icon": "/images/icons/womanFootwear.png"
+        },
+        {
+          "name": "Kid's Footwear",
+          "icon": "/images/icons/womanFootwear.png"
+        }
+      ]
+    }
+  ]
