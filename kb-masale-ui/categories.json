@@ -9,7 +9,7 @@
         },
         {
           "name": "Whole",
-          "icon": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/refs/heads/main/kb-masale-ui/images/icons/spices-powder.png"
+          "icon": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/icons/spices-powder.png"
         }
       ]
     },
