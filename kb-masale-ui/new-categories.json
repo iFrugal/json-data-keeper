@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Spices",
+      "icon": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/icons/spices-powder.png",
+      "subCategories": [
+        {
+          "name": "Powder",
+          "icon": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/icons/spices-powder.png"
+        },
+        {
+          "name": "Whole",
+          "icon": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/icons/spices-powder.png"
+        }
+      ]
+    },
+    {
+      "name": "Groceries",
+      "icon": "/images/icons/grocery-cart.png",
+      "subCategories": [
+        {
+          "name": "Rice",
+          "icon": "/images/icons/rice.png"
+        },
+        {
+          "name": "Pulses",
+          "icon": "/images/icons/pulses.png"
+        },
+        {
+          "name": "Fresh Vegetables",
+          "icon": "/images/icons/pulses.png"
+        }
+      ]
+    }
+    
+  ]
