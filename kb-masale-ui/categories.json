@@ -1,7 +1,7 @@
 [
     {
       "name": "Spices",
-      "icon": "/images/icons/fashion.png",
+      "icon": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-masale-ui/images/icons/spices-powder.png",
       "subCategories": [
         {
           "name": "Powder",
