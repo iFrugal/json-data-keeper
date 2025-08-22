@@ -1,0 +1,102 @@
+[
+	{
+		"_id": "teacoffehealthdrink",
+		"name": "Tea, Coffe & Health Drink",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470541/category-images/wgm8rtjllyrgjjmzriqi.png"
+	},
+	{
+		"_id": "sweettooth",
+		"name": "Sweet Tooth",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470528/category-images/uv6ahjjwozv5gdg5hsna.png"
+	},
+	{
+		"_id": "snacksmunchies",
+		"name": "Snacks & Munchies",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470514/category-images/dl14mp7wcr71j5ngvd06.png"
+	},
+	{
+		"_id": "saucesspreads",
+		"name": "Sauces & Spreads",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470502/category-images/lnnfqdhbacf85kjq03i9.png"
+	},
+	{
+		"_id": "pharmawellness",
+		"name": "Pharma & Wellness",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470480/category-images/iu8tj8fxganjsv9owjzj.png"
+	},
+	{
+		"_id": "petcare",
+		"name": "Pet Care",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470465/category-images/hk1hkoltzmwla2gn8k6j.png"
+	},
+	{
+		"_id": "personalcare",
+		"name": "Personal Care",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470419/category-images/gleicfxk7srdha9dmczj.png"
+	},
+	{
+		"_id": "paancorner",
+		"name": "Paan corner",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470394/category-images/g7jupynmefv2rxvwblqw.png"
+	},
+	{
+		"_id": "organichealthyliving",
+		"name": "Organic & Healthy Living",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470376/category-images/em7mekb5i5bkub2qq3px.png"
+	},
+	{
+		"_id": "masalaoilmore",
+		"name": "Masala, Oil & More",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470355/category-images/zgthmtfbhohvkiyepajh.png"
+	},
+	{
+		"_id": "homeoffice",
+		"name": "Home & Office",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470336/category-images/oykp1nk7xeheepmyiye0.png"
+	},
+	{
+		"_id": "fruitsvegetables",
+		"name": "Fruits & Vegetables",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470320/category-images/hkclwdzyl7l55hipvqfg.png"
+	},
+	{
+		"_id": "dairybreadeggs",
+		"name": "Dairy, Bread & Eggs",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470302/category-images/gxhyg4tmsn8bxtun9sxc.png"
+	},
+	{
+		"_id": "colddrinksjuices",
+		"name": "Cold Drinks & Juices",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470270/category-images/gaggfo6jjrauocwzaha3.png"
+	},
+	{
+		"_id": "cleaningessentials",
+		"name": "Cleaning Essentials",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470257/category-images/gxrgxytnzpikw40yhzfc.png"
+	},
+	{
+		"_id": "bakerybiscuits",
+		"name": "Bakery & Biscuits",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470244/category-images/wdqn4sxbfyv2p7xghqbi.png"
+	},
+	{
+		"_id": "babycare",
+		"name": "Baby Care",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470230/category-images/rhp2xhwbuaf2ex1tifnq.png"
+	},
+	{
+		"_id": "attaricedal",
+		"name": "Atta, Rice & Dal",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751470198/category-images/noaovf7t8jj61fby6lik.png"
+	},
+	{
+		"_id": "chickenmeatfish",
+		"name": "Chicken, Meat & Fish.",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751414752/category-images/rwnqizwk5aipe0mmalbx.png"
+	},
+	{
+		"_id": "breakfastinstantfood",
+		"name": "Breakfast & Instant Food",
+		"image": "http://res.cloudinary.com/ddwitlcay/image/upload/v1751414716/category-images/alaskc73fnp6rvq63rki.png"
+	}
+]
