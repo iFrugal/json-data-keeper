@@ -1,0 +1,111 @@
+{
+  "parent": {
+    "id": "pharmawellness",
+    "name": "Pharma & Wellness"
+  },
+  "total": 17,
+  "subcategories": [
+    {
+      "id": "woundcarepainrelief",
+      "name": "Wound Care And Pain Relief",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/woundcarepainrelief.webp"
+    },
+    {
+      "id": "smokingcessation",
+      "name": "Smoking Cessation",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/smokingcessation.webp"
+    },
+    {
+      "id": "skintreatment",
+      "name": "Skin Treatment",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/skintreatment.webp"
+    },
+    {
+      "id": "protensportssupplements",
+      "name": "Proten & Sports supplements",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/protensportssupplements.webp"
+    },
+    {
+      "id": "prepostworkout",
+      "name": "Pre & Post Workout",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/prepostworkout.webp"
+    },
+    {
+      "id": "milkdrinkspharma",
+      "name": "Milk Drinks",
+      "order": 6,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/milkdrinkspharma.webp"
+    },
+    {
+      "id": "oralhealtheyecare",
+      "name": "Oral Health & Eye Care",
+      "order": 7,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/oralhealtheyecare.webp"
+    },
+    {
+      "id": "coughcold",
+      "name": "Cough & Cold",
+      "order": 8,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/coughcold.webp"
+    },
+    {
+      "id": "markssanitizers",
+      "name": "Marks & Sanitizers",
+      "order": 9,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/markssanitizers.webp"
+    },
+    {
+      "id": "herbaldrinkspharma",
+      "name": "Herbal Drinks",
+      "order": 10,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/herbaldrinkspharma.webp"
+    },
+    {
+      "id": "healthcaredevices",
+      "name": "Healthcare Devices",
+      "order": 11,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/healthcaredevices.webp"
+    },
+    {
+      "id": "everydaymedicines",
+      "name": "Everyday Medicines",
+      "order": 12,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/everydaymedicines.webp"
+    },
+    {
+      "id": "digestivecare",
+      "name": "Digestive Care",
+      "order": 13,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/digestivecare.webp"
+    },
+    {
+      "id": "chyawanprash",
+      "name": "Chyawanprash",
+      "order": 14,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/chyawanprash.webp"
+    },
+    {
+      "id": "beautysupplements",
+      "name": "Beauty Supplements",
+      "order": 15,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/beautysupplements.webp"
+    },
+    {
+      "id": "antisepticliquid",
+      "name": "Antiseptic Liquid.webp",
+      "order": 16,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/antisepticliquid.webp"
+    },
+    {
+      "id": "adultdiapers",
+      "name": "Adult Diapers",
+      "order": 17,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/pharmawellness/sub-category/adultdiapers.webp"
+    }
+  ]
+}

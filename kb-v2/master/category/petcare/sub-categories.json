@@ -1,0 +1,39 @@
+{
+  "parent": {
+    "id": "petcare",
+    "name": "Pet Care"
+  },
+  "total": 5,
+  "subcategories": [
+    {
+      "id": "petgrooming",
+      "name": "Pet Grooming",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/petcare/sub-category/petgrooming.png"
+    },
+    {
+      "id": "dogneeds",
+      "name": "Dog Needs",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/petcare/sub-category/dogneeds.png"
+    },
+    {
+      "id": "diversepetfood",
+      "name": "Diverse Pet Food",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/petcare/sub-category/diversepetfood.png"
+    },
+    {
+      "id": "catneeds",
+      "name": "Cat Needs",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/petcare/sub-category/catneeds.png"
+    },
+    {
+      "id": "accessoriesothersupplies",
+      "name": "Accessories & Other Supplies",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/petcare/sub-category/accessoriesothersupplies.png"
+    }
+  ]
+}

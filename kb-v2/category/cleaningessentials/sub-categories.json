@@ -1,0 +1,75 @@
+{
+  "parent": {
+    "id": "cleaningessentials",
+    "name": "Cleaning Essentials"
+  },
+  "total": 11,
+  "subcategories": [
+    {
+      "id": "liquiddetergents",
+      "name": "LIquid Detergents",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/liquiddetergents.webp"
+    },
+    {
+      "id": "laundryadditives",
+      "name": "Laundry Additives",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/laundryadditives.webp"
+    },
+    {
+      "id": "garbagebagsclean",
+      "name": "Garbage Bags",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/garbagebagsclean.webp"
+    },
+    {
+      "id": "freshenersclean",
+      "name": "Fresheners",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/freshenersclean.webp"
+    },
+    {
+      "id": "floorcleanersmore",
+      "name": "Floor Cleaners & More",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/floorcleanersmore.webp"
+    },
+    {
+      "id": "disinfectantmore",
+      "name": "Disinfectant & More",
+      "order": 6,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/disinfectantmore.webp"
+    },
+    {
+      "id": "dishwashinggelspowder",
+      "name": "Dishwashing Gels & Powder",
+      "order": 7,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/dishwashinggelspowder.webp"
+    },
+    {
+      "id": "dishwashingbars",
+      "name": "Dishwashing Bars",
+      "order": 8,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/dishwashingbars.webp"
+    },
+    {
+      "id": "dishwashingaccessories",
+      "name": "Dishwashing Accessories",
+      "order": 9,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/dishwashingaccessories.webp"
+    },
+    {
+      "id": "detergentpowderbars",
+      "name": "Detergent Powder & Bars",
+      "order": 10,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/detergentpowderbars.webp"
+    },
+    {
+      "id": "cleaningtools",
+      "name": "Cleaning Tools",
+      "order": 11,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/cleaningessentials/sub-category/cleaningtools.webp"
+    }
+  ]
+}

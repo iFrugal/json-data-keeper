@@ -1,0 +1,63 @@
+{
+  "parent": {
+    "id": "teacoffehealthdrink",
+    "name": "Tea; Coffe & Health Drink"
+  },
+  "total": 9,
+  "subcategories": [
+    {
+      "id": "tea",
+      "name": "Tea",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/tea.webp"
+    },
+    {
+      "id": "importedteacoffee",
+      "name": "Imported Tea & Coffee",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/importedteacoffee.webp"
+    },
+    {
+      "id": "hotchocolate",
+      "name": "Hot Chocolate",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/hotchocolate.webp"
+    },
+    {
+      "id": "herbaldrinks",
+      "name": "Herbal Drinks",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/herbaldrinks.webp"
+    },
+    {
+      "id": "greenflavouredtea",
+      "name": "Green & Flavoured Tea",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/greenflavouredtea.webp"
+    },
+    {
+      "id": "fruitjuices",
+      "name": "Fruit Juices",
+      "order": 6,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/fruitjuices.webp"
+    },
+    {
+      "id": "energydrinks",
+      "name": "Energy Drinks",
+      "order": 7,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/energydrinks.webp"
+    },
+    {
+      "id": "coldcoffeeicetea",
+      "name": "Cold Coffee & Ice Tea",
+      "order": 8,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/coldcoffeeicetea.webp"
+    },
+    {
+      "id": "coffee",
+      "name": "Coffee",
+      "order": 9,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/sub-category/coffee.png"
+    }
+  ]
+}

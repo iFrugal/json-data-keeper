@@ -1,0 +1,33 @@
+{
+  "parent": {
+    "id": "chickenmeatfish",
+    "name": "Chicken; Meat & Fish."
+  },
+  "total": 4,
+  "subcategories": [
+    {
+      "id": "sausagesalamihammeat",
+      "name": "Sausage; Salami & Ham",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/chickenmeatfish/sub-category/sausagesalamihammeat.webp"
+    },
+    {
+      "id": "fishseafood",
+      "name": "Fish & Seafood",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/chickenmeatfish/sub-category/fishseafood.png"
+    },
+    {
+      "id": "eggsmeat",
+      "name": "Eggs",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/chickenmeatfish/sub-category/eggsmeat.webp"
+    },
+    {
+      "id": "chicken",
+      "name": "Chicken",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/chickenmeatfish/sub-category/chicken.png"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "parent": {
+    "id": "colddrinksjuices",
+    "name": "Cold Drinks & Juices"
+  },
+  "total": 14,
+  "subcategories": [
+    {
+      "id": "watericecubes",
+      "name": "Water & Ice Cubes",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/watericecubes.webp"
+    },
+    {
+      "id": "softdrinks",
+      "name": "Soft Drinks",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/softdrinks.webp"
+    },
+    {
+      "id": "sodamixers",
+      "name": "Soda & Mixers",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/sodamixers.png"
+    },
+    {
+      "id": "purejuices",
+      "name": "Pure Juices",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/purejuices.webp"
+    },
+    {
+      "id": "mongodrinks",
+      "name": "Mongo Drinks",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/mongodrinks.webp"
+    },
+    {
+      "id": "milkdrinksdrinks",
+      "name": "Milk Drinks",
+      "order": 6,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/milkdrinksdrinks.webp"
+    },
+    {
+      "id": "importedbeverages",
+      "name": "Imported Beverages",
+      "order": 7,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/importedbeverages.webp"
+    },
+    {
+      "id": "herbaldrinksdrinks",
+      "name": "Herbal Drinks",
+      "order": 8,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/herbaldrinksdrinks.webp"
+    },
+    {
+      "id": "fruitjuicesdrinks",
+      "name": "Fruit Juices",
+      "order": 9,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/fruitjuicesdrinks.webp"
+    },
+    {
+      "id": "energydrinksdrinks",
+      "name": "Energy Drinks",
+      "order": 10,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/energydrinksdrinks.webp"
+    },
+    {
+      "id": "concentratessyrups",
+      "name": "Concentrates & Syrups",
+      "order": 11,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/concentratessyrups.webp"
+    },
+    {
+      "id": "coldcoffeiceTea",
+      "name": "Cold Coffe & Ice Tea",
+      "order": 12,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/coldcoffeiceTea.webp"
+    },
+    {
+      "id": "coconutwater",
+      "name": "Coconut Water",
+      "order": 13,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/coconutwater.webp"
+    },
+    {
+      "id": "beveragesgiftpacks",
+      "name": "Beverages Gift Packs",
+      "order": 14,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/colddrinksjuices/sub-category/beveragesgiftpacks.webp"
+    }
+  ]
+}

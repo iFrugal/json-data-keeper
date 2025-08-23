@@ -1,0 +1,87 @@
+{
+  "parent": {
+    "id": "babycare",
+    "name": "Baby Care"
+  },
+  "total": 13,
+  "subcategories": [
+    {
+      "id": "skinhaircare",
+      "name": "Skin & Hair Care",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/skinhaircare.webp"
+    },
+    {
+      "id": "oralnasal care",
+      "name": "Oral & Nasal Care",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/oralnasal care.webp"
+    },
+    {
+      "id": "nursing",
+      "name": "Nursing",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/nursing.webp"
+    },
+    {
+      "id": "momcareneeds",
+      "name": "Mom Care Needs",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/momcareneeds.webp"
+    },
+    {
+      "id": "hygiene",
+      "name": "Hygiene",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/hygiene.webp"
+    },
+    {
+      "id": "healthsafety",
+      "name": "Health & Safety",
+      "order": 6,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/healthsafety.webp"
+    },
+    {
+      "id": "feeding",
+      "name": "Feeding",
+      "order": 7,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/feeding.webp"
+    },
+    {
+      "id": "dispersmore",
+      "name": "Dispers & More",
+      "order": 8,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/dispersmore.webp"
+    },
+    {
+      "id": "bathingneeds",
+      "name": "Bathing Needs",
+      "order": 9,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/bathingneeds.webp"
+    },
+    {
+      "id": "babywipes",
+      "name": "Baby Wipes",
+      "order": 10,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/babywipes.webp"
+    },
+    {
+      "id": "babygiftingtoys",
+      "name": "Baby Gifting & Toys",
+      "order": 11,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/babygiftingtoys.png"
+    },
+    {
+      "id": "babyfoodbaby",
+      "name": "Baby Food",
+      "order": 12,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/babyfoodbaby.webp"
+    },
+    {
+      "id": "babyaccessoriesapparel",
+      "name": "Baby Accessories & Apparel",
+      "order": 13,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/babycare/sub-category/babyaccessoriesapparel.png"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "parent": {
+    "id": "snacksmunchies",
+    "name": "Snacks & Munchies"
+  },
+  "total": 12,
+  "subcategories": [
+    {
+      "id": "ruskswafers",
+      "name": "Rusks & Wafers",
+      "order": 1,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/ruskswafers.png"
+    },
+    {
+      "id": "popcorn",
+      "name": "Popcorn",
+      "order": 2,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/popcorn.webp"
+    },
+    {
+      "id": "papadfryums",
+      "name": "Papad & Fryums",
+      "order": 3,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/papadfryums.webp"
+    },
+    {
+      "id": "namkeensnacks",
+      "name": "Namkeen Snacks",
+      "order": 4,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/namkeensnacks.webp"
+    },
+    {
+      "id": "nachos",
+      "name": "Nachos",
+      "order": 5,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/nachos.webp"
+    },
+    {
+      "id": "munchiesgiftpacks",
+      "name": "Munchies Gift Packs",
+      "order": 6,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/munchiesgiftpacks.png"
+    },
+    {
+      "id": "makhanamore",
+      "name": "Makhana & More",
+      "order": 7,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/makhanamore.png"
+    },
+    {
+      "id": "importedsnacks",
+      "name": "Imported Snacks",
+      "order": 8,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/importedsnacks.webp"
+    },
+    {
+      "id": "granola",
+      "name": "Granola",
+      "order": 9,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/granola.webp"
+    },
+    {
+      "id": "chipscrisps",
+      "name": "Chips & Crisps",
+      "order": 10,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/chipscrisps.webp"
+    },
+    {
+      "id": "energybarssnacks",
+      "name": "Energy Bars",
+      "order": 11,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/energybarssnacks.png"
+    },
+    {
+      "id": "bhujiamixtures",
+      "name": "Bhujia & Mixtures",
+      "order": 12,
+      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/sub-category/bhujiamixtures.webp"
+    }
+  ]
+}
