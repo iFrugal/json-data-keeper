@@ -123,7 +123,7 @@ def process_csv_and_download_images(csv_file_path, base_images_dir="images"):
 
 def main():
     """Main execution function"""
-    csv_file_path = "categories.csv"  # Change this to your CSV file path
+    csv_file_path = "categories_fixed.csv"  # Change this to your CSV file path
 
     print("Starting CSV Image Downloader...")
     print(f"Looking for CSV file: {csv_file_path}")
