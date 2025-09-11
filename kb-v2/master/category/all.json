@@ -3,7 +3,7 @@
   "categories": [
     {
       "id": "teacoffehealthdrink",
-      "name": "Tea; Coffe & Health Drink",
+      "name": "Tea, Coffe & Health Drink",
       "order": 1,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/teacoffehealthdrink/teacoffehealthdrink.png"
     },
@@ -57,7 +57,7 @@
     },
     {
       "id": "masalaoilmore",
-      "name": "Masala; Oil & More",
+      "name": "Masala, Oil & More",
       "order": 10,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/masalaoilmore/masalaoilmore.png"
     },
@@ -75,7 +75,7 @@
     },
     {
       "id": "dairybreadeggs",
-      "name": "Dairy; Bread & Eggs",
+      "name": "Dairy, Bread & Eggs",
       "order": 13,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/dairybreadeggs/dairybreadeggs.png"
     },
@@ -105,13 +105,13 @@
     },
     {
       "id": "attaricedal",
-      "name": "Atta; Rice & Dal",
+      "name": "Atta, Rice & Dal",
       "order": 18,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/attaricedal/attaricedal.png"
     },
     {
       "id": "chickenmeatfish",
-      "name": "Chicken; Meat & Fish.",
+      "name": "Chicken, Meat & Fish.",
       "order": 19,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/chickenmeatfish/chickenmeatfish.png"
     },

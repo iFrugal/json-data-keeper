@@ -1,7 +1,7 @@
 {
   "parent": {
     "id": "masalaoilmore",
-    "name": "Masala; Oil & More"
+    "name": "Masala, Oil & More"
   },
   "total": 9,
   "subcategories": [
@@ -13,7 +13,7 @@
     },
     {
       "id": "saltsugarjaggery",
-      "name": "Salt; Sugar & Jaggery",
+      "name": "Salt, Sugar & Jaggery",
       "order": 2,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/masalaoilmore/sub-category/saltsugarjaggery.webp"
     },

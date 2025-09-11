@@ -1,13 +1,13 @@
 {
   "parent": {
     "id": "chickenmeatfish",
-    "name": "Chicken; Meat & Fish."
+    "name": "Chicken, Meat & Fish."
   },
   "total": 4,
   "subcategories": [
     {
       "id": "sausagesalamihammeat",
-      "name": "Sausage; Salami & Ham",
+      "name": "Sausage, Salami & Ham",
       "order": 1,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/chickenmeatfish/sub-category/sausagesalamihammeat.webp"
     },

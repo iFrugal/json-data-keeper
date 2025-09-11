@@ -210,7 +210,7 @@ def validate_csv_structure(csv_file_path):
 
 def main():
     """Main execution function"""
-    csv_file_path = "categories.csv"  # Change this to your CSV file path
+    csv_file_path = "categories_fixed.csv"  # Change this to your CSV file path
     base_dir = "master"               # Change this if you want a different base directory
     base_image_url = "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2"  # Base URL for images
 

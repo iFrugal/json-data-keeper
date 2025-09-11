@@ -1,13 +1,13 @@
 {
   "parent": {
     "id": "attaricedal",
-    "name": "Atta; Rice & Dal"
+    "name": "Atta, Rice & Dal"
   },
   "total": 8,
   "subcategories": [
     {
       "id": "tooruradchana",
-      "name": "Toor; Urad & Chana",
+      "name": "Toor, Urad & Chana",
       "order": 1,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/attaricedal/sub-category/tooruradchana.webp"
     },
@@ -19,13 +19,13 @@
     },
     {
       "id": "rajmachholeothers",
-      "name": "Rajma; Chhole & Others",
+      "name": "Rajma, Chhole & Others",
       "order": 3,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/attaricedal/sub-category/rajmachholeothers.webp"
     },
     {
       "id": "pohadaliyanothergrains",
-      "name": "Poha; Daliya & Other Grains",
+      "name": "Poha, Daliya & Other Grains",
       "order": 4,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/attaricedal/sub-category/pohadaliyanothergrains.png"
     },
@@ -43,7 +43,7 @@
     },
     {
       "id": "besansoojimaida",
-      "name": "Besan; Sooji & Maida.",
+      "name": "Besan, Sooji & Maida.",
       "order": 7,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/attaricedal/sub-category/besansoojimaida.webp"
     },
