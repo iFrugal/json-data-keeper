@@ -1,0 +1,46 @@
+{
+  "parent": {
+    "category_id": "dairybreadeggs",
+    "category_name": "Dairy, Bread & Eggs",
+    "subcategory_id": "flakeskidscereals",
+    "subcategory_name": "Flakes & Kids Cereals"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "68822788f5928b1d05cb013a",
+      "name": "Tata Tea Agni Special Blend Tea",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360223/category-images/xnwiqptw7ovmzbx1hesx.jpg",
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360239/category-images/ryfwkotcr6d4sgw6kttl.jpg",
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360247/category-images/kjqttyakrhhu4pbkxkub.jpg",
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360254/category-images/ieoarqif207ejvdfarrh.jpg",
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360261/category-images/hpfhqiacoqsj1zxxwjfc.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "686aa3fb43c48c6b25c3b722"
+      ],
+      "unit": "1 Kg",
+      "stock": 10,
+      "price": 150,
+      "discount": 1,
+      "description": "\nTata Tea Agni offers a strong cup of tea at an affordable price, energizing people to overcome any challenges along the way. Tata Tea Agni's 10% extra strong leaves give a strong taste in every cup. With a special blend of tea leaves, it offers freshness & rich fullness that will leave you longing for more. Enjoy it whenever you long for a strong cup of tea to awaken your mind and get rejuvenated.\n",
+      "more_details": {
+        "Key Features": "Enjoy a strong cup of tea with Tata Tea Agni Strong Leaf Tea. Make your mornings strong with 10% extra strong leaves. Tata Agni leaf tea has a special blend of tea leaves. Make anytime tea time with a refreshing sip of your favorite tea",
+        "Storage Tips": "Once opened, transfer the contents into an airtight container and keep the lid tightly closed after each use.",
+        "Type": "Leaf Tea",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Tata Consumer Products Ltd, 3rd Floor Block C, Kirloskar Business Park, Hebbal, Bengaluru 560024",
+        "Marketed By": "Tata Consumer Products Ltd, 3rd Floor Block C, Kirloskar Business Park, Hebbal, Bengaluru 560024",
+        "Return Policy": " This Item is non-returnable. For a damaged, defective, incorrect or expired item, you can request a replacement within 72 hours of delivery. In case of an incorrect item, you may raise a replacement or return request only if the item is sealed/ unopened/ unused and in original condition."
+      },
+      "publish": true,
+      "createdAt": "2025-07-24T12:31:04.900Z",
+      "updatedAt": "2025-07-24T12:31:04.900Z",
+      "__v": 0
+    }
+  ]
+}
