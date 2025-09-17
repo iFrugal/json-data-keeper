@@ -5,7 +5,7 @@
     "subcategory_id": "rice",
     "subcategory_name": "Rice"
   },
-  "total": 1,
+  "total": 5,
   "products": [
     {
       "_id": "68822788f5928b1d05cb013a",
@@ -21,7 +21,7 @@
         "686551d0216f5ba9b411d744"
       ],
       "subCategory": [
-        "686aa3fb43c48c6b25c3b722"
+        "rice"
       ],
       "unit": "1 Kg",
       "stock": 10,
@@ -40,6 +40,130 @@
       "publish": true,
       "createdAt": "2025-07-24T12:31:04.900Z",
       "updatedAt": "2025-07-24T12:31:04.900Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0140",
+      "name": "Daawat Basmati Rice Premium",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360400/category-images/daawat-basmati.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "rice"
+      ],
+      "unit": "5 Kg",
+      "stock": 20,
+      "price": 450,
+      "discount": 10,
+      "description": "Premium aged basmati rice with excellent aroma and long grains, ideal for biryani and special dishes.",
+      "more_details": {
+        "Key Features": "Extra long grains, aged for superior flavor and cooking quality.",
+        "Storage Tips": "Store in a cool, dry place. Use airtight container after opening.",
+        "Type": "Basmati Rice",
+        "Shelf Life": "18 Months",
+        "Manufacturer Details": "LT Foods Ltd, Haryana",
+        "Marketed By": "LT Foods Ltd, Haryana",
+        "Return Policy": "Replacement available for damaged or defective items within 72 hours of delivery."
+      },
+      "publish": true,
+      "createdAt": "2025-08-01T08:00:00.000Z",
+      "updatedAt": "2025-08-01T08:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0141",
+      "name": "India Gate Classic Basmati Rice",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360410/category-images/indiagate-rice.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "rice"
+      ],
+      "unit": "2 Kg",
+      "stock": 35,
+      "price": 240,
+      "discount": 5,
+      "description": "Classic basmati rice known for its fragrance and firm texture, suitable for everyday cooking.",
+      "more_details": {
+        "Key Features": "Soft and fluffy texture with aromatic grains.",
+        "Storage Tips": "Keep in airtight container and away from moisture.",
+        "Type": "Basmati Rice",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "KRBL Ltd, Uttar Pradesh",
+        "Marketed By": "KRBL Ltd, Uttar Pradesh",
+        "Return Policy": "Returns accepted for defective items within 72 hours from delivery."
+      },
+      "publish": true,
+      "createdAt": "2025-08-05T09:30:00.000Z",
+      "updatedAt": "2025-08-05T09:30:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0142",
+      "name": "Sona Masoori Rice",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360420/category-images/sona-masoori.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "rice"
+      ],
+      "unit": "1 Kg",
+      "stock": 40,
+      "price": 80,
+      "discount": 0,
+      "description": "Lightweight and aromatic Sona Masoori rice popular for daily consumption and South Indian cuisine.",
+      "more_details": {
+        "Key Features": "Medium grain, lightweight and low in starch, perfect for idlis and upma.",
+        "Storage Tips": "Store in a dry place in sealed container to maintain quality.",
+        "Type": "Medium Grain Rice",
+        "Shelf Life": "9 Months",
+        "Manufacturer Details": "Sharadha Brand, Andhra Pradesh",
+        "Marketed By": "Sharadha Brand, Andhra Pradesh",
+        "Return Policy": "Non-returnable except in case of damaged or defective products."
+      },
+      "publish": true,
+      "createdAt": "2025-08-10T10:15:00.000Z",
+      "updatedAt": "2025-08-10T10:15:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0143",
+      "name": "Ponni Boiled Rice",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360430/category-images/ponni-boiled.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "rice"
+      ],
+      "unit": "2 Kg",
+      "stock": 25,
+      "price": 90,
+      "discount": 3,
+      "description": "Ponni boiled rice is popular for South Indian recipes, offering softness and excellent taste.",
+      "more_details": {
+        "Key Features": "Boiled and polished for better nutrition retention and taste.",
+        "Storage Tips": "Keep in an airtight container in a cool and dry place.",
+        "Type": "Boiled Rice",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Arokya Brand, Tamil Nadu",
+        "Marketed By": "Arokya Brand, Tamil Nadu",
+        "Return Policy": "Replacement allowed for damaged items within 72 hours of delivery."
+      },
+      "publish": true,
+      "createdAt": "2025-08-12T11:00:00.000Z",
+      "updatedAt": "2025-08-12T11:00:00.000Z",
       "__v": 0
     }
   ]
