@@ -5,41 +5,162 @@
     "subcategory_id": "pohadaliyanothergrains",
     "subcategory_name": "Poha, Daliya & Other Grains"
   },
-  "total": 1,
+  "total": 5,
   "products": [
     {
-      "_id": "68822788f5928b1d05cb013a",
-      "name": "Tata Tea Agni Special Blend Tea",
+      "_id": "68822788f5928b1d05cb0201",
+      "name": "Poha - Flattened Rice",
       "image": [
-        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360223/category-images/xnwiqptw7ovmzbx1hesx.jpg",
-        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360239/category-images/ryfwkotcr6d4sgw6kttl.jpg",
-        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360247/category-images/kjqttyakrhhu4pbkxkub.jpg",
-        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360254/category-images/ieoarqif207ejvdfarrh.jpg",
-        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360261/category-images/hpfhqiacoqsj1zxxwjfc.jpg"
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360500/category-images/poha1.jpg",
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360505/category-images/poha2.jpg"
       ],
       "category": [
         "686551d0216f5ba9b411d744"
       ],
       "subCategory": [
-        "686aa3fb43c48c6b25c3b722"
+        "pohadaliyanothergrains"
       ],
       "unit": "1 Kg",
-      "stock": 10,
-      "price": 150,
-      "discount": 1,
-      "description": "\nTata Tea Agni offers a strong cup of tea at an affordable price, energizing people to overcome any challenges along the way. Tata Tea Agni's 10% extra strong leaves give a strong taste in every cup. With a special blend of tea leaves, it offers freshness & rich fullness that will leave you longing for more. Enjoy it whenever you long for a strong cup of tea to awaken your mind and get rejuvenated.\n",
+      "stock": 50,
+      "price": 70,
+      "discount": 0,
+      "description": "\nHigh quality Poha (Flattened Rice), ideal for quick and healthy breakfast and snacks.\n",
       "more_details": {
-        "Key Features": "Enjoy a strong cup of tea with Tata Tea Agni Strong Leaf Tea. Make your mornings strong with 10% extra strong leaves. Tata Agni leaf tea has a special blend of tea leaves. Make anytime tea time with a refreshing sip of your favorite tea",
-        "Storage Tips": "Once opened, transfer the contents into an airtight container and keep the lid tightly closed after each use.",
-        "Type": "Leaf Tea",
-        "Shelf Life": "12 Months",
-        "Manufacturer Details": "Tata Consumer Products Ltd, 3rd Floor Block C, Kirloskar Business Park, Hebbal, Bengaluru 560024",
-        "Marketed By": "Tata Consumer Products Ltd, 3rd Floor Block C, Kirloskar Business Park, Hebbal, Bengaluru 560024",
-        "Return Policy": " This Item is non-returnable. For a damaged, defective, incorrect or expired item, you can request a replacement within 72 hours of delivery. In case of an incorrect item, you may raise a replacement or return request only if the item is sealed/ unopened/ unused and in original condition."
+        "Key Features": "Lightweight flakes, easy to digest, suitable for weight watchers and diabetics.",
+        "Storage Tips": "Keep in air-tight container to avoid moisture.",
+        "Type": "Flattened Rice",
+        "Shelf Life": "6 Months",
+        "Manufacturer Details": "Grain House Pvt Ltd, Maharashtra",
+        "Marketed By": "Grain House Pvt Ltd, Maharashtra",
+        "Return Policy": "Non-returnable except for damaged or defective items within 72 hours."
       },
       "publish": true,
-      "createdAt": "2025-07-24T12:31:04.900Z",
-      "updatedAt": "2025-07-24T12:31:04.900Z",
+      "createdAt": "2025-08-20T10:00:00.000Z",
+      "updatedAt": "2025-08-20T10:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0202",
+      "name": "Daliya - Broken Wheat",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360510/category-images/daliya1.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "pohadaliyanothergrains"
+      ],
+      "unit": "1 Kg",
+      "stock": 40,
+      "price": 90,
+      "discount": 5,
+      "description": "\nPremium quality Daliya (Broken Wheat), rich in fiber and nutrients for healthy meals.\n",
+      "more_details": {
+        "Key Features": "High fiber content, helps in digestion and weight management.",
+        "Storage Tips": "Store in a cool, dry place in airtight packaging.",
+        "Type": "Broken Wheat",
+        "Shelf Life": "8 Months",
+        "Manufacturer Details": "Healthy Grains Ltd, Karnataka",
+        "Marketed By": "Healthy Grains Ltd, Karnataka",
+        "Return Policy": "Replacement available within 72 hours on valid defective claims."
+      },
+      "publish": true,
+      "createdAt": "2025-08-22T11:30:00.000Z",
+      "updatedAt": "2025-08-22T11:30:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0203",
+      "name": "Ragi Flour - Finger Millet",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360520/category-images/ragi1.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "pohadaliyanothergrains"
+      ],
+      "unit": "500 gms",
+      "stock": 30,
+      "price": 110,
+      "discount": 2,
+      "description": "\nNutrient-rich Ragi Flour (Finger Millet) for healthy baking and cooking.\n",
+      "more_details": {
+        "Key Features": "High calcium and fiber, gluten-free and suitable for all age groups.",
+        "Storage Tips": "Keep in airtight container, away from moisture and direct sunlight.",
+        "Type": "Millet Flour",
+        "Shelf Life": "9 Months",
+        "Manufacturer Details": "Millet Farms, Tamil Nadu",
+        "Marketed By": "Millet Farms, Tamil Nadu",
+        "Return Policy": "Returns accepted for defective or damaged packages within 72 hours."
+      },
+      "publish": true,
+      "createdAt": "2025-08-25T09:45:00.000Z",
+      "updatedAt": "2025-08-25T09:45:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0204",
+      "name": "Barley Grain",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360530/category-images/barley1.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "pohadaliyanothergrains"
+      ],
+      "unit": "1 Kg",
+      "stock": 20,
+      "price": 85,
+      "discount": 0,
+      "description": "\nWhole Barley grains, nutritious and ideal for soups, salads, and healthy diets.\n",
+      "more_details": {
+        "Key Features": "Rich in fiber and antioxidants, supports heart health.",
+        "Storage Tips": "Store in sealed pack in cool, dry area.",
+        "Type": "Grain",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Nutra Grain Pvt Ltd, Punjab",
+        "Marketed By": "Nutra Grain Pvt Ltd, Punjab",
+        "Return Policy": "Non-returnable except for damaged product claims within 72 hours."
+      },
+      "publish": true,
+      "createdAt": "2025-08-27T10:30:00.000Z",
+      "updatedAt": "2025-08-27T10:30:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb0205",
+      "name": "Jowar Grain",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360540/category-images/jowar1.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "pohadaliyanothergrains"
+      ],
+      "unit": "1 Kg",
+      "stock": 25,
+      "price": 75,
+      "discount": 1,
+      "description": "\nQuality Jowar grain for traditional uses, high in fiber and naturally gluten-free.\n",
+      "more_details": {
+        "Key Features": "Supports digestive health, gluten-free, and rich in proteins.",
+        "Storage Tips": "Store in airtight container away from direct sunlight.",
+        "Type": "Grain",
+        "Shelf Life": "10 Months",
+        "Manufacturer Details": "Grain House Pvt Ltd, Maharashtra",
+        "Marketed By": "Grain House Pvt Ltd, Maharashtra",
+        "Return Policy": "Replacement allowed only for defective items within 72 hours of delivery."
+      },
+      "publish": true,
+      "createdAt": "2025-08-30T08:15:00.000Z",
+      "updatedAt": "2025-08-30T08:15:00.000Z",
       "__v": 0
     }
   ]
