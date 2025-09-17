@@ -5,7 +5,7 @@
     "subcategory_id": "tooruradchana",
     "subcategory_name": "Toor, Urad & Chana"
   },
-  "total": 1,
+  "total": 3,
   "products": [
     {
       "_id": "68822788f5928b1d05cb013a",
@@ -40,6 +40,69 @@
       "publish": true,
       "createdAt": "2025-07-24T12:31:04.900Z",
       "updatedAt": "2025-07-24T12:31:04.900Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb013b",
+      "name": "Organic Toor Dal",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360300/category-images/toordal1.jpg",
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360305/category-images/toordal2.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "686aa3fb43c48c6b25c3b722"
+      ],
+      "unit": "1 Kg",
+      "stock": 50,
+      "price": 130,
+      "discount": 2,
+      "description": "\nHigh-quality Organic Toor Dal, naturally rich in protein and perfect for nutritious meals.\n",
+      "more_details": {
+        "Key Features": "Certified organic toor dal, free from pesticides and chemicals with rich taste and aroma.",
+        "Storage Tips": "Store in a cool, dry place in airtight packaging after opening to maintain freshness.",
+        "Type": "Pulses",
+        "Shelf Life": "6 Months",
+        "Manufacturer Details": "Organic Farmhouse Pvt Ltd, Karnataka",
+        "Marketed By": "Organic Farmhouse Pvt Ltd, Karnataka",
+        "Return Policy": " Non-returnable except for damaged or defective on arrival. Replacement available within 72 hours."
+      },
+      "publish": true,
+      "createdAt": "2025-08-10T10:00:00.000Z",
+      "updatedAt": "2025-08-10T10:00:00.000Z",
+      "__v": 0
+    },
+    {
+      "_id": "68822788f5928b1d05cb013c",
+      "name": "Premium Urad Dal",
+      "image": [
+        "http://res.cloudinary.com/ddwitlcay/image/upload/v1753360310/category-images/uraddal1.jpg"
+      ],
+      "category": [
+        "686551d0216f5ba9b411d744"
+      ],
+      "subCategory": [
+        "686aa3fb43c48c6b25c3b722"
+      ],
+      "unit": "500 gms",
+      "stock": 30,
+      "price": 140,
+      "discount": 0,
+      "description": "\nClean and premium grade Urad Dal sourced and packed fresh to guarantee quality and taste.\n",
+      "more_details": {
+        "Key Features": "Well cleaned, free from husk and dirt, ideal for traditional recipes and healthy meals.",
+        "Storage Tips": "Keep in airtight container away from moisture and direct sunlight.",
+        "Type": "Pulses",
+        "Shelf Life": "8 Months",
+        "Manufacturer Details": "Dal Exporters Ltd., Hyderabad",
+        "Marketed By": "Dal Exporters Ltd., Hyderabad",
+        "Return Policy": " Replacement allowed for damaged or defective products within 72 hours of receipt."
+      },
+      "publish": true,
+      "createdAt": "2025-08-15T09:30:00.000Z",
+      "updatedAt": "2025-08-15T09:30:00.000Z",
       "__v": 0
     }
   ]
