@@ -10,7 +10,12 @@
     {
       "_id": "jeera5",
       "name": "Jeera",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2016/06/29/02/23/cumin-1487527_960_720.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cumin-seeds.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/09/00/41/spices-2601933_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2019/07/01/16/27/cumin-4315184_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "50 GM",
@@ -26,7 +31,12 @@
     {
       "_id": "ajwain6",
       "name": "Ajwain",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2020/08/12/18/07/anise-5485889_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2018/04/21/22/56/spice-3335025_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/11/18/12/27/anise-1836803_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2021/11/11/22/03/anise-6783386_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "50 GM",
@@ -42,7 +52,12 @@
     {
       "_id": "poppyseed7",
       "name": "Poppy Seed",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2017/11/06/23/11/poppy-seeds-2922023_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/04/02/18/00/poppy-seeds-704648_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2012/04/01/18/02/poppy-seeds-23727_960_720.png",
+        "https://cdn.pixabay.com/photo/2017/09/29/17/24/poppy-seed-2792213_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "50 GM",
@@ -58,7 +73,12 @@
     {
       "_id": "saunf8",
       "name": "Saunf",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2018/11/19/22/36/fennel-seeds-3820941_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/07/27/10/54/saunf-2549259_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2019/12/27/22/45/fennel-4722331_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/02/13/12/26/fennel-seeds-1199676_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "50 GM",
@@ -74,7 +94,12 @@
     {
       "_id": "sarso9",
       "name": "Sarso",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2018/11/29/20/09/mustard-seeds-3843138_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/11/30/13/24/mustard-seeds-1876157_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/11/06/20/58/mustard-seeds-1027328_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2019/07/03/19/08/mustard-seeds-4318472_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "100 GM",
@@ -90,7 +115,12 @@
     {
       "_id": "sadasarso10",
       "name": "Sada Sarso",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2018/11/29/20/09/mustard-seeds-3843138_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/11/30/13/24/mustard-seeds-1876157_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/11/06/20/58/mustard-seeds-1027328_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2019/07/03/19/08/mustard-seeds-4318472_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "100 GM",
@@ -106,7 +136,12 @@
     {
       "_id": "methi11",
       "name": "Methi",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2018/07/25/18/49/fenugreek-3563962_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/19/18/28/fenugreek-seeds-2651705_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/07/18/20/54/fenugreek-seeds-851289_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/07/12/21/14/seeds-2492488_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "100 GM",
@@ -122,7 +157,12 @@
     {
       "_id": "panchphoran12",
       "name": "Panch Phoran",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2020/01/24/11/10/indian-spices-4787749_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2019/09/13/10/12/spices-4472699_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/10/12/20/49/indian-spices-2843585_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/03/05/22/36/spices-660665_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "100 GM",
@@ -138,7 +178,12 @@
     {
       "_id": "clove13",
       "name": "Clove",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2017/03/08/23/57/cloves-2126199_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/03/11/23/15/clove-1249566_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2014/12/27/20/02/cloves-581496_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/01/31/16/23/cloves-2029739_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "50 GM",
@@ -154,7 +199,12 @@
     {
       "_id": "sadatil14",
       "name": "Sada Til",
-      "image": [],
+      "image": [
+        "https://cdn.pixabay.com/photo/2019/01/05/15/06/sesame-seeds-3917372_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2019/04/23/18/51/sesame-seeds-4152415_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/12/07/10/03/sesame-seeds-1898376_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2018/05/12/08/43/sesame-seeds-3398294_960_720.jpg"
+      ],
       "category": ["spices"],
       "subCategory": ["whole"],
       "unit": "50 GM",
