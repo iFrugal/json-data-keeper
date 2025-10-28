@@ -1,0 +1,75 @@
+{
+  "parent": {
+    "category_id": "spices",
+    "category_name": "SPICES",
+    "subcategory_id": "powder",
+    "subcategory_name": "POWDER"
+  },
+  "total": 4,
+  "products": [
+    {
+      "_id": "redchillypowder1",
+      "name": "Red Chilly Powder",
+      "image": ["https://media.gettyimages.com/id/1215382589/photo/paprika-powder.jpg?s=612x612&w=0&k=20&c=axmUtIi0N_XDYpchJAZ_haZDRHpLd1eKYcxHSjF5VTY=","https://media.gettyimages.com/id/1631641829/photo/curry-powder-on-serving-spoon.jpg?s=612x612&w=0&k=20&c=BhS25_miQwsyJVkdMAAuEHk66cL3O-d_AvWZv4Sz_H4="],
+      "category": ["spices"],
+      "subCategory": ["powder"],
+      "unit": "50 GM",
+      "stock": 0,
+      "price": 25,
+      "discount": 0,
+      "description": "Red Chilly Powder",
+      "more_details": {},
+      "publish": true,
+      "createdAt": "2025-10-28T12:00:00.000Z",
+      "updatedAt": "2025-10-28T12:00:00.000Z"
+    },
+    {
+      "_id": "turmericpowder2",
+      "name": "Turmeric Powder",
+      "image": ["https://media.gettyimages.com/id/656523272/photo/close-up-view-of-turmeric-powder-in-wooden-spoon.jpg?s=612x612&w=0&k=20&c=CXODI111bz4jyJiXVVoTwq3sHTl2bXATZP8JELGVYog="],
+      "category": ["spices"],
+      "subCategory": ["powder"],
+      "unit": "50 GM",
+      "stock": 0,
+      "price": 25,
+      "discount": 0,
+      "description": "Turmeric Powder",
+      "more_details": {},
+      "publish": true,
+      "createdAt": "2025-10-28T12:00:00.000Z",
+      "updatedAt": "2025-10-28T12:00:00.000Z"
+    },
+    {
+      "_id": "dhaniyapowder3",
+      "name": "Dhaniya Powder",
+      "image": ["https://media.istockphoto.com/id/1158646949/photo/garam-masala-powder.jpg?s=612x612&w=0&k=20&c=DnNPukaJDXzZxLWs8FpANYay7z_CcGlO1hORBSLDlBk="],
+      "category": ["spices"],
+      "subCategory": ["powder"],
+      "unit": "50 GM",
+      "stock": 0,
+      "price": 25,
+      "discount": 0,
+      "description": "Dhaniya Powder",
+      "more_details": {},
+      "publish": true,
+      "createdAt": "2025-10-28T12:00:00.000Z",
+      "updatedAt": "2025-10-28T12:00:00.000Z"
+    },
+    {
+      "_id": "jeerapowder4",
+      "name": "Jeera Powder",
+      "image": ["https://media.istockphoto.com/id/474947609/photo/jeera-powder.jpg?s=612x612&w=0&k=20&c=C0TclbSiMS3wYmCTDOacnw03vhNSQKSesPvGKukh2Yo="],
+      "category": ["spices"],
+      "subCategory": ["powder"],
+      "unit": "50 GM",
+      "stock": 0,
+      "price": 45,
+      "discount": 0,
+      "description": "Jeera Powder",
+      "more_details": {},
+      "publish": true,
+      "createdAt": "2025-10-28T12:00:00.000Z",
+      "updatedAt": "2025-10-28T12:00:00.000Z"
+    }
+  ]
+}
