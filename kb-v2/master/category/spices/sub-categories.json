@@ -1,1 +1,22 @@
 
+{
+  "parent": {
+    "id": "spices",
+    "name": "Spices"
+  },
+  "total": 2,
+  "subcategories": [
+    {
+      "id": "whole",
+      "name": "Whole",
+      "order": 1,
+      "image": "https://www.shutterstock.com/image-photo/variety-whole-textured-indian-spices-260nw-2475149795.jpg"
+    },
+    {
+      "id": "powder",
+      "name": "Powder",
+      "order": 2,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwXZKjV2ZuOd1JHRbpv8-PJvyT-KjHcdi2itTQ4lajMp4L_zYC_aJA9WQbdzTI7OdB3E&usqp=CAU"
+    }
+  ]
+}
