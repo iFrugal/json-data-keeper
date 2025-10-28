@@ -1,6 +1,12 @@
 {
-  "total": 20,
+  "total": 21,
   "categories": [
+     {
+      "id": "spices",
+      "name": "Spices",
+      "order": 0,
+      "image": "https://media.istockphoto.com/id/1227198304/photo/colourful-background-from-various-herbs-and-spices-for-cooking-in-bowls.jpg?s=612x612&w=0&k=20&c=OtzOlSOjQ0a9giYM0FKyRJqIsIvWguEZv9pCzjKs5vo="
+    },
     {
       "id": "teacoffehealthdrink",
       "name": "Tea, Coffe & Health Drink",
@@ -121,5 +127,6 @@
       "order": 20,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/breakfastinstantfood/breakfastinstantfood.png"
     }
+    
   ]
 }
