@@ -1,9 +1,9 @@
 {
   "parent": {
     "category_id": "spices",
-    "category_name": "SPICES",
+    "category_name": "Spices",
     "subcategory_id": "whole",
-    "subcategory_name": "WHOLE"
+    "subcategory_name": "Whole"
   },
   "total": 10,
   "products": [
@@ -16,11 +16,15 @@
         "https://cdn.pixabay.com/photo/2017/08/09/00/41/spices-2601933_960_720.jpg",
         "https://cdn.pixabay.com/photo/2019/07/01/16/27/cumin-4315184_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "50 GM",
       "stock": 100,
-      "price": 45,
+      "price": 46,
       "discount": 0,
       "description": "Jeera",
       "more_details": {},
@@ -37,8 +41,12 @@
         "https://cdn.pixabay.com/photo/2016/11/18/12/27/anise-1836803_960_720.jpg",
         "https://cdn.pixabay.com/photo/2021/11/11/22/03/anise-6783386_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "50 GM",
       "stock": 100,
       "price": 28,
@@ -58,8 +66,12 @@
         "https://cdn.pixabay.com/photo/2012/04/01/18/02/poppy-seeds-23727_960_720.png",
         "https://cdn.pixabay.com/photo/2017/09/29/17/24/poppy-seed-2792213_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "50 GM",
       "stock": 100,
       "price": 105,
@@ -79,8 +91,12 @@
         "https://cdn.pixabay.com/photo/2019/12/27/22/45/fennel-4722331_960_720.jpg",
         "https://cdn.pixabay.com/photo/2016/02/13/12/26/fennel-seeds-1199676_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "50 GM",
       "stock": 100,
       "price": 20,
@@ -100,8 +116,12 @@
         "https://cdn.pixabay.com/photo/2015/11/06/20/58/mustard-seeds-1027328_960_720.jpg",
         "https://cdn.pixabay.com/photo/2019/07/03/19/08/mustard-seeds-4318472_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "100 GM",
       "stock": 100,
       "price": 20,
@@ -121,8 +141,12 @@
         "https://cdn.pixabay.com/photo/2015/11/06/20/58/mustard-seeds-1027328_960_720.jpg",
         "https://cdn.pixabay.com/photo/2019/07/03/19/08/mustard-seeds-4318472_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "100 GM",
       "stock": 100,
       "price": 20,
@@ -142,8 +166,12 @@
         "https://cdn.pixabay.com/photo/2015/07/18/20/54/fenugreek-seeds-851289_960_720.jpg",
         "https://cdn.pixabay.com/photo/2017/07/12/21/14/seeds-2492488_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "100 GM",
       "stock": 100,
       "price": 20,
@@ -163,8 +191,12 @@
         "https://cdn.pixabay.com/photo/2017/10/12/20/49/indian-spices-2843585_960_720.jpg",
         "https://cdn.pixabay.com/photo/2015/03/05/22/36/spices-660665_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "100 GM",
       "stock": 100,
       "price": 20,
@@ -184,8 +216,12 @@
         "https://cdn.pixabay.com/photo/2014/12/27/20/02/cloves-581496_960_720.jpg",
         "https://cdn.pixabay.com/photo/2017/01/31/16/23/cloves-2029739_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "50 GM",
       "stock": 100,
       "price": 120,
@@ -205,8 +241,12 @@
         "https://cdn.pixabay.com/photo/2016/12/07/10/03/sesame-seeds-1898376_960_720.jpg",
         "https://cdn.pixabay.com/photo/2018/05/12/08/43/sesame-seeds-3398294_960_720.jpg"
       ],
-      "category": ["spices"],
-      "subCategory": ["whole"],
+      "category": [
+        "spices"
+      ],
+      "subCategory": [
+        "whole"
+      ],
       "unit": "50 GM",
       "stock": 100,
       "price": 20,
