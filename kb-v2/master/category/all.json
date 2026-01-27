@@ -1,7 +1,7 @@
 {
-  "total": 21,
+  "total": 20,
   "categories": [
-     {
+    {
       "id": "spices",
       "name": "Spices",
       "order": 0,
@@ -68,12 +68,6 @@
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/masalaoilmore/masalaoilmore.png"
     },
     {
-      "id": "homeoffice",
-      "name": "Home & Office",
-      "order": 11,
-      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/homeoffice/homeoffice.png"
-    },
-    {
       "id": "fruitsvegetables",
       "name": "Fruits & Vegetables",
       "order": 12,
@@ -127,6 +121,5 @@
       "order": 20,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/breakfastinstantfood/breakfastinstantfood.png"
     }
-    
   ]
 }
