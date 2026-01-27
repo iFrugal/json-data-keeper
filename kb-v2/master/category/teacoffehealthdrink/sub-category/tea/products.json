@@ -25,7 +25,7 @@
       ],
       "unit": "1 Kg",
       "stock": 10,
-      "price": 150,
+      "price": 149,
       "discount": 1,
       "description": "\nTata Tea Agni offers a strong cup of tea at an affordable price, energizing people to overcome any challenges along the way. Tata Tea Agni's 10% extra strong leaves give a strong taste in every cup. With a special blend of tea leaves, it offers freshness & rich fullness that will leave you longing for more. Enjoy it whenever you long for a strong cup of tea to awaken your mind and get rejuvenated.\n",
       "more_details": {
@@ -39,7 +39,7 @@
       },
       "publish": true,
       "createdAt": "2025-07-24T12:31:04.900Z",
-      "updatedAt": "2025-07-24T12:31:04.900Z",
+      "updatedAt": "2026-01-27T03:20:57.062Z",
       "__v": 0
     }
   ]
