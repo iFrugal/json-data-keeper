@@ -1,5 +1,5 @@
 {
-  "total": 20,
+  "total": 19,
   "categories": [
     {
       "id": "spices",
@@ -24,12 +24,6 @@
       "name": "Snacks & Munchies",
       "order": 3,
       "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/snacksmunchies/snacksmunchies.png"
-    },
-    {
-      "id": "saucesspreads",
-      "name": "Sauces & Spreads",
-      "order": 4,
-      "image": "https://cdn.jsdelivr.net/gh/iFrugal/json-data-keeper@main/kb-v2/images/category/saucesspreads/saucesspreads.png"
     },
     {
       "id": "pharmawellness",
