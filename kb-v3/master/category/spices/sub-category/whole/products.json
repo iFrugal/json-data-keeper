@@ -11,7 +11,7 @@
       "_id": "prod_1772876915276",
       "name": "Turmeric (Haldi)",
       "image": [],
-      "unit": "1 Piece",
+      "unit": "1 kg",
       "stock": 50,
       "price": 1000,
       "discount": 5,
@@ -27,7 +27,8 @@
       },
       "publish": true,
       "createdAt": "2026-03-07T09:48:35.276Z",
-      "updatedAt": "2026-03-07T09:48:35.276Z"
+      "updatedAt": "2026-03-07T11:33:05.594Z",
+      "updatedBy": "abhijeet030789@gmail.com"
     },
     {
       "_id": "prod_1772880397968",
