@@ -16,7 +16,7 @@
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893484550_2.webp?t=1772893485724"
       ],
       "unit": "50 g",
-      "stock": 0,
+      "stock": 10,
       "price": 100,
       "discount": 0,
       "description": "Jeera",
@@ -31,7 +31,7 @@
       },
       "publish": true,
       "createdAt": "2026-03-07T13:38:19.513Z",
-      "updatedAt": "2026-03-07T14:24:45.724Z",
+      "updatedAt": "2026-03-07T14:25:04.502Z",
       "updatedBy": "abhijeet030789@gmail.com"
     }
   ]
