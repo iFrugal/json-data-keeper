@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "testcategory",
+    "name": "test category"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "jeera",
+      "name": "jeera",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera.png?t=1772890596974",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
