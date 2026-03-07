@@ -1,0 +1,33 @@
+{
+  "parent": {
+    "category_id": "spices",
+    "category_name": "Spices",
+    "subcategory_id": "whole",
+    "subcategory_name": "Whole"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1772876915276",
+      "name": "Turmeric (Haldi)",
+      "image": [],
+      "unit": "1 Piece",
+      "stock": 50,
+      "price": 1000,
+      "discount": 5,
+      "description": "Haldi is very good",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-03-07T09:48:35.276Z",
+      "updatedAt": "2026-03-07T09:48:35.276Z"
+    }
+  ]
+}
