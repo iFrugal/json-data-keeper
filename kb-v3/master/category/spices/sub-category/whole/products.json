@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Whole"
   },
-  "total": 1,
+  "total": 2,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -28,6 +28,29 @@
       "publish": true,
       "createdAt": "2026-03-07T09:48:35.276Z",
       "updatedAt": "2026-03-07T09:48:35.276Z"
+    },
+    {
+      "_id": "prod_1772880397968",
+      "name": "Lal Mirch",
+      "image": [],
+      "unit": "100 g",
+      "stock": 10,
+      "price": 200,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-03-07T10:46:37.968Z",
+      "updatedAt": "2026-03-07T10:46:37.968Z",
+      "updatedBy": "abhijeet030789@gmail.com"
     }
   ]
 }
