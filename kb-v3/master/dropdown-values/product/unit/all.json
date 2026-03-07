@@ -1,34 +1,238 @@
 {
   "total": 28,
-  "types": ["weight", "volume", "quantity", "packaging"],
+  "types": [
+    "weight",
+    "volume",
+    "quantity",
+    "packaging",
+    "type1"
+  ],
   "units": [
-    { "id": "10-g", "label": "10 g", "order": 1, "types": ["weight"] },
-    { "id": "25-g", "label": "25 g", "order": 2, "types": ["weight"] },
-    { "id": "50-g", "label": "50 g", "order": 3, "types": ["weight"] },
-    { "id": "100-g", "label": "100 g", "order": 4, "types": ["weight"] },
-    { "id": "200-g", "label": "200 g", "order": 5, "types": ["weight"] },
-    { "id": "250-g", "label": "250 g", "order": 6, "types": ["weight"] },
-    { "id": "500-g", "label": "500 g", "order": 7, "types": ["weight"] },
-    { "id": "1-kg", "label": "1 kg", "order": 8, "types": ["weight"] },
-    { "id": "2-kg", "label": "2 kg", "order": 9, "types": ["weight"] },
-    { "id": "5-kg", "label": "5 kg", "order": 10, "types": ["weight"] },
-    { "id": "10-kg", "label": "10 kg", "order": 11, "types": ["weight"] },
-    { "id": "50-ml", "label": "50 ml", "order": 12, "types": ["volume"] },
-    { "id": "100-ml", "label": "100 ml", "order": 13, "types": ["volume"] },
-    { "id": "200-ml", "label": "200 ml", "order": 14, "types": ["volume"] },
-    { "id": "250-ml", "label": "250 ml", "order": 15, "types": ["volume"] },
-    { "id": "500-ml", "label": "500 ml", "order": 16, "types": ["volume"] },
-    { "id": "1-l", "label": "1 L", "order": 17, "types": ["volume"] },
-    { "id": "2-l", "label": "2 L", "order": 18, "types": ["volume"] },
-    { "id": "5-l", "label": "5 L", "order": 19, "types": ["volume"] },
-    { "id": "1-pc", "label": "1 pc", "order": 20, "types": ["quantity"] },
-    { "id": "2-pcs", "label": "2 pcs", "order": 21, "types": ["quantity"] },
-    { "id": "3-pcs", "label": "3 pcs", "order": 22, "types": ["quantity"] },
-    { "id": "4-pcs", "label": "4 pcs", "order": 23, "types": ["quantity"] },
-    { "id": "6-pcs", "label": "6 pcs", "order": 24, "types": ["quantity"] },
-    { "id": "12-pcs", "label": "12 pcs", "order": 25, "types": ["quantity"] },
-    { "id": "1-pack", "label": "1 pack", "order": 26, "types": ["packaging", "quantity"] },
-    { "id": "1-box", "label": "1 box", "order": 27, "types": ["packaging", "quantity"] },
-    { "id": "1-pouch", "label": "1 pouch", "order": 28, "types": ["packaging"] }
+    {
+      "id": "10-g",
+      "label": "10 g",
+      "order": 1,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "25-g",
+      "label": "25 g",
+      "order": 2,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "50-g",
+      "label": "50 g",
+      "order": 3,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "100-g",
+      "label": "100 g",
+      "order": 4,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "200-g",
+      "label": "200 g",
+      "order": 5,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "250-g",
+      "label": "250 g",
+      "order": 6,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "500-g",
+      "label": "500 g",
+      "order": 7,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "1-kg",
+      "label": "1 kg",
+      "order": 8,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "2-kg",
+      "label": "2 kg",
+      "order": 9,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "5-kg",
+      "label": "5 kg",
+      "order": 10,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "10-kg",
+      "label": "10 kg",
+      "order": 11,
+      "types": [
+        "weight"
+      ]
+    },
+    {
+      "id": "50-ml",
+      "label": "50 ml",
+      "order": 12,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "100-ml",
+      "label": "100 ml",
+      "order": 13,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "200-ml",
+      "label": "200 ml",
+      "order": 14,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "250-ml",
+      "label": "250 ml",
+      "order": 15,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "500-ml",
+      "label": "500 ml",
+      "order": 16,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "1-l",
+      "label": "1 L",
+      "order": 17,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "2-l",
+      "label": "2 L",
+      "order": 18,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "5-l",
+      "label": "5 L",
+      "order": 19,
+      "types": [
+        "volume"
+      ]
+    },
+    {
+      "id": "1-pc",
+      "label": "1 pc",
+      "order": 20,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "2-pcs",
+      "label": "2 pcs",
+      "order": 21,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "3-pcs",
+      "label": "3 pcs",
+      "order": 22,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "4-pcs",
+      "label": "4 pcs",
+      "order": 23,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "6-pcs",
+      "label": "6 pcs",
+      "order": 24,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "12-pcs",
+      "label": "12 pcs",
+      "order": 25,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
+      "id": "1-pack",
+      "label": "1 pack",
+      "order": 26,
+      "types": [
+        "packaging",
+        "quantity"
+      ]
+    },
+    {
+      "id": "1-box",
+      "label": "1 box",
+      "order": 27,
+      "types": [
+        "packaging",
+        "quantity"
+      ]
+    },
+    {
+      "id": "1-pouch",
+      "label": "1 pouch",
+      "order": 28,
+      "types": [
+        "packaging"
+      ]
+    }
   ]
 }
