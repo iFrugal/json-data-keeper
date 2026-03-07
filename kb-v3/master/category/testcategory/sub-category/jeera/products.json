@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "testcategory",
+    "category_name": "test category",
+    "subcategory_id": "jeera",
+    "subcategory_name": "jeera"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1772890695675",
+      "name": "Jeera 50gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_0.png?t=1772890699513"
+      ],
+      "unit": "50 g",
+      "stock": 0,
+      "price": 100,
+      "discount": 0,
+      "description": "Jeera",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-03-07T13:38:19.513Z",
+      "updatedAt": "2026-03-07T13:38:19.513Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
