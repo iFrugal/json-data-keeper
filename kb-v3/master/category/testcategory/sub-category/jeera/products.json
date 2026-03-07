@@ -11,10 +11,9 @@
       "_id": "prod_1772890695675",
       "name": "Jeera 50gm",
       "image": [
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_0.png?t=1772890699513",
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893275687_1.webp?t=1772893277617",
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893277617_2.webp?t=1772893279146",
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893279146_3.webp?t=1772893280685"
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893481783_0.webp?t=1772893483232",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893483232_1.webp?t=1772893484550",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/testcategory/sub-category/jeera/products/prod_1772890695675_1772893484550_2.webp?t=1772893485724"
       ],
       "unit": "50 g",
       "stock": 0,
@@ -32,7 +31,7 @@
       },
       "publish": true,
       "createdAt": "2026-03-07T13:38:19.513Z",
-      "updatedAt": "2026-03-07T14:21:20.685Z",
+      "updatedAt": "2026-03-07T14:24:45.724Z",
       "updatedBy": "abhijeet030789@gmail.com"
     }
   ]
