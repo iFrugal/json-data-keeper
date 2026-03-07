@@ -1,0 +1,15 @@
+{
+  "parent": {
+    "id": "spices",
+    "name": "Spices"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "whole",
+      "name": "Whole",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole.webp?t=1772876846046"
+    }
+  ]
+}
