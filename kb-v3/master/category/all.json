@@ -1,0 +1,12 @@
+{
+  "total": 1,
+  "categories": [
+    {
+      "id": "spices",
+      "name": "Spices",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/spices.webp?t=1772876098731",
+      "bgColor": "#DFE3F3"
+    }
+  ]
+}
