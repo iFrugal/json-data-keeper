@@ -34,7 +34,7 @@
     },
     {
       "_id": "prod_1774023660683",
-      "name": "doc choice 750gm bot",
+      "name": "doc choice kgmo 750gm bot",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1774023660683_0.jpeg?t=1774023662372"
       ],
@@ -54,7 +54,7 @@
       },
       "publish": true,
       "createdAt": "2026-03-20T16:21:02.372Z",
-      "updatedAt": "2026-03-20T16:21:02.372Z",
+      "updatedAt": "2026-03-20T16:33:00.626Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
