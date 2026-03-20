@@ -3,7 +3,7 @@
     "id": "oils",
     "name": "Oils"
   },
-  "total": 2,
+  "total": 3,
   "subcategories": [
     {
       "id": "mustred",
@@ -17,6 +17,13 @@
       "name": "SOYABIN",
       "order": 100,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/soyabin.jpeg?t=1774023157025",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "Soyabin",
+      "name": "Best choice 650gm Pouch",
+      "order": 100,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/Soyabin.jpeg?t=1774027479974",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
