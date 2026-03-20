@@ -1,5 +1,5 @@
 {
-  "total": 2,
+  "total": 3,
   "categories": [
     {
       "id": "spices",
@@ -12,6 +12,13 @@
       "name": "Oils",
       "order": 100,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/oils.jpeg?t=1774023041925",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "dryfruit",
+      "name": "Dry Fruit",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/dryfruit.jpg?t=1774025976089",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
