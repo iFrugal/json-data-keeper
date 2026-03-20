@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -84,6 +84,32 @@
       "publish": true,
       "createdAt": "2026-03-20T14:16:20.711Z",
       "updatedAt": "2026-03-20T14:16:20.711Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016325865",
+      "name": "KB Masale Haldi Powder – 500g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016325865_0.webp?t=1774016331031",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016325865_1.webp?t=1774016333220"
+      ],
+      "unit": "500 g",
+      "stock": 100,
+      "price": 100,
+      "discount": 20,
+      "description": "KB Masale Haldi Powder is prepared from carefully selected turmeric roots, finely ground to deliver bright color, rich aroma, and authentic flavor. Ideal for everyday cooking, it adds taste, color, and quality to your meals. Hygienically packed to ensure purity and long-lasting freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Turmeric\n\nMade from high-quality turmeric roots\n\nBright yellow color with rich aroma\n\nEnhances taste and appearance of dishes\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nSuitable for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place away from sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months from Manufacturing Date",
+        "Manufacturer Details": "Kb masale",
+        "Marketed By": "Kb Mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:18:53.220Z",
+      "updatedAt": "2026-03-20T14:18:53.220Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
