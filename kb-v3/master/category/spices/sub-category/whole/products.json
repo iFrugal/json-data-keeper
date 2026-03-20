@@ -9,14 +9,14 @@
   "products": [
     {
       "_id": "prod_1772876915276",
-      "name": "Turmeric (Haldi)",
+      "name": "KB Masale Red Chilli Powder – 50g",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772876915276_1774015808866_0.webp?t=1774015810756",
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772876915276_1774015810756_1.webp?t=1774015812669"
       ],
-      "unit": "1 kg",
+      "unit": "50 g",
       "stock": 50,
-      "price": 1000,
+      "price": 100,
       "discount": 5,
       "description": "Our premium 50g Haldi Powder is made from carefully selected, high-quality turmeric roots, finely ground to deliver rich color, strong aroma, and natural flavor. Known for its purity and freshness, this turmeric enhances the taste and appearance of your everyday cooking. A staple in Indian kitchens, it is perfect for curries, vegetables, dals, and marinades. Hygienically processed and packed to retain its natural goodness.",
       "more_details": {
@@ -30,7 +30,7 @@
       },
       "publish": true,
       "createdAt": "2026-03-07T09:48:35.276Z",
-      "updatedAt": "2026-03-20T14:10:12.669Z",
+      "updatedAt": "2026-03-20T14:11:04.993Z",
       "updatedBy": "kbmasale12@gmail.com",
       "_showPreview": false
     },
