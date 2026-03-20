@@ -7,9 +7,10 @@
   "subcategories": [
     {
       "id": "whole",
-      "name": "Whole",
+      "name": "Powder",
       "order": 1,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole.webp?t=1772876846046"
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole.webp?t=1772876846046",
+      "updatedBy": "kbmasale12@gmail.com"
     }
   ]
 }
