@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -58,6 +58,32 @@
       "publish": true,
       "createdAt": "2026-03-07T10:46:37.968Z",
       "updatedAt": "2026-03-20T14:13:30.185Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016175241",
+      "name": "KB Masale Haldi Powder – 50g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016175241_0.webp?t=1774016178424",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016175241_1.webp?t=1774016180711"
+      ],
+      "unit": "50 g",
+      "stock": 10,
+      "price": 120,
+      "discount": 2,
+      "description": "KB Masale Haldi Powder is made from premium quality turmeric roots, finely ground to give rich color, strong aroma, and natural flavor. Perfect for daily cooking, it enhances taste and appearance of all your dishes. Hygienically processed and packed for freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Turmeric\n\nMade from high-quality turmeric roots\n\nBright yellow color with rich aroma\n\nEnhances taste and appearance of dishes\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nSuitable for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place. Keep airtight after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Kb masale",
+        "Marketed By": "kb mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:16:20.711Z",
+      "updatedAt": "2026-03-20T14:16:20.711Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
