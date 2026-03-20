@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "oils",
+    "category_name": "Oils",
+    "subcategory_id": "Soyabin",
+    "subcategory_name": "Best choice "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1774027628487",
+      "name": "Best choice Soya 650gm Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/Soyabin/products/prod_1774027628487_0.jpeg?t=1774027630811"
+      ],
+      "unit": "1 Piece",
+      "stock": 100,
+      "price": 1320,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T17:27:10.811Z",
+      "updatedAt": "2026-03-20T17:27:10.811Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
