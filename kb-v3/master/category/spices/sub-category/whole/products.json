@@ -10,25 +10,29 @@
     {
       "_id": "prod_1772876915276",
       "name": "Turmeric (Haldi)",
-      "image": [],
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772876915276_1774015808866_0.webp?t=1774015810756",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772876915276_1774015810756_1.webp?t=1774015812669"
+      ],
       "unit": "1 kg",
       "stock": 50,
       "price": 1000,
       "discount": 5,
-      "description": "Haldi is very good",
+      "description": "Our premium 50g Haldi Powder is made from carefully selected, high-quality turmeric roots, finely ground to deliver rich color, strong aroma, and natural flavor. Known for its purity and freshness, this turmeric enhances the taste and appearance of your everyday cooking. A staple in Indian kitchens, it is perfect for curries, vegetables, dals, and marinades. Hygienically processed and packed to retain its natural goodness.",
       "more_details": {
-        "Key Features": "",
-        "Storage Tips": "",
-        "Type": "",
-        "Shelf Life": "",
-        "Manufacturer Details": "",
-        "Marketed By": "",
-        "Return Policy": ""
+        "Key Features": "100% Pure and Natural Turmeric\n\nRich color and strong aroma\n\nNo added colors or preservatives\n\nFinely ground for easy blending\n\nHygienically packed for freshness",
+        "Storage Tips": "Store in a cool, dry place away from direct sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months from Manufacturing Date",
+        "Manufacturer Details": "KB Masale",
+        "Marketed By": "KB Masale",
+        "Return Policy": "7 days"
       },
       "publish": true,
       "createdAt": "2026-03-07T09:48:35.276Z",
-      "updatedAt": "2026-03-07T11:33:05.594Z",
-      "updatedBy": "abhijeet030789@gmail.com"
+      "updatedAt": "2026-03-20T14:10:12.669Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "_showPreview": false
     },
     {
       "_id": "prod_1772880397968",
