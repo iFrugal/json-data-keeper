@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -110,6 +110,32 @@
       "publish": true,
       "createdAt": "2026-03-20T14:18:53.220Z",
       "updatedAt": "2026-03-20T14:18:53.220Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016451749",
+      "name": "KB Masale Dhaniya Powder (Coriander Powder) 50gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016451749_0.webp?t=1774016454268",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016451749_1.webp?t=1774016456115"
+      ],
+      "unit": "50 g",
+      "stock": 100,
+      "price": 200,
+      "discount": 5,
+      "description": "KB Masale Dhaniya Powder is made from carefully selected, high-quality coriander seeds, finely ground to deliver fresh aroma and mild, earthy flavor. It enhances the taste of curries, vegetables, and gravies, making your dishes more delicious and aromatic. Hygienically processed and packed to ensure purity and freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Coriander Powder\n\nMade from premium quality coriander seeds\n\nFresh aroma and mild, authentic flavor\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nIdeal for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "KB Masale",
+        "Marketed By": "KB Mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:20:56.115Z",
+      "updatedAt": "2026-03-20T14:20:56.115Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
