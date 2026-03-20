@@ -1,11 +1,18 @@
 {
-  "total": 1,
+  "total": 2,
   "categories": [
     {
       "id": "spices",
       "name": "Spices",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/spices.webp?t=1772876822866"
+    },
+    {
+      "id": "oils",
+      "name": "Oils",
+      "order": 100,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/oils.jpeg?t=1774023041925",
+      "updatedBy": "kbmasale12@gmail.com"
     }
   ]
 }
