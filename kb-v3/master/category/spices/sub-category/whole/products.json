@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 5,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -136,6 +136,31 @@
       "publish": true,
       "createdAt": "2026-03-20T14:20:56.115Z",
       "updatedAt": "2026-03-20T14:20:56.115Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016572067",
+      "name": "KB Masale Dhaniya Powder 500g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016572067_0.webp?t=1774016573806"
+      ],
+      "unit": "500 g",
+      "stock": 0,
+      "price": 200,
+      "discount": 10,
+      "description": "KB Masale Dhaniya Powder is made from carefully selected, high-quality coriander seeds, finely ground to deliver fresh aroma and mild, earthy flavor. It enhances the taste of curries, vegetables, and gravies, making your dishes more delicious and aromatic. Hygienically processed and packed to ensure purity and freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Coriander Powder\n\nMade from premium quality coriander seeds\n\nFresh aroma and mild, authentic flavor\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nIdeal for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place. Keep in an airtight container after opening.",
+        "Type": "Manufacturer\n",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Kb Masale",
+        "Marketed By": "Kb mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:22:53.806Z",
+      "updatedAt": "2026-03-20T14:22:53.806Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
