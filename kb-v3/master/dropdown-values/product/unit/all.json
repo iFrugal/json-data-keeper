@@ -5,7 +5,8 @@
     "volume",
     "quantity",
     "packaging",
-    "type1"
+    "type1",
+    "box"
   ],
   "units": [
     {
