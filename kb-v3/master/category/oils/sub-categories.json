@@ -3,13 +3,20 @@
     "id": "oils",
     "name": "Oils"
   },
-  "total": 1,
+  "total": 2,
   "subcategories": [
     {
       "id": "mustred",
       "name": "MUSTRED",
       "order": 100,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred.jpeg?t=1774023106720",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "soyabin",
+      "name": "SOYABIN",
+      "order": 100,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/soyabin.jpeg?t=1774023157025",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
