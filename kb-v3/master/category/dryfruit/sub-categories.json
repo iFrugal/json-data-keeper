@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "dryfruit",
+    "name": "Dry Fruit"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "kbalmond",
+      "name": "KB Almond",
+      "order": 100,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/kbalmond.jpg?t=1774026182116",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
