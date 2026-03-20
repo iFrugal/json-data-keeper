@@ -3,7 +3,7 @@
     "id": "oils",
     "name": "Oils"
   },
-  "total": 3,
+  "total": 4,
   "subcategories": [
     {
       "id": "mustred",
@@ -24,6 +24,13 @@
       "name": "Best choice ",
       "order": 100,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/Soyabin.jpeg?t=1774027479974",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "purti",
+      "name": "Purti ",
+      "order": 200,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/purti.webp?t=1774027823426",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
