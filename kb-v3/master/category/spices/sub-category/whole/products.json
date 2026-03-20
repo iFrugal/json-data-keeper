@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 6,
+  "total": 7,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -161,6 +161,32 @@
       "publish": true,
       "createdAt": "2026-03-20T14:22:53.806Z",
       "updatedAt": "2026-03-20T14:22:53.806Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016680180",
+      "name": "KB Masale Isabgol Bhusi (Psyllium Husk) 50g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016680180_0.webp?t=1774016682967",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016680180_1.webp?t=1774016686248"
+      ],
+      "unit": "50 g",
+      "stock": 100,
+      "price": 50,
+      "discount": 2,
+      "description": "KB Masale Isabgol Bhusi is made from high-quality psyllium husk, known for its natural fiber content. It supports healthy digestion and helps maintain regular bowel movement. Light, natural, and easy to consume, it is hygienically processed and packed to ensure purity and freshness.",
+      "more_details": {
+        "Key Features": "100% Natural Psyllium Husk\n\nRich source of dietary fiber\n\nSupports healthy digestion\n\nHelps maintain regular bowel movement\n\nNo added chemicals or preservatives\n\nLight and easy to consume\n\nHygienically processed and packed",
+        "Storage Tips": "Store in a cool and dry place away from moisture. Keep container tightly closed after use.",
+        "Type": "Manufactuer",
+        "Shelf Life": "24 Months from Manufacturing Date",
+        "Manufacturer Details": "Kb Masale",
+        "Marketed By": "Kb mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:24:46.248Z",
+      "updatedAt": "2026-03-20T14:24:46.248Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
