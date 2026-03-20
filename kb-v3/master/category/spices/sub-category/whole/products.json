@@ -3,7 +3,7 @@
     "category_id": "spices",
     "category_name": "Spices",
     "subcategory_id": "whole",
-    "subcategory_name": "Whole"
+    "subcategory_name": "Powder"
   },
   "total": 2,
   "products": [
@@ -36,26 +36,29 @@
     },
     {
       "_id": "prod_1772880397968",
-      "name": "Lal Mirch",
-      "image": [],
-      "unit": "100 g",
+      "name": "KB Masale Red Chilli Powder – 500g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772880397968_1774016007165_0.webp?t=1774016008803",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772880397968_1774016008803_1.webp?t=1774016010185"
+      ],
+      "unit": "500 g",
       "stock": 10,
       "price": 200,
       "discount": 2,
-      "description": "",
+      "description": "KB Masale Red Chilli Powder is made from carefully selected, sun-dried red chillies, finely ground to deliver vibrant natural color, rich aroma, and perfect spiciness. It enhances the taste and appearance of all your dishes, making them more flavorful and appetizing. Hygienically processed and packed to maintain freshness and purity for a longer duration.",
       "more_details": {
-        "Key Features": "",
-        "Storage Tips": "",
-        "Type": "",
-        "Shelf Life": "",
-        "Manufacturer Details": "",
-        "Marketed By": "",
-        "Return Policy": ""
+        "Key Features": "Made from premium quality red chillies\n\nBright natural color and rich flavor\n\nConsistent spice level\n\nNo added colors or preservatives\n\nFinely ground and hygienically packed",
+        "Storage Tips": "Store in a cool and dry place away from direct sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months from Manufacturing Date",
+        "Manufacturer Details": "KB Masale",
+        "Marketed By": "Kb Mart",
+        "Return Policy": "7 days"
       },
       "publish": true,
       "createdAt": "2026-03-07T10:46:37.968Z",
-      "updatedAt": "2026-03-07T10:46:37.968Z",
-      "updatedBy": "abhijeet030789@gmail.com"
+      "updatedAt": "2026-03-20T14:13:30.185Z",
+      "updatedBy": "kbmasale12@gmail.com"
     }
   ]
 }
