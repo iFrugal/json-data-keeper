@@ -12,7 +12,7 @@
       "name": "Purti Soya 750 gm Pouch",
       "image": [],
       "unit": "1 pouch",
-      "stock": 0,
+      "stock": 120,
       "price": 0,
       "discount": 0,
       "description": "",
@@ -27,7 +27,7 @@
       },
       "publish": true,
       "createdAt": "2026-03-20T17:40:22.489Z",
-      "updatedAt": "2026-03-20T17:40:22.489Z",
+      "updatedAt": "2026-03-20T17:40:40.373Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
