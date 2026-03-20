@@ -9,14 +9,14 @@
   "products": [
     {
       "_id": "prod_1774023606949",
-      "name": "Mashal 1lt bot ",
+      "name": "Mashal kgmo 1lt bot ",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1774023606949_0.jpeg?t=1774023608407"
       ],
       "unit": "1 pc",
       "stock": 150,
       "price": 210,
-      "discount": 185,
+      "discount": 5,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -29,7 +29,7 @@
       },
       "publish": true,
       "createdAt": "2026-03-20T16:20:08.407Z",
-      "updatedAt": "2026-03-20T16:21:29.807Z",
+      "updatedAt": "2026-03-20T16:34:14.378Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
