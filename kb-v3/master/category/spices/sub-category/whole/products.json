@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 7,
+  "total": 8,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -187,6 +187,32 @@
       "publish": true,
       "createdAt": "2026-03-20T14:24:46.248Z",
       "updatedAt": "2026-03-20T14:24:46.248Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016793693",
+      "name": "KB Masale Jeera Powder (Cumin Powder) 50gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016793693_0.webp?t=1774016797197",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016793693_1.webp?t=1774016801071"
+      ],
+      "unit": "50 g",
+      "stock": 100,
+      "price": 200,
+      "discount": 5,
+      "description": "KB Masale Jeera Powder is made from premium quality cumin seeds, carefully roasted and finely ground to deliver a rich aroma and warm, earthy flavor. It enhances the taste of a variety of dishes including curries, vegetables, dals, and snacks. Hygienically processed and packed to ensure freshness, purity, and consistent quality.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Cumin Powder\n\nMade from high-quality cumin seeds\n\nRich aroma and authentic flavor\n\nFinely ground for easy blending\n\nNo added colors or preservatives\n\nHygienically processed and packed\n\nIdeal for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place away from direct sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Kb masale",
+        "Marketed By": "Kb Mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:26:41.071Z",
+      "updatedAt": "2026-03-20T14:26:41.071Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
