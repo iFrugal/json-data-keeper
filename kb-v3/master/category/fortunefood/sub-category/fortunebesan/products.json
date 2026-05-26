@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "fortunefood",
+    "category_name": "Fortune food",
+    "subcategory_id": "fortunebesan",
+    "subcategory_name": "Fortune besan"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1779814530720",
+      "name": "Fortune besan 500gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunebesan/products/prod_1779814530720_0.jpg?t=1779814532858"
+      ],
+      "unit": "500 g",
+      "stock": 100,
+      "price": 65,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "6 month",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T16:55:32.858Z",
+      "updatedAt": "2026-05-26T16:55:32.858Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
