@@ -1,11 +1,18 @@
 {
-  "total": 3,
+  "total": 4,
   "categories": [
     {
       "id": "spices",
       "name": "Spices",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/spices.jpg?t=1774026244479",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "dryfruit",
+      "name": "Dry Fruit",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/dryfruit.jpg?t=1774025976089",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
@@ -16,10 +23,10 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "dryfruit",
-      "name": "Dry Fruit",
-      "order": 3,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/dryfruit.jpg?t=1774025976089",
+      "id": "fortunefood",
+      "name": "Fortune food",
+      "order": 4,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/fortunefood.jpg?t=1779813206831",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
