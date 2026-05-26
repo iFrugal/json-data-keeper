@@ -3,7 +3,7 @@
     "id": "fortunefood",
     "name": "Fortune food"
   },
-  "total": 2,
+  "total": 3,
   "subcategories": [
     {
       "id": "fortuneatta5kgpkt",
@@ -17,6 +17,13 @@
       "name": "Fortune besan",
       "order": 2,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunebesan.jpg?t=1779813893675",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortunemaida",
+      "name": "Fortune maida",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunemaida.jpg?t=1779814230912",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
