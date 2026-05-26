@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 11,
+  "total": 12,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -289,6 +289,32 @@
       "publish": true,
       "createdAt": "2026-05-26T17:09:22.094Z",
       "updatedAt": "2026-05-26T17:09:22.094Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779815428514",
+      "name": "KB Ajwain 500gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815428514_0.webp?t=1779815430808",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815428514_1.webp?t=1779815433264"
+      ],
+      "unit": "500 g",
+      "stock": 10,
+      "price": 150,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T17:10:33.264Z",
+      "updatedAt": "2026-05-26T17:10:33.264Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
