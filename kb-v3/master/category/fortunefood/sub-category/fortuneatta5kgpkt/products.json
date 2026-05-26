@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "fortunefood",
+    "category_name": "Fortune food",
+    "subcategory_id": "fortuneatta5kgpkt",
+    "subcategory_name": "Fortune Atta "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1779816520977",
+      "name": "Fortune atta 5 kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortuneatta5kgpkt/products/prod_1779816520977_0.jpg?t=1779816523005"
+      ],
+      "unit": "5 kg",
+      "stock": 0,
+      "price": 210,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T17:28:43.005Z",
+      "updatedAt": "2026-05-26T17:28:43.005Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
