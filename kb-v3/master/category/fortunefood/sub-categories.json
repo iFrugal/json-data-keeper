@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "fortunefood",
+    "name": "Fortune food"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "fortuneatta5kgpkt",
+      "name": "Fortune Atta 5Kg Pkt",
+      "order": 10,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortuneatta5kgpkt.jpg?t=1779813341945",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
