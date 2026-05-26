@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 9,
+  "total": 10,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -238,6 +238,31 @@
       "publish": true,
       "createdAt": "2026-03-20T14:28:02.257Z",
       "updatedAt": "2026-03-20T14:28:02.257Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779814840353",
+      "name": "Kb poppy sheed",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779814840353_0.jpg?t=1779814843131"
+      ],
+      "unit": "50 g",
+      "stock": 10,
+      "price": 85,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T17:00:43.132Z",
+      "updatedAt": "2026-05-26T17:00:43.132Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
