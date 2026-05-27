@@ -5,7 +5,7 @@
     "subcategory_id": "soyabinoil",
     "subcategory_name": "Soyabin oil"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1779883639243",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:11:01.195Z",
       "updatedAt": "2026-05-27T12:11:01.195Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779883903627",
+      "name": "Kings soyabin 4kg jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883903627_0.png?t=1779883906425"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 700,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:11:46.425Z",
+      "updatedAt": "2026-05-27T12:11:46.425Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
