@@ -1,5 +1,5 @@
 {
-  "total": 4,
+  "total": 5,
   "categories": [
     {
       "id": "spices",
@@ -16,6 +16,13 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
+      "id": "fortunefood",
+      "name": "Fortune food",
+      "order": 4,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/fortunefood.jpg?t=1779813206831",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
       "id": "oils",
       "name": "Oils",
       "order": 100,
@@ -23,10 +30,10 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "fortunefood",
-      "name": "Fortune food",
-      "order": 4,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/fortunefood.jpg?t=1779813206831",
+      "id": "Fortune oil",
+      "name": "Fortune oil",
+      "order": 5,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/Fortune oil.jpg?t=1779873660717",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
