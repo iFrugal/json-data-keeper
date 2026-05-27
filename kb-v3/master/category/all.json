@@ -1,5 +1,5 @@
 {
-  "total": 6,
+  "total": 7,
   "categories": [
     {
       "id": "spices",
@@ -41,6 +41,13 @@
       "name": "Mashal oil",
       "order": 6,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/mashaloil.jpg?t=1779873880120",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortunesoyabari",
+      "name": "Fortune soya bari",
+      "order": 7,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/fortunesoyabari.jpg?t=1779874088987",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
