@@ -5,7 +5,7 @@
     "subcategory_id": "soyabariplane",
     "subcategory_name": "Soyabari plane"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1779875643502",
@@ -56,6 +56,31 @@
       "publish": true,
       "createdAt": "2026-05-27T09:55:10.584Z",
       "updatedAt": "2026-05-27T09:55:10.584Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779875784708",
+      "name": "Fortune soyabari  200 gm box",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875784708_0.jpg?t=1779875786960"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 40,
+      "discount": 1,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T09:56:26.960Z",
+      "updatedAt": "2026-05-27T09:56:26.960Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
