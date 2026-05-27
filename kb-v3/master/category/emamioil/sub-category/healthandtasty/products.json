@@ -5,7 +5,7 @@
     "subcategory_id": "healthandtasty",
     "subcategory_name": "Health and tasty"
   },
-  "total": 1,
+  "total": 2,
   "products": [
     {
       "_id": "prod_1779880771615",
@@ -30,6 +30,31 @@
       "publish": true,
       "createdAt": "2026-05-27T11:19:33.710Z",
       "updatedAt": "2026-05-27T11:19:33.710Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779880830003",
+      "name": "Emami rice 730gm ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/emamioil/sub-category/healthandtasty/products/prod_1779880830003_0.webp?t=1779880832042"
+      ],
+      "unit": "1 box",
+      "stock": 50,
+      "price": 1464,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T11:20:32.042Z",
+      "updatedAt": "2026-05-27T11:20:32.042Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
