@@ -40,7 +40,7 @@
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875708658_0.jpg?t=1779875710584"
       ],
       "unit": "1 pc",
-      "stock": 0,
+      "stock": 1000,
       "price": 8,
       "discount": 0,
       "description": "",
@@ -55,7 +55,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T09:55:10.584Z",
-      "updatedAt": "2026-05-27T09:55:10.584Z",
+      "updatedAt": "2026-05-27T09:57:17.374Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
