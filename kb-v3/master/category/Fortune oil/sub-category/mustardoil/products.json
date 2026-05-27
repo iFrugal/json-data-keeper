@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 5,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1779884329644",
@@ -130,6 +130,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:23:48.177Z",
       "updatedAt": "2026-05-27T12:23:48.177Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884676995",
+      "name": "Fortunekgmo 15 kg tina",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884676995_0.webp?t=1779884681802"
+      ],
+      "unit": "1 pc",
+      "stock": 400,
+      "price": 2750,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:24:41.802Z",
+      "updatedAt": "2026-05-27T12:24:41.802Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
