@@ -40,7 +40,7 @@
       ],
       "unit": "1 box",
       "stock": 100,
-      "price": 0,
+      "price": 1608,
       "discount": 0,
       "description": "",
       "more_details": {
@@ -54,7 +54,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:08:06.625Z",
-      "updatedAt": "2026-05-27T12:08:06.625Z",
+      "updatedAt": "2026-05-27T12:12:17.600Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
