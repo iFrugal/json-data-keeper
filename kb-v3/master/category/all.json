@@ -1,5 +1,5 @@
 {
-  "total": 5,
+  "total": 6,
   "categories": [
     {
       "id": "spices",
@@ -34,6 +34,13 @@
       "name": "Fortune oil",
       "order": 5,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/Fortune oil.jpg?t=1779873660717",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "mashaloil",
+      "name": "Mashal oil",
+      "order": 6,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/mashaloil.jpg?t=1779873880120",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
