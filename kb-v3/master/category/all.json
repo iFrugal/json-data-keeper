@@ -1,5 +1,5 @@
 {
-  "total": 9,
+  "total": 10,
   "categories": [
     {
       "id": "spices",
@@ -51,6 +51,13 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
+      "id": "emamioil",
+      "name": "Emami oil",
+      "order": 9,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/emamioil/emamioil.png?t=1779877305235",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
       "id": "oils",
       "name": "Salon oil",
       "order": 100,
@@ -58,10 +65,10 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "emamioil",
-      "name": "Emami oil",
-      "order": 9,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/emamioil/emamioil.png?t=1779877305235",
+      "id": "fortunerice",
+      "name": "Fortune Rice",
+      "order": 10,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/fortunerice.jpg?t=1779884762132",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
