@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "Fortune oil",
+    "name": "Fortune oil"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "mustardoil",
+      "name": "Mustard oil",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil.webp?t=1779884212648",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
