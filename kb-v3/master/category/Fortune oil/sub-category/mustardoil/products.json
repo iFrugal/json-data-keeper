@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1779884329644",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:22:18.844Z",
       "updatedAt": "2026-05-27T12:22:18.844Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884625841",
+      "name": "Fortune kgmo 500 ml Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884625841_0.jpeg?t=1779884628177"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2064,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:23:48.177Z",
+      "updatedAt": "2026-05-27T12:23:48.177Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
