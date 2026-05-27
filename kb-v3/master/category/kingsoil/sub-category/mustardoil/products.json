@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1779883327392",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:03:18.136Z",
       "updatedAt": "2026-05-27T12:03:18.136Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779883460750",
+      "name": "Kings kgmo 500ml botel",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/mustardoil/products/prod_1779883460750_0.png?t=1779883466191"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2088,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:04:26.191Z",
+      "updatedAt": "2026-05-27T12:04:26.191Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
