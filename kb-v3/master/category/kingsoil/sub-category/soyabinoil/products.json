@@ -5,7 +5,7 @@
     "subcategory_id": "soyabinoil",
     "subcategory_name": "Soyabin oil"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1779883639243",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:08:06.625Z",
       "updatedAt": "2026-05-27T12:08:06.625Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779883858087",
+      "name": "Kings soyabin 375gm bot",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883858087_0.png?t=1779883861195"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 1656,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:11:01.195Z",
+      "updatedAt": "2026-05-27T12:11:01.195Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
