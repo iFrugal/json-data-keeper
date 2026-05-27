@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1779884329644",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:20:23.410Z",
       "updatedAt": "2026-05-27T12:20:23.410Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884535393",
+      "name": "Fortune kgmo 5lt jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884535393_0.png?t=1779884538844"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 900,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:22:18.844Z",
+      "updatedAt": "2026-05-27T12:22:18.844Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
