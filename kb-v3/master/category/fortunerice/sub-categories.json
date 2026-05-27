@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "fortunerice",
+    "name": "Fortune Rice"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "baramatirice",
+      "name": "Baramati rice",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice.jpg?t=1779885060124",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
