@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "kingsoil",
+    "category_name": "Kings oil",
+    "subcategory_id": "mustardoil",
+    "subcategory_name": "Mustard oil"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1779883327392",
+      "name": "Kings kgmo 1lt pouch",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/mustardoil/products/prod_1779883327392_0.webp?t=1779883333056"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 1980,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:02:13.056Z",
+      "updatedAt": "2026-05-27T12:02:13.056Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
