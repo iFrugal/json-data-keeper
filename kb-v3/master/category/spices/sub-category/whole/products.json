@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 10,
+  "total": 11,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -265,6 +265,31 @@
       "publish": true,
       "createdAt": "2026-05-26T17:10:33.264Z",
       "updatedAt": "2026-05-26T17:10:33.264Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779873447006",
+      "name": "KB Turmeric Powder 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779873447006_0.webp?t=1779873449496"
+      ],
+      "unit": "1 kg",
+      "stock": 10,
+      "price": 210,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T09:17:29.496Z",
+      "updatedAt": "2026-05-27T09:17:29.496Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
