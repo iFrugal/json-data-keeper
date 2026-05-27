@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 1,
+  "total": 2,
   "products": [
     {
       "_id": "prod_1779884329644",
@@ -30,6 +30,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:18:52.539Z",
       "updatedAt": "2026-05-27T12:18:52.539Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884372431",
+      "name": "Fortune kgmo 1lt botel",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884372431_0.png?t=1779884376851"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2100,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:19:36.851Z",
+      "updatedAt": "2026-05-27T12:19:36.851Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
