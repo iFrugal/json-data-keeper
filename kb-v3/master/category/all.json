@@ -1,5 +1,5 @@
 {
-  "total": 10,
+  "total": 11,
   "categories": [
     {
       "id": "spices",
@@ -58,6 +58,13 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
+      "id": "fortunerice",
+      "name": "Fortune Rice",
+      "order": 10,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/fortunerice.jpg?t=1779884762132",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
       "id": "oils",
       "name": "Salon oil",
       "order": 100,
@@ -65,10 +72,10 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "fortunerice",
-      "name": "Fortune Rice",
-      "order": 10,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/fortunerice.jpg?t=1779884762132",
+      "id": "spice",
+      "name": "spice",
+      "order": 11,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/spice.jpeg?t=1779984779293",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
