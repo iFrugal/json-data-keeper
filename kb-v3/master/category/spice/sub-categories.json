@@ -3,7 +3,7 @@
     "id": "spice",
     "name": "spice"
   },
-  "total": 2,
+  "total": 3,
   "subcategories": [
     {
       "id": "poppyseed",
@@ -17,6 +17,13 @@
       "name": "Methi",
       "order": 2,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/methi.jpeg?t=1779985377124",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "souff",
+      "name": "Souff",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/souff.jpeg?t=1779985391750",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
