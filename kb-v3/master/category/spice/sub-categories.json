@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "spice",
+    "name": "spice"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "poppyseed",
+      "name": "Poppy Seed",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/poppyseed.jpeg?t=1779985209289",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
