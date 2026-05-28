@@ -3,7 +3,7 @@
     "id": "dryfruit",
     "name": "Dry Fruit"
   },
-  "total": 3,
+  "total": 4,
   "subcategories": [
     {
       "id": "kbalmond",
@@ -24,6 +24,13 @@
       "name": "Kaju",
       "order": 3,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/kaju.jpeg?t=1779984986976",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "magaj",
+      "name": "Magaj",
+      "order": 4,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/magaj.jpeg?t=1779985035003",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
