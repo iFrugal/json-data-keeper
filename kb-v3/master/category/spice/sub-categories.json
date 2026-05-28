@@ -3,7 +3,7 @@
     "id": "spice",
     "name": "spice"
   },
-  "total": 4,
+  "total": 5,
   "subcategories": [
     {
       "id": "poppyseed",
@@ -31,6 +31,13 @@
       "name": "Haldi",
       "order": 4,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/haldi.jpeg?t=1779985450748",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "drychiilylanka",
+      "name": "Dry Chiily ( Lanka)",
+      "order": 5,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/drychiilylanka.jpeg?t=1779985476858",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
