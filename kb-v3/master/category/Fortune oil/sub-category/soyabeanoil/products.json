@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil"
   },
-  "total": 7,
+  "total": 8,
   "products": [
     {
       "_id": "prod_1780067564118",
@@ -180,6 +180,31 @@
       "publish": true,
       "createdAt": "2026-05-29T15:26:14.066Z",
       "updatedAt": "2026-05-29T15:26:14.066Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780068444173",
+      "name": "Fortune Soya Health Refined Soyabean Oil 200ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/soyabeanoil/products/prod_1780068444173_0.jpg?t=1780068446893"
+      ],
+      "unit": "1 Piece",
+      "stock": 0,
+      "price": 2040,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T15:27:26.893Z",
+      "updatedAt": "2026-05-29T15:27:26.893Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
