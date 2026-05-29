@@ -1,22 +1,15 @@
 {
   "parent": {
     "id": "oils",
-    "name": "Oils"
+    "name": "Salon oil"
   },
-  "total": 4,
+  "total": 3,
   "subcategories": [
     {
       "id": "mustred",
       "name": "MUSTRED",
       "order": 100,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred.jpeg?t=1774023106720",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
-      "id": "soyabin",
-      "name": "Kings",
-      "order": 100,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/soyabin.jpeg?t=1774023157025",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
