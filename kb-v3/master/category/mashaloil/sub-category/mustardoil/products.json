@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard Oil"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780074912344",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-05-29T17:22:16.192Z",
       "updatedAt": "2026-05-29T17:22:16.192Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780075376726",
+      "name": "Mashal Kachi Ghani Mustard Oil 5lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780075376726_0.jpg?t=1780075381801"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 920,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:23:01.801Z",
+      "updatedAt": "2026-05-29T17:23:01.801Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
