@@ -5,7 +5,7 @@
     "subcategory_id": "fortunesunfloweroil",
     "subcategory_name": "Fortune Sunflower Oil"
   },
-  "total": 6,
+  "total": 7,
   "products": [
     {
       "_id": "prod_1780070851294",
@@ -155,6 +155,31 @@
       "publish": true,
       "createdAt": "2026-05-29T16:16:32.901Z",
       "updatedAt": "2026-05-29T16:16:32.901Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780071449434",
+      "name": "Fortune Sunlite Refined Sunflower Oil 15kg Tin",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunesunfloweroil/products/prod_1780071449434_0.jpg?t=1780071452459"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 3050,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T16:17:32.460Z",
+      "updatedAt": "2026-05-29T16:17:32.460Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
