@@ -63,7 +63,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunesunfloweroil/products/prod_1780070978675_0.jpg?t=1780070982486"
       ],
-      "unit": "1 Piece",
+      "unit": "1 box",
       "stock": 0,
       "price": 2064,
       "discount": 5,
@@ -79,7 +79,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:09:42.486Z",
-      "updatedAt": "2026-05-29T16:09:42.486Z",
+      "updatedAt": "2026-05-29T16:11:50.822Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
