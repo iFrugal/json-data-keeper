@@ -159,7 +159,7 @@
     },
     {
       "_id": "prod_1780065346461",
-      "name": "Fortune Kgmo 500ml Pet",
+      "name": "Fortune Kgmo 500ml Bottle",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1780065346461_0.jpg?t=1780065349435"
       ],
@@ -179,7 +179,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T14:35:49.435Z",
-      "updatedAt": "2026-05-29T14:35:49.435Z",
+      "updatedAt": "2026-05-29T14:38:06.058Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
