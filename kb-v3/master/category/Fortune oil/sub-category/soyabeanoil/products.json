@@ -188,8 +188,8 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/soyabeanoil/products/prod_1780068444173_0.jpg?t=1780068446893"
       ],
-      "unit": "1 Piece",
-      "stock": 0,
+      "unit": "1 box",
+      "stock": 10,
       "price": 2040,
       "discount": 5,
       "description": "",
@@ -204,7 +204,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T15:27:26.893Z",
-      "updatedAt": "2026-05-29T15:27:26.893Z",
+      "updatedAt": "2026-05-29T16:20:17.986Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
