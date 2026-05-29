@@ -1,5 +1,5 @@
 {
-  "total": 11,
+  "total": 12,
   "categories": [
     {
       "id": "spices",
@@ -65,6 +65,13 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
+      "id": "spice",
+      "name": "spice",
+      "order": 11,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/spice.jpeg?t=1779984779293",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
       "id": "oils",
       "name": "Salon oil",
       "order": 100,
@@ -72,10 +79,10 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "spice",
-      "name": "spice",
-      "order": 11,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/spice.jpeg?t=1779984779293",
+      "id": "fortunesoap",
+      "name": "Fortune soap",
+      "order": 12,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/fortunesoap.jpg?t=1780061075301",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
