@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 7,
+  "total": 8,
   "products": [
     {
       "_id": "prod_1779884329644",
@@ -180,6 +180,31 @@
       "publish": true,
       "createdAt": "2026-05-29T14:35:49.435Z",
       "updatedAt": "2026-05-29T14:38:06.058Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780065718594",
+      "name": "Fortune Kgmo 2lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1780065718594_0.png?t=1780065721355"
+      ],
+      "unit": "1 Piece",
+      "stock": 1,
+      "price": 350,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T14:42:01.355Z",
+      "updatedAt": "2026-05-29T14:42:01.355Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
