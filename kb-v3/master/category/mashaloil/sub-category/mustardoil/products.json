@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard Oil"
   },
-  "total": 5,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1780074912344",
@@ -130,6 +130,31 @@
       "publish": true,
       "createdAt": "2026-05-29T17:23:01.801Z",
       "updatedAt": "2026-05-29T17:23:01.801Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780075452294",
+      "name": "Mashal Kachi Ghani Mustard Oil 100ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780075452294_0.jpg?t=1780075455505"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2520,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:24:15.505Z",
+      "updatedAt": "2026-05-29T17:24:15.505Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
