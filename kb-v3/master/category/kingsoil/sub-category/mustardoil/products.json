@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard oil"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1779883327392",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-05-27T12:04:26.191Z",
       "updatedAt": "2026-05-27T12:04:26.191Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780072432550",
+      "name": "King's Pure Mustard Oil 5lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/mustardoil/products/prod_1780072432550_0.jpg?t=1780072435966"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 880,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T16:33:55.966Z",
+      "updatedAt": "2026-05-29T16:33:55.966Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
