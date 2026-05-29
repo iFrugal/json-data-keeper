@@ -5,7 +5,7 @@
     "subcategory_id": "fortunesunfloweroil",
     "subcategory_name": "Fortune Sunflower Oil"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780070851294",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-05-29T16:13:42.930Z",
       "updatedAt": "2026-05-29T16:13:42.930Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780071319834",
+      "name": "Fortune Sunlite Refined Sunflower Oil 2lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunesunfloweroil/products/prod_1780071319834_0.jpg?t=1780071324194"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 360,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T16:15:24.194Z",
+      "updatedAt": "2026-05-29T16:15:24.194Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
