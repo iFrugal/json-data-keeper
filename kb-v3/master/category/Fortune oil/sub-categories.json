@@ -3,7 +3,7 @@
     "id": "Fortune oil",
     "name": "Fortune oil"
   },
-  "total": 2,
+  "total": 3,
   "subcategories": [
     {
       "id": "mustardoil",
@@ -17,6 +17,13 @@
       "name": "Soyabean Oil",
       "order": 2,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/soyabeanoil.png?t=1780066096552",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortunesunfloweroil",
+      "name": "Fortune Sunflower Oil",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunesunfloweroil.jpg?t=1780070626651",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
