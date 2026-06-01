@@ -5,7 +5,7 @@
     "subcategory_id": "soap100g",
     "subcategory_name": "Soap 100g "
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780336896351",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-01T18:10:33.533Z",
       "updatedAt": "2026-06-01T18:10:33.533Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780337481542",
+      "name": "Alife Romantic Rose Soap",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780337481542_0.jpg?t=1780337484513"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 18,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:11:24.513Z",
+      "updatedAt": "2026-06-01T18:11:24.513Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
