@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "fortunesoap",
+    "category_name": "Fortune soap",
+    "subcategory_id": "soap100g",
+    "subcategory_name": "Soap 100g "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780336896351",
+      "name": "Alife Lovely Lime Soap ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780336896351_0.jpg?t=1780336898681"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 18,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:01:38.681Z",
+      "updatedAt": "2026-06-01T18:01:38.681Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
