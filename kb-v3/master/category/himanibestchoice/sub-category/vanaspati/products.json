@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "himanibestchoice",
+    "category_name": "Himani Best Choice",
+    "subcategory_id": "vanaspati",
+    "subcategory_name": "Vanaspati "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780334071711",
+      "name": "Rasoi No.1 Vanaspati 15kg Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/vanaspati/products/prod_1780334071711_0.jpg?t=1780334075221"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 2250,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T17:14:35.221Z",
+      "updatedAt": "2026-06-01T17:14:35.221Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
