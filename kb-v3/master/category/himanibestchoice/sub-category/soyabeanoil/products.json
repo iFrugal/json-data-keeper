@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil "
   },
-  "total": 7,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1780332823977",
@@ -130,31 +130,6 @@
       "publish": true,
       "createdAt": "2026-06-01T17:05:26.452Z",
       "updatedAt": "2026-06-01T17:05:26.452Z",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
-      "_id": "prod_1780333643514",
-      "name": "Rasoi No.1 Vanaspati 15kg Jar",
-      "image": [
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/soyabeanoil/products/prod_1780333643514_0.jpg?t=1780333647477"
-      ],
-      "unit": "1 pc",
-      "stock": 10,
-      "price": 2250,
-      "discount": 5,
-      "description": "",
-      "more_details": {
-        "Key Features": "",
-        "Storage Tips": "",
-        "Type": "",
-        "Shelf Life": "",
-        "Manufacturer Details": "",
-        "Marketed By": "",
-        "Return Policy": ""
-      },
-      "publish": true,
-      "createdAt": "2026-06-01T17:07:27.477Z",
-      "updatedAt": "2026-06-01T17:07:27.477Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
