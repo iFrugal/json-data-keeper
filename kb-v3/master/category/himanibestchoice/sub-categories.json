@@ -3,13 +3,20 @@
     "id": "himanibestchoice",
     "name": "Himani Best Choice"
   },
-  "total": 1,
+  "total": 2,
   "subcategories": [
     {
       "id": "soyabeanoil",
       "name": "Soyabean Oil ",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/soyabeanoil.jpg?t=1780332679423",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "vanaspati",
+      "name": "Vanaspati ",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/vanaspati.jpg?t=1780334032731",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
