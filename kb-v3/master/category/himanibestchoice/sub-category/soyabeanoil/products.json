@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "himanibestchoice",
+    "category_name": "Himani Best Choice",
+    "subcategory_id": "soyabeanoil",
+    "subcategory_name": "Soyabean Oil "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780332823977",
+      "name": "Himani Best Choice Refined Soyabean Oil 750g Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/soyabeanoil/products/prod_1780332823977_0.jpg?t=1780332829115"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 1536,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:53:49.115Z",
+      "updatedAt": "2026-06-01T16:53:49.115Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
