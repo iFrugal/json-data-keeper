@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil "
   },
-  "total": 5,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1780332823977",
@@ -130,6 +130,31 @@
       "publish": true,
       "createdAt": "2026-06-01T17:05:26.452Z",
       "updatedAt": "2026-06-01T17:05:26.452Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780333799958",
+      "name": "Himani Best Choice Refined Soyabean Oil 15kg Tin",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/soyabeanoil/products/prod_1780333799958_0.jpg?t=1780333802830"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 2580,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T17:10:02.830Z",
+      "updatedAt": "2026-06-01T17:10:02.830Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
