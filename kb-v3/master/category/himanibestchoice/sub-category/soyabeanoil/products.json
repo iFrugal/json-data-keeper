@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil "
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1780332823977",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-06-01T16:56:05.260Z",
       "updatedAt": "2026-06-01T16:56:05.260Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780333398689",
+      "name": "Himani Best Choice Refined Soyabean Oil 375gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/sub-category/soyabeanoil/products/prod_1780333398689_0.jpg?t=1780333401133"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 1664,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T17:03:21.133Z",
+      "updatedAt": "2026-06-01T17:03:21.133Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
