@@ -5,7 +5,7 @@
     "subcategory_id": "mustred",
     "subcategory_name": "MUSTRED"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780331252097",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-01T16:32:00.097Z",
       "updatedAt": "2026-06-01T16:32:00.097Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780331595538",
+      "name": "Saloni Kachchi Ghani Mustard Oil 5lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331595538_0.jpg?t=1780331602878"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 900,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:33:22.878Z",
+      "updatedAt": "2026-06-01T16:33:22.878Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
