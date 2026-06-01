@@ -5,6 +5,32 @@
     "subcategory_id": "mustred",
     "subcategory_name": "MUSTRED"
   },
-  "total": 0,
-  "products": []
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780331252097",
+      "name": "Saloni Kachchi Ghani Mustard Oil 1lt Pouch",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331252097_0.jpg?t=1780331255844"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2800,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:27:35.844Z",
+      "updatedAt": "2026-06-01T16:27:35.844Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
 }
