@@ -5,7 +5,7 @@
     "subcategory_id": "healthandtasty",
     "subcategory_name": "Health and tasty"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1779880771615",
@@ -105,6 +105,32 @@
       "publish": true,
       "createdAt": "2026-05-27T11:24:15.027Z",
       "updatedAt": "2026-05-27T11:28:23.731Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780417235509",
+      "name": "Emami Soyabari 1kg pkt",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/emamioil/sub-category/healthandtasty/products/prod_1780417235509_0.jpeg?t=1780417238579",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/emamioil/sub-category/healthandtasty/products/prod_1780417235509_1.jpeg?t=1780417240587"
+      ],
+      "unit": "1 kg",
+      "stock": 0,
+      "price": 110,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T16:20:40.587Z",
+      "updatedAt": "2026-06-02T16:20:40.587Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
