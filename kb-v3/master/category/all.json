@@ -88,7 +88,7 @@
     {
       "id": "oils",
       "name": "Salon Oil",
-      "order": 100,
+      "order": 12,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/oils.jpg?t=1779874682724",
       "updatedBy": "kbmasale12@gmail.com"
     },
