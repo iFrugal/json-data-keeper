@@ -5,7 +5,7 @@
     "subcategory_id": "soyabariplane",
     "subcategory_name": "Soyabari plane"
   },
-  "total": 7,
+  "total": 8,
   "products": [
     {
       "_id": "prod_1779875643502",
@@ -181,6 +181,31 @@
       "publish": true,
       "createdAt": "2026-06-02T11:17:21.017Z",
       "updatedAt": "2026-06-02T11:17:21.017Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780399128032",
+      "name": "Fortune Soyabari Mini 1kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780399128032_0.png?t=1780399130195"
+      ],
+      "unit": "1 kg",
+      "stock": 100,
+      "price": 115,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:18:50.195Z",
+      "updatedAt": "2026-06-02T11:18:50.195Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
