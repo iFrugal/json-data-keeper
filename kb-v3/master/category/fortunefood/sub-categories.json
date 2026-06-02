@@ -6,15 +6,8 @@
   "total": 4,
   "subcategories": [
     {
-      "id": "fortuneatta5kgpkt",
-      "name": "Fortune Atta ",
-      "order": 10,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortuneatta5kgpkt.jpg?t=1779813341945",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
       "id": "fortunebesan",
-      "name": "Fortune besan",
+      "name": "Fortune Besan",
       "order": 2,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunebesan.jpg?t=1779813893675",
       "updatedBy": "kbmasale12@gmail.com"
@@ -31,6 +24,13 @@
       "name": "Fortune suji",
       "order": 4,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunesuji.jpg?t=1779814258222",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortuneatta5kgpkt",
+      "name": "Fortune Atta ",
+      "order": 10,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortuneatta5kgpkt.jpg?t=1779813341945",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
