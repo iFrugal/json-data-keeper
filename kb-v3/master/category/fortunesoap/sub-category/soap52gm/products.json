@@ -5,7 +5,7 @@
     "subcategory_id": "soap52gm",
     "subcategory_name": "Soap 52Gm"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780386738659",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-02T08:00:41.858Z",
       "updatedAt": "2026-06-02T08:00:41.858Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780387306213",
+      "name": "Alife Lovely Lily Soap",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap52gm/products/prod_1780387306213_0.jpg?t=1780387308314"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 8,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:01:48.314Z",
+      "updatedAt": "2026-06-02T08:01:48.314Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
