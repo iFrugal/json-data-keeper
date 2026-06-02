@@ -5,7 +5,7 @@
     "subcategory_id": "soyabariplane",
     "subcategory_name": "Soyabari plane"
   },
-  "total": 8,
+  "total": 9,
   "products": [
     {
       "_id": "prod_1779875643502",
@@ -206,6 +206,31 @@
       "publish": true,
       "createdAt": "2026-06-02T11:18:50.195Z",
       "updatedAt": "2026-06-02T11:18:50.195Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780399269592",
+      "name": "Fortune Soyabari 300gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780399269592_0.jpg?t=1780399272306"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 42,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:21:12.306Z",
+      "updatedAt": "2026-06-02T11:21:12.306Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
