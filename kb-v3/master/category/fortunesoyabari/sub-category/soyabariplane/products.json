@@ -60,13 +60,13 @@
     },
     {
       "_id": "prod_1779875784708",
-      "name": "Fortune soyabari  200 gm box",
+      "name": "Fortune Soyabari  200gm box",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875784708_0.jpg?t=1779875786960"
       ],
       "unit": "1 box",
       "stock": 100,
-      "price": 40,
+      "price": 45,
       "discount": 1,
       "description": "",
       "more_details": {
@@ -80,7 +80,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T09:56:26.960Z",
-      "updatedAt": "2026-05-27T09:56:26.960Z",
+      "updatedAt": "2026-06-02T11:06:30.803Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
