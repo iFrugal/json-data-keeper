@@ -5,7 +5,7 @@
     "subcategory_id": "soyabariplane",
     "subcategory_name": "Soyabari plane"
   },
-  "total": 6,
+  "total": 7,
   "products": [
     {
       "_id": "prod_1779875643502",
@@ -156,6 +156,31 @@
       "publish": true,
       "createdAt": "2026-06-02T11:15:50.382Z",
       "updatedAt": "2026-06-02T11:15:50.382Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780399037667",
+      "name": "Fortune Soyabari Mini 200gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780399037667_0.jpg?t=1780399041017"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 45,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:17:21.017Z",
+      "updatedAt": "2026-06-02T11:17:21.017Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
