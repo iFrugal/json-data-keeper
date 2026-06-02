@@ -3,7 +3,7 @@
     "id": "garammaasle",
     "name": "Garam maasle"
   },
-  "total": 7,
+  "total": 8,
   "subcategories": [
     {
       "id": "clovelung",
@@ -52,6 +52,13 @@
       "name": "Jaifal",
       "order": 7,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/jaifal.jpeg?t=1780415303407",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "javitri",
+      "name": "Javitri",
+      "order": 8,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/javitri.webp?t=1780415354389",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
