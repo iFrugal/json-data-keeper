@@ -3,13 +3,13 @@
     "category_id": "kingsoil",
     "category_name": "Kings oil",
     "subcategory_id": "soyabinoil",
-    "subcategory_name": "Soyabin oil"
+    "subcategory_name": "Soyabean Oil"
   },
   "total": 4,
   "products": [
     {
       "_id": "prod_1779883639243",
-      "name": "Kings soyabin oil 750gm pouch ",
+      "name": "Kings Soyabean Oil 750gm Pouch ",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883639243_0.jpg?t=1779883642511"
       ],
@@ -29,7 +29,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:07:22.511Z",
-      "updatedAt": "2026-05-27T12:07:22.511Z",
+      "updatedAt": "2026-06-02T08:22:05.179Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
