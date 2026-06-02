@@ -3,7 +3,7 @@
     "id": "garammaasle",
     "name": "Garam maasle"
   },
-  "total": 4,
+  "total": 5,
   "subcategories": [
     {
       "id": "clovelung",
@@ -31,6 +31,13 @@
       "name": "Sah Marich",
       "order": 4,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/sahmarich.jpeg?t=1780415221466",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "kababchini",
+      "name": "Kababchini",
+      "order": 5,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/kababchini.jpeg?t=1780415246809",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
