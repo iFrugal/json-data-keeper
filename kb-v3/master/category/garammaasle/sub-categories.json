@@ -3,13 +3,20 @@
     "id": "garammaasle",
     "name": "Garam maasle"
   },
-  "total": 1,
+  "total": 2,
   "subcategories": [
     {
       "id": "clovelung",
       "name": "Clove(lung)",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/clovelung.jpeg?t=1780415155298",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "dalchini",
+      "name": "Dalchini",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/dalchini.jpeg?t=1780415179973",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
