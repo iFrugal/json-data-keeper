@@ -5,7 +5,7 @@
     "subcategory_id": "soap52gm",
     "subcategory_name": "Soap 52Gm"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1780386738659",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-02T07:57:53.004Z",
       "updatedAt": "2026-06-02T07:57:53.004Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780387164247",
+      "name": "Alife Soothing Sandalwood Soap",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap52gm/products/prod_1780387164247_0.jpg?t=1780387166742"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 8,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T07:59:26.742Z",
+      "updatedAt": "2026-06-02T07:59:26.742Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
