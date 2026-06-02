@@ -9,13 +9,13 @@
   "products": [
     {
       "_id": "prod_1779875643502",
-      "name": "Fortune soyabari 1kg pkt",
+      "name": "Fortune Soyabari 1kg",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875643502_0.jpg?t=1779875646630",
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875643502_1.jpg?t=1779875648991"
       ],
       "unit": "1 kg",
-      "stock": 0,
+      "stock": 50,
       "price": 110,
       "discount": 0,
       "description": "",
@@ -30,7 +30,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T09:54:08.991Z",
-      "updatedAt": "2026-05-27T09:54:08.991Z",
+      "updatedAt": "2026-06-02T11:04:15.849Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
