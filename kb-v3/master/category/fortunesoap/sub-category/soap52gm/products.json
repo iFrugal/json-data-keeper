@@ -5,7 +5,7 @@
     "subcategory_id": "soap52gm",
     "subcategory_name": "Soap 52Gm"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1780386738659",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-06-02T07:59:26.742Z",
       "updatedAt": "2026-06-02T07:59:26.742Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780387239161",
+      "name": "Alife Gondhoraj & Neem Soap",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap52gm/products/prod_1780387239161_0.jpg?t=1780387241858"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 8,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:00:41.858Z",
+      "updatedAt": "2026-06-02T08:00:41.858Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
