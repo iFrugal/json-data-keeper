@@ -38,7 +38,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780414825192_0.jpg?t=1780414828461"
       ],
-      "unit": "1 Piece",
+      "unit": "1 box",
       "stock": 15,
       "price": 1944,
       "discount": 2,
@@ -54,7 +54,7 @@
       },
       "publish": true,
       "createdAt": "2026-06-02T15:40:28.461Z",
-      "updatedAt": "2026-06-02T15:40:28.461Z",
+      "updatedAt": "2026-06-02T15:42:22.758Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
