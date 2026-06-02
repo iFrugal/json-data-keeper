@@ -1,5 +1,5 @@
 {
-  "total": 13,
+  "total": 14,
   "categories": [
     {
       "id": "spices",
@@ -90,6 +90,13 @@
       "name": "Salon oil",
       "order": 100,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/oils.jpg?t=1779874682724",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "doctorschoiceoil",
+      "name": "Doctors Choice Oil",
+      "order": 14,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/doctorschoiceoil.jpeg?t=1780414002605",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
