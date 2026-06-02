@@ -5,7 +5,7 @@
     "subcategory_id": "baramatirice",
     "subcategory_name": "Basmati Rice"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1780389445495",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-06-02T08:40:19.832Z",
       "updatedAt": "2026-06-02T08:40:19.832Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780394969855",
+      "name": "Fortune Super Basmati Rice ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780394969855_0.jpg?t=1780394972994"
+      ],
+      "unit": "1 Piece",
+      "stock": 100,
+      "price": 220,
+      "discount": 5,
+      "description": "Buy 1 Get 1 Free",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T10:09:32.994Z",
+      "updatedAt": "2026-06-02T10:09:32.994Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
