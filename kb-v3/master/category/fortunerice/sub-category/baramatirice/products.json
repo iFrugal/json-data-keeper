@@ -5,7 +5,7 @@
     "subcategory_id": "baramatirice",
     "subcategory_name": "Basmati Rice"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1780389445495",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-02T08:38:29.023Z",
       "updatedAt": "2026-06-02T08:38:29.023Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780389616805",
+      "name": "Fortune XXL Basmati Rice 10kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780389616805_0.jpg?t=1780389619832"
+      ],
+      "unit": "10 kg",
+      "stock": 50,
+      "price": 1040,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:40:19.832Z",
+      "updatedAt": "2026-06-02T08:40:19.832Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
