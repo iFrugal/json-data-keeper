@@ -1,5 +1,5 @@
 {
-  "total": 14,
+  "total": 15,
   "categories": [
     {
       "id": "spices",
@@ -79,13 +79,6 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "himanibestchoice",
-      "name": "Himani Best Choice",
-      "order": 13,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/himanibestchoice.jpg?t=1780332615394",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
       "id": "oils",
       "name": "Salon Oil",
       "order": 12,
@@ -93,10 +86,24 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
+      "id": "himanibestchoice",
+      "name": "Himani Best Choice",
+      "order": 13,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/himanibestchoice.jpg?t=1780332615394",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
       "id": "doctorschoiceoil",
       "name": "Doctors Choice Oil",
       "order": 14,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/doctorschoiceoil.jpeg?t=1780414002605",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "garammaasle",
+      "name": "Garam maasle",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/garammaasle.jpeg?t=1780414628250",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
