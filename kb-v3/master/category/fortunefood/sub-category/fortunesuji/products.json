@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "fortunefood",
+    "category_name": "Fortune food",
+    "subcategory_id": "fortunesuji",
+    "subcategory_name": "Fortune Suji"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780400442165",
+      "name": "Fortune Suji 200g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunesuji/products/prod_1780400442165_0.jpg?t=1780400444437"
+      ],
+      "unit": "200 g",
+      "stock": 100,
+      "price": 12,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:40:44.437Z",
+      "updatedAt": "2026-06-02T11:40:44.437Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
