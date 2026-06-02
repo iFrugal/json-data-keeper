@@ -211,19 +211,19 @@
       ]
     },
     {
-      "id": "12-pcs",
-      "label": "12 pcs",
+      "id": "1-box",
+      "label": "1 box",
       "order": 26,
       "types": [
+        "packaging",
         "quantity"
       ]
     },
     {
-      "id": "1-box",
-      "label": "1 box",
+      "id": "12-pcs",
+      "label": "12 pcs",
       "order": 27,
       "types": [
-        "packaging",
         "quantity"
       ]
     },
