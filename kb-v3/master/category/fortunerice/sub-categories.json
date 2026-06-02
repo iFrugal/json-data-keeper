@@ -3,13 +3,20 @@
     "id": "fortunerice",
     "name": "Fortune Rice"
   },
-  "total": 1,
+  "total": 2,
   "subcategories": [
     {
       "id": "baramatirice",
       "name": "Basmati Rice",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice.jpg?t=1780389367211",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortuneminikitrice",
+      "name": "Fortune Minikit Rice ",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/fortuneminikitrice.jpg?t=1780396362269",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
