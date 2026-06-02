@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil "
   },
-  "total": 6,
+  "total": 7,
   "products": [
     {
       "_id": "prod_1780415702845",
@@ -155,6 +155,31 @@
       "publish": true,
       "createdAt": "2026-06-02T16:03:58.316Z",
       "updatedAt": "2026-06-02T16:03:58.316Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780416276506",
+      "name": "Doctors' Choice Refined Soyabean 15kg Tin",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/soyabeanoil/products/prod_1780416276506_0.png?t=1780416278966"
+      ],
+      "unit": "1 pc",
+      "stock": 20,
+      "price": 2600,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T16:04:38.967Z",
+      "updatedAt": "2026-06-02T16:04:38.967Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
