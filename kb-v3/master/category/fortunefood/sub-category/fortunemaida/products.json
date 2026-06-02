@@ -3,13 +3,13 @@
     "category_id": "fortunefood",
     "category_name": "Fortune food",
     "subcategory_id": "fortunemaida",
-    "subcategory_name": "Fortune maida"
+    "subcategory_name": "Fortune Maida"
   },
   "total": 1,
   "products": [
     {
       "_id": "prod_1779814623058",
-      "name": "Fortune maida",
+      "name": "Fortune Maida",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunemaida/products/prod_1779814623058_0.jpg?t=1779814625326"
       ],
@@ -29,7 +29,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-26T16:57:05.326Z",
-      "updatedAt": "2026-05-26T16:57:05.326Z",
+      "updatedAt": "2026-06-02T11:30:06.341Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
