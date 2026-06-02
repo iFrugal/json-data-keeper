@@ -5,7 +5,7 @@
     "subcategory_id": "alachi",
     "subcategory_name": "Alachi"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1780416268864",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-02T16:05:02.830Z",
       "updatedAt": "2026-06-02T16:05:02.830Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780416332545",
+      "name": "Alachi Mini Bold",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/alachi/products/prod_1780416332545_0.jpeg?t=1780416335491"
+      ],
+      "unit": "1 kg",
+      "stock": 0,
+      "price": 2800,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T16:05:35.491Z",
+      "updatedAt": "2026-06-02T16:05:35.491Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
