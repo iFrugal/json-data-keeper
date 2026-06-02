@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "doctorschoiceoil",
+    "category_name": "Doctors Choice Oil",
+    "subcategory_id": "doctorschoicesunfloweroil",
+    "subcategory_name": "Doctors'Choice Sunflower Oil "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780416575888",
+      "name": "Doctors' Choice Refined Sunflowe Oil 750gm Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/doctorschoicesunfloweroil/products/prod_1780416575888_0.jpeg?t=1780416578165"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 2020,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T16:09:38.165Z",
+      "updatedAt": "2026-06-02T16:09:38.165Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
