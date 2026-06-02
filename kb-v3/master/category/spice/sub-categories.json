@@ -1,9 +1,9 @@
 {
   "parent": {
     "id": "spice",
-    "name": "spice"
+    "name": "Spice"
   },
-  "total": 6,
+  "total": 7,
   "subcategories": [
     {
       "id": "poppyseed",
@@ -45,6 +45,13 @@
       "name": "Sarso",
       "order": 6,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/sarso.jpeg?t=1779985513929",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "jeera",
+      "name": "Jeera",
+      "order": 7,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/jeera.jpeg?t=1780418242871",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
