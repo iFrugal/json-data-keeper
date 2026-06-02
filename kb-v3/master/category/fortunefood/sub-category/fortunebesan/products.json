@@ -9,7 +9,7 @@
   "products": [
     {
       "_id": "prod_1779814530720",
-      "name": "Fortune Besan 500gm",
+      "name": "Fortune Chana Besan 500gm",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortunebesan/products/prod_1779814530720_0.jpg?t=1779814532858"
       ],
@@ -29,7 +29,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-26T16:55:32.858Z",
-      "updatedAt": "2026-06-02T11:23:22.115Z",
+      "updatedAt": "2026-06-02T11:26:43.503Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
