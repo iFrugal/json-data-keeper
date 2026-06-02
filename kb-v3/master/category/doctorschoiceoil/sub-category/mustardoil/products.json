@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard Oil"
   },
-  "total": 5,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1780414711426",
@@ -130,6 +130,31 @@
       "publish": true,
       "createdAt": "2026-06-02T15:49:04.961Z",
       "updatedAt": "2026-06-02T15:49:04.961Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780415393136",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 15kg Tin",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780415393136_0.jpeg?t=1780415395555"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 2750,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:49:55.555Z",
+      "updatedAt": "2026-06-02T15:49:55.555Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
