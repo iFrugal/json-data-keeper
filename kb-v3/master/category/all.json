@@ -33,7 +33,7 @@
       "id": "mashaloil",
       "name": "Mashal oil",
       "order": 6,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/mashaloil.jpg?t=1779873880120",
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/mashaloil.jpeg?t=1780418082870",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
@@ -93,17 +93,17 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "doctorschoiceoil",
-      "name": "Doctors Choice Oil",
-      "order": 15,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/doctorschoiceoil.jpeg?t=1780414002605",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
       "id": "garammaasle",
       "name": "Garam maasle",
       "order": 14,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/garammaasle.jpeg?t=1780414628250",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "doctorschoiceoil",
+      "name": "Doctors Choice Oil",
+      "order": 15,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/doctorschoiceoil.jpeg?t=1780414002605",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
