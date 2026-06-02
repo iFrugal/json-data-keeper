@@ -5,7 +5,7 @@
     "subcategory_id": "fortuneminikitrice",
     "subcategory_name": "Fortune Minikit Rice "
   },
-  "total": 1,
+  "total": 2,
   "products": [
     {
       "_id": "prod_1780396484392",
@@ -30,6 +30,31 @@
       "publish": true,
       "createdAt": "2026-06-02T10:34:47.009Z",
       "updatedAt": "2026-06-02T10:34:47.009Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780396547405",
+      "name": "Fortune Premium Minikit Rice 10kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/fortuneminikitrice/products/prod_1780396547405_0.jpg?t=1780396550146"
+      ],
+      "unit": "10 kg",
+      "stock": 50,
+      "price": 580,
+      "discount": 4,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T10:35:50.146Z",
+      "updatedAt": "2026-06-02T10:35:50.146Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
