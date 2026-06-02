@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard Oil"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1780414711426",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-02T15:40:28.461Z",
       "updatedAt": "2026-06-02T15:40:28.461Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780414922026",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 750gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780414922026_0.png?t=1780414924815"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1785,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:42:04.815Z",
+      "updatedAt": "2026-06-02T15:42:04.815Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
