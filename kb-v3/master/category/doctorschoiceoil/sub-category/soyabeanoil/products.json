@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil "
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780415702845",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-02T16:02:08.140Z",
       "updatedAt": "2026-06-02T16:02:08.140Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780416185039",
+      "name": "Doctors' Choice Refined Soyabean 180gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/soyabeanoil/products/prod_1780416185039_0.jpeg?t=1780416187511"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1850,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T16:03:07.511Z",
+      "updatedAt": "2026-06-02T16:03:07.511Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
