@@ -3,7 +3,7 @@
     "id": "dryfruit",
     "name": "Dry Fruit"
   },
-  "total": 6,
+  "total": 7,
   "subcategories": [
     {
       "id": "kishmis",
@@ -45,6 +45,13 @@
       "name": "Pista ",
       "order": 6,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/pista.jpeg?t=1780417534109",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "akhrot",
+      "name": "Akhrot",
+      "order": 7,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/akhrot.jpeg?t=1780417550898",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
