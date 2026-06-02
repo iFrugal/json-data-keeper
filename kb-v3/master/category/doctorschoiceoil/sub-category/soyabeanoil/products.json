@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "doctorschoiceoil",
+    "category_name": "Doctors Choice Oil",
+    "subcategory_id": "soyabeanoil",
+    "subcategory_name": "Soyabean Oil "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780415702845",
+      "name": "Doctors' Choice Refined Soyabean 750gm Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/soyabeanoil/products/prod_1780415702845_0.png?t=1780415705735"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1560,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:55:05.735Z",
+      "updatedAt": "2026-06-02T15:55:05.735Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
