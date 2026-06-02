@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "garammaasle",
+    "category_name": "Garam maasle",
+    "subcategory_id": "alachi",
+    "subcategory_name": "Alachi"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780416268864",
+      "name": "Alachi 7mm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/alachi/products/prod_1780416268864_0.jpeg?t=1780416271907"
+      ],
+      "unit": "1 kg",
+      "stock": 0,
+      "price": 3000,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T16:04:31.908Z",
+      "updatedAt": "2026-06-02T16:04:31.908Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
