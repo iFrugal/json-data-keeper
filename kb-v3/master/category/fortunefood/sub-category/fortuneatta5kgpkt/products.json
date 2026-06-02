@@ -9,12 +9,12 @@
   "products": [
     {
       "_id": "prod_1779816520977",
-      "name": "Fortune atta 5 kg",
+      "name": "Fortune Atta 5kg",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunefood/sub-category/fortuneatta5kgpkt/products/prod_1779816520977_0.jpg?t=1779816523005"
       ],
       "unit": "5 kg",
-      "stock": 0,
+      "stock": 100,
       "price": 210,
       "discount": 0,
       "description": "",
@@ -29,7 +29,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-26T17:28:43.005Z",
-      "updatedAt": "2026-05-26T17:28:43.005Z",
+      "updatedAt": "2026-06-02T11:41:55.875Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
