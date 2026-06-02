@@ -5,7 +5,7 @@
     "subcategory_id": "baramatirice",
     "subcategory_name": "Basmati Rice"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780389445495",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-02T10:09:32.994Z",
       "updatedAt": "2026-06-02T10:09:32.994Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780395548696",
+      "name": "Kohinoor Basmati Rice ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780395548696_0.jpg?t=1780395551275"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 220,
+      "discount": 5,
+      "description": "Buy 1 Get 1 Free",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T10:19:11.275Z",
+      "updatedAt": "2026-06-02T10:19:11.275Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
