@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "fortunerice",
+    "category_name": "Fortune Rice",
+    "subcategory_id": "baramatirice",
+    "subcategory_name": "Basmati Rice"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780389445495",
+      "name": "Fortune Biryani Special Rice",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780389445495_0.jpg?t=1780389448481"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 165,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:37:28.481Z",
+      "updatedAt": "2026-06-02T08:37:28.481Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
