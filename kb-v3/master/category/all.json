@@ -73,16 +73,9 @@
     },
     {
       "id": "fortunesoap",
-      "name": "Fortune soap",
+      "name": "Fortune Soap",
       "order": 12,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/fortunesoap.jpg?t=1780061075301",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
-      "id": "oils",
-      "name": "Salon oil",
-      "order": 100,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/oils.jpg?t=1779874682724",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
@@ -90,6 +83,13 @@
       "name": "Himani Best Choice",
       "order": 13,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/himanibestchoice/himanibestchoice.jpg?t=1780332615394",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "oils",
+      "name": "Salon oil",
+      "order": 100,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/oils.jpg?t=1779874682724",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
