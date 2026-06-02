@@ -5,7 +5,7 @@
     "subcategory_id": "soyabariplane",
     "subcategory_name": "Soyabari plane"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1779875643502",
@@ -81,6 +81,31 @@
       "publish": true,
       "createdAt": "2026-05-27T09:56:26.960Z",
       "updatedAt": "2026-06-02T11:06:30.803Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780398433159",
+      "name": "Fortune Soyabari MRP-15Rs.",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780398433159_0.jpg?t=1780398436661"
+      ],
+      "unit": "1 pc",
+      "stock": 200,
+      "price": 13,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:07:16.661Z",
+      "updatedAt": "2026-06-02T11:07:16.661Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
