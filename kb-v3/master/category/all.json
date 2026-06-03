@@ -1,5 +1,5 @@
 {
-  "total": 15,
+  "total": 16,
   "categories": [
     {
       "id": "spices",
@@ -104,6 +104,13 @@
       "name": "Doctors Choice Oil",
       "order": 15,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/doctorschoiceoil.jpeg?t=1780414002605",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "purtioil",
+      "name": "Purti Oil",
+      "order": 16,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/purtioil.jpeg?t=1780504030011",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
