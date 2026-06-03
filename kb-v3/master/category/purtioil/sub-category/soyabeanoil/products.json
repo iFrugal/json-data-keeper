@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "purtioil",
+    "category_name": "Purti Oil",
+    "subcategory_id": "soyabeanoil",
+    "subcategory_name": "Soyabean Oil "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780505035149",
+      "name": "Purti Soyalite Refined Soyabean Oil 750g Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/soyabeanoil/products/prod_1780505035149_0.png?t=1780505038125"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1536,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-03T16:43:58.125Z",
+      "updatedAt": "2026-06-03T16:43:58.125Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
