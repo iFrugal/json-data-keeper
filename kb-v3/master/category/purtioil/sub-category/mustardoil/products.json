@@ -5,7 +5,7 @@
     "subcategory_id": "mustardoil",
     "subcategory_name": "Mustard Oil"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780504386781",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-03T16:38:34.950Z",
       "updatedAt": "2026-06-03T16:38:34.950Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780504757516",
+      "name": "Purti Kachi Ghani Mustard Oil 5lt Jar ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/mustardoil/products/prod_1780504757516_0.jpeg?t=1780504760113"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 900,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-03T16:39:20.113Z",
+      "updatedAt": "2026-06-03T16:39:20.113Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
