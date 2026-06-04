@@ -5,7 +5,7 @@
     "subcategory_id": "vanaspati",
     "subcategory_name": "Vanaspati "
   },
-  "total": 1,
+  "total": 2,
   "products": [
     {
       "_id": "prod_1780587332328",
@@ -30,6 +30,31 @@
       "publish": true,
       "createdAt": "2026-06-04T15:35:34.238Z",
       "updatedAt": "2026-06-04T15:35:34.238Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780587394184",
+      "name": "Purti Priti Vanaspati 15kg Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/vanaspati/products/prod_1780587394184_0.png?t=1780587397007"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 2250,
+      "discount": 1,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:36:37.007Z",
+      "updatedAt": "2026-06-04T15:36:37.007Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
