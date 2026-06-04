@@ -1,5 +1,5 @@
 {
-  "total": 16,
+  "total": 17,
   "categories": [
     {
       "id": "spices",
@@ -111,6 +111,13 @@
       "name": "Purti Oil",
       "order": 16,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/purtioil.jpeg?t=1780504030011",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "ricevilla",
+      "name": "Rice Villa",
+      "order": 17,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/ricevilla.jpeg?t=1780587949040",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
