@@ -5,7 +5,7 @@
     "subcategory_id": "soyabeanoil",
     "subcategory_name": "Soyabean Oil "
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1780505035149",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-06-04T15:26:16.212Z",
       "updatedAt": "2026-06-04T15:26:16.212Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780586851763",
+      "name": "Purti Soyalite Refined Soyabean Oil 375g Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/soyabeanoil/products/prod_1780586851763_0.jpeg?t=1780586854119"
+      ],
+      "unit": "1 box",
+      "stock": 20,
+      "price": 1620,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:27:34.119Z",
+      "updatedAt": "2026-06-04T15:27:34.119Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
