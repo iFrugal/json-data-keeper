@@ -3,7 +3,7 @@
     "id": "purtioil",
     "name": "Purti Oil"
   },
-  "total": 2,
+  "total": 3,
   "subcategories": [
     {
       "id": "mustardoil",
@@ -17,6 +17,13 @@
       "name": "Soyabean Oil ",
       "order": 2,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/soyabeanoil.jpeg?t=1780504797391",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "sunfloweroil",
+      "name": "Sunflower Oil",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/sunfloweroil.jpeg?t=1780587035224",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
