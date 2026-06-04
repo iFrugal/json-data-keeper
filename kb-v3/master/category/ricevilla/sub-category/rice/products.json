@@ -5,7 +5,7 @@
     "subcategory_id": "rice",
     "subcategory_name": "Rice"
   },
-  "total": 5,
+  "total": 6,
   "products": [
     {
       "_id": "prod_1780588190613",
@@ -130,6 +130,31 @@
       "publish": true,
       "createdAt": "2026-06-04T15:59:21.904Z",
       "updatedAt": "2026-06-04T15:59:51.293Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588983288",
+      "name": "Banskati Parboiled Rice 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588983288_0.jpeg?t=1780588987143"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 1820,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T16:03:07.143Z",
+      "updatedAt": "2026-06-04T16:03:07.143Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
