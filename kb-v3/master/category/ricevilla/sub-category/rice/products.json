@@ -5,7 +5,7 @@
     "subcategory_id": "rice",
     "subcategory_name": "Rice"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780588190613",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-04T15:56:40.326Z",
       "updatedAt": "2026-06-04T15:56:40.326Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588758388",
+      "name": "Gobindgarh Bhog Row Rice 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588758388_0.webp?t=1780588761904"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 4550,
+      "discount": 1,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:59:21.904Z",
+      "updatedAt": "2026-06-04T15:59:21.904Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
