@@ -5,7 +5,7 @@
     "subcategory_id": "rice",
     "subcategory_name": "Rice"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1780588190613",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-06-04T15:54:49.214Z",
       "updatedAt": "2026-06-04T15:54:49.214Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588597429",
+      "name": "Natural Rice Rich Jeera Kanti 26kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588597429_0.png?t=1780588600325"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 1450,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:56:40.326Z",
+      "updatedAt": "2026-06-04T15:56:40.326Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
