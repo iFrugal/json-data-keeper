@@ -13,7 +13,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/jeera/products/prod_1780741046464_0.webp?t=1780741051093"
       ],
-      "unit": "1 kg",
+      "unit": "",
       "stock": 10,
       "price": 216,
       "discount": 1,
@@ -29,7 +29,7 @@
       },
       "publish": true,
       "createdAt": "2026-06-06T10:17:31.093Z",
-      "updatedAt": "2026-06-06T10:17:31.093Z",
+      "updatedAt": "2026-06-06T10:18:16.695Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
