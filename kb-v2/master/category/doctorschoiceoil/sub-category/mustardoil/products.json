@@ -1,0 +1,186 @@
+{
+  "parent": {
+    "category_id": "doctorschoiceoil",
+    "category_name": "Doctors Choice Oil",
+    "subcategory_id": "mustardoil",
+    "subcategory_name": "Mustard Oil"
+  },
+  "total": 7,
+  "products": [
+    {
+      "_id": "prod_1780414711426",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 750gm Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780414711426_0.png?t=1780414714491"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1752,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:38:34.492Z",
+      "updatedAt": "2026-06-02T15:38:34.492Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780414825192",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 1lt Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780414825192_0.jpg?t=1780414828461"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1944,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:40:28.461Z",
+      "updatedAt": "2026-06-02T15:42:22.758Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780414922026",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 750gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780414922026_0.png?t=1780414924815"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 1785,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:42:04.815Z",
+      "updatedAt": "2026-06-02T15:42:04.815Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780415174076",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 1lt Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780415174076_1780415274529_0.jpg?t=1780415277386"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 2040,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:46:16.318Z",
+      "updatedAt": "2026-06-02T15:47:57.386Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780415342555",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 500gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780415342555_0.jpg?t=1780415344961"
+      ],
+      "unit": "1 box",
+      "stock": 15,
+      "price": 2240,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:49:04.961Z",
+      "updatedAt": "2026-06-02T15:49:04.961Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780415393136",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 15kg Tin",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780415393136_0.jpeg?t=1780415395555"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 2750,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:49:55.555Z",
+      "updatedAt": "2026-06-02T15:49:55.555Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780415440960",
+      "name": "Doctors' Choice Kachchi Ghani Mustard Oil 5lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/doctorschoiceoil/sub-category/mustardoil/products/prod_1780415440960_0.jpeg?t=1780415442787"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 900,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T15:50:42.787Z",
+      "updatedAt": "2026-06-02T15:50:42.787Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

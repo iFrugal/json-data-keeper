@@ -1,0 +1,136 @@
+{
+  "parent": {
+    "category_id": "oils",
+    "category_name": "Salon oil",
+    "subcategory_id": "mustred",
+    "subcategory_name": "MUSTRED"
+  },
+  "total": 5,
+  "products": [
+    {
+      "_id": "prod_1780331252097",
+      "name": "Saloni Kachchi Ghani Mustard Oil 1lt Pouch",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331252097_0.jpg?t=1780331255844"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2800,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:27:35.844Z",
+      "updatedAt": "2026-06-01T16:28:00.614Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780331337286",
+      "name": "Saloni Kachchi Ghani Mustard Oil 1lt Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331337286_0.jpg?t=1780331341355"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2700,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:29:01.355Z",
+      "updatedAt": "2026-06-01T16:29:01.355Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780331405099",
+      "name": "Saloni Kachchi Ghani Mustard Oil 500ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331405099_0.jpg?t=1780331410777"
+      ],
+      "unit": "1 box",
+      "stock": 0,
+      "price": 3312,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:30:10.777Z",
+      "updatedAt": "2026-06-01T16:30:10.777Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780331515800",
+      "name": "Saloni Kachchi Ghani Mustard Oil 200ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331515800_0.jpg?t=1780331520097"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2340,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:32:00.097Z",
+      "updatedAt": "2026-06-01T16:32:00.097Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780331595538",
+      "name": "Saloni Kachchi Ghani Mustard Oil 5lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/oils/sub-category/mustred/products/prod_1780331595538_0.jpg?t=1780331602878"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 900,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T16:33:22.878Z",
+      "updatedAt": "2026-06-01T16:33:22.878Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "parent": {
+    "id": "Fortune oil",
+    "name": "Fortune oil"
+  },
+  "total": 4,
+  "subcategories": [
+    {
+      "id": "mustardoil",
+      "name": "Mustard oil",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil.webp?t=1779884212648",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "soyabeanoil",
+      "name": "Soyabean Oil",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/soyabeanoil.png?t=1780066096552",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortunesunfloweroil",
+      "name": " Sunflower Oil",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunesunfloweroil.jpg?t=1780070679887",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortunericebranoil",
+      "name": "Rice Bran Oil",
+      "order": 4,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunericebranoil.jpg?t=1780071881451",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

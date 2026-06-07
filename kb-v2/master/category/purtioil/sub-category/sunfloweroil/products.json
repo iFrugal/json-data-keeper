@@ -1,0 +1,61 @@
+{
+  "parent": {
+    "category_id": "purtioil",
+    "category_name": "Purti Oil",
+    "subcategory_id": "sunfloweroil",
+    "subcategory_name": "Sunflower Oil"
+  },
+  "total": 2,
+  "products": [
+    {
+      "_id": "prod_1780587099167",
+      "name": "Purti Sunlite Sunflower Oil 750gm Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/sunfloweroil/products/prod_1780587099167_0.jpeg?t=1780587100966"
+      ],
+      "unit": "1 box",
+      "stock": 20,
+      "price": 1820,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:31:40.966Z",
+      "updatedAt": "2026-06-04T15:31:40.966Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780587171609",
+      "name": "Purti Sunlite Sunflower Oil 750gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/purtioil/sub-category/sunfloweroil/products/prod_1780587171609_0.jpeg?t=1780587173366"
+      ],
+      "unit": "1 box",
+      "stock": 20,
+      "price": 1845,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:32:53.366Z",
+      "updatedAt": "2026-06-04T15:32:53.366Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

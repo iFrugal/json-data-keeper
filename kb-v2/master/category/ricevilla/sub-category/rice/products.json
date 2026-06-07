@@ -1,0 +1,161 @@
+{
+  "parent": {
+    "category_id": "ricevilla",
+    "category_name": "Rice Villa",
+    "subcategory_id": "rice",
+    "subcategory_name": "Rice"
+  },
+  "total": 6,
+  "products": [
+    {
+      "_id": "prod_1780588190613",
+      "name": "Sonam Row Rice Special 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588190613_0.jpeg?t=1780588192357"
+      ],
+      "unit": "1 pc",
+      "stock": 20,
+      "price": 1690,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:49:52.357Z",
+      "updatedAt": "2026-06-04T15:49:52.357Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588397166",
+      "name": "N.Shankar Parboiled Rice Exotic 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588397166_0.jpeg?t=1780588398894"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 1350,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:53:18.894Z",
+      "updatedAt": "2026-06-04T15:57:13.180Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588486745",
+      "name": "Natural Rice Standard Minikit 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588486745_0.png?t=1780588489214"
+      ],
+      "unit": "1 Piece",
+      "stock": 15,
+      "price": 1280,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:54:49.214Z",
+      "updatedAt": "2026-06-04T15:56:57.096Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588597429",
+      "name": "Natural Rice Rich Jeera Kanti 26kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588597429_0.png?t=1780588600325"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 1450,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:56:40.326Z",
+      "updatedAt": "2026-06-04T15:56:40.326Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588758388",
+      "name": "Gobindo  Bhog Row Rice 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588758388_0.webp?t=1780588761904"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 4550,
+      "discount": 1,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T15:59:21.904Z",
+      "updatedAt": "2026-06-04T15:59:51.293Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780588983288",
+      "name": "Banskati Parboiled Rice 26kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/ricevilla/sub-category/rice/products/prod_1780588983288_0.jpeg?t=1780588987143"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 1820,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-04T16:03:07.143Z",
+      "updatedAt": "2026-06-04T16:03:07.143Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

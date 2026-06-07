@@ -1,0 +1,136 @@
+{
+  "parent": {
+    "category_id": "fortunesoap",
+    "category_name": "Fortune soap",
+    "subcategory_id": "soap100g",
+    "subcategory_name": "Soap 100g "
+  },
+  "total": 5,
+  "products": [
+    {
+      "_id": "prod_1780336896351",
+      "name": "Alife Lovely Lime Soap ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780336896351_0.jpg?t=1780336898681"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 18,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:01:38.681Z",
+      "updatedAt": "2026-06-01T18:01:38.681Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780336977262",
+      "name": "Alife Lovely Lily Soap ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780336977262_0.jpg?t=1780336979711"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 18,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:02:59.711Z",
+      "updatedAt": "2026-06-01T18:02:59.711Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780337065088",
+      "name": "Alife Gondhoraj & Neem Soap ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780337065088_0.png?t=1780337068582"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 17,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:04:28.582Z",
+      "updatedAt": "2026-06-01T18:04:28.582Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780337430186",
+      "name": "Alife Soothing Sandalwood Soap",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780337430186_0.jpg?t=1780337433533"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 18,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:10:33.533Z",
+      "updatedAt": "2026-06-01T18:10:33.533Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780337481542",
+      "name": "Alife Romantic Rose Soap",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoap/sub-category/soap100g/products/prod_1780337481542_0.jpg?t=1780337484513"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 18,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-01T18:11:24.513Z",
+      "updatedAt": "2026-06-01T18:11:24.513Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

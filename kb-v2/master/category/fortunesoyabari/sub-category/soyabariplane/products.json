@@ -1,0 +1,237 @@
+{
+  "parent": {
+    "category_id": "fortunesoyabari",
+    "category_name": "Fortune soya bari",
+    "subcategory_id": "soyabariplane",
+    "subcategory_name": "Soyabari plane"
+  },
+  "total": 9,
+  "products": [
+    {
+      "_id": "prod_1779875643502",
+      "name": "Fortune Soyabari 1kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875643502_0.jpg?t=1779875646630",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875643502_1.jpg?t=1779875648991"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 110,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T09:54:08.991Z",
+      "updatedAt": "2026-06-02T11:04:15.849Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779875708658",
+      "name": "Fortune Soyabari MRP-10Rs.",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875708658_0.jpg?t=1779875710584"
+      ],
+      "unit": "1 pc",
+      "stock": 1000,
+      "price": 8,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T09:55:10.584Z",
+      "updatedAt": "2026-06-02T11:05:56.091Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779875784708",
+      "name": "Fortune Soyabari  200gm box",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1779875784708_0.jpg?t=1779875786960"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 45,
+      "discount": 1,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T09:56:26.960Z",
+      "updatedAt": "2026-06-02T11:06:30.803Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780398433159",
+      "name": "Fortune Soyabari MRP-15Rs.",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780398433159_0.jpg?t=1780398436661"
+      ],
+      "unit": "1 pc",
+      "stock": 200,
+      "price": 13,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:07:16.661Z",
+      "updatedAt": "2026-06-02T11:07:16.661Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780398498171",
+      "name": "Fortune Soyabari Mini MRP-10Rs.",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780398498171_0.jpg?t=1780398501284"
+      ],
+      "unit": "1 pc",
+      "stock": 200,
+      "price": 8,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:08:21.284Z",
+      "updatedAt": "2026-06-02T11:08:21.284Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780398947786",
+      "name": "Fortune Soyabari Mini MRP-15Rs.",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780398947786_0.png?t=1780398950382"
+      ],
+      "unit": "1 pc",
+      "stock": 200,
+      "price": 13,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:15:50.382Z",
+      "updatedAt": "2026-06-02T11:15:50.382Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780399037667",
+      "name": "Fortune Soyabari Mini 200gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780399037667_0.jpg?t=1780399041017"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 45,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:17:21.017Z",
+      "updatedAt": "2026-06-02T11:17:21.017Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780399128032",
+      "name": "Fortune Soyabari Mini 1kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780399128032_0.png?t=1780399130195"
+      ],
+      "unit": "1 kg",
+      "stock": 100,
+      "price": 115,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:18:50.195Z",
+      "updatedAt": "2026-06-02T11:18:50.195Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780399269592",
+      "name": "Fortune Soyabari 300gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780399269592_0.jpg?t=1780399272306"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 42,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T11:21:12.306Z",
+      "updatedAt": "2026-06-02T11:21:12.306Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

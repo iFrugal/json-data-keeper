@@ -1,0 +1,111 @@
+{
+  "parent": {
+    "category_id": "kingsoil",
+    "category_name": "Kings oil",
+    "subcategory_id": "soyabinoil",
+    "subcategory_name": "Soyabean Oil"
+  },
+  "total": 4,
+  "products": [
+    {
+      "_id": "prod_1779883639243",
+      "name": "Kings Soyabean Oil 750gm Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883639243_0.jpg?t=1779883642511"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 1536,
+      "discount": 0,
+      "description": "Kings soya bin oil best edible oil.\n",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:07:22.511Z",
+      "updatedAt": "2026-06-02T08:22:05.179Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779883683035",
+      "name": "Kings Soyabean Oil 750gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883683035_0.png?t=1779883686625"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 1608,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:08:06.625Z",
+      "updatedAt": "2026-06-02T08:22:31.312Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779883858087",
+      "name": "Kings Soyabean Oil 375gm Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883858087_1780388610930_0.jpg?t=1780388614496"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 1656,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:11:01.195Z",
+      "updatedAt": "2026-06-02T08:23:34.496Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779883903627",
+      "name": "Kings Soyabean Oil 4.75lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/kingsoil/sub-category/soyabinoil/products/prod_1779883903627_1780388724304_0.jpg?t=1780388726666"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 750,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:11:46.425Z",
+      "updatedAt": "2026-06-02T08:25:26.667Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

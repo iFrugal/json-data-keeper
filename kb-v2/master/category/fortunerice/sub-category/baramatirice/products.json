@@ -1,0 +1,136 @@
+{
+  "parent": {
+    "category_id": "fortunerice",
+    "category_name": "Fortune Rice",
+    "subcategory_id": "baramatirice",
+    "subcategory_name": "Basmati Rice"
+  },
+  "total": 5,
+  "products": [
+    {
+      "_id": "prod_1780389445495",
+      "name": "Fortune Biryani Special Rice",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780389445495_0.jpg?t=1780389448481"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 165,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:37:28.481Z",
+      "updatedAt": "2026-06-02T08:37:28.481Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780389504595",
+      "name": "Fortune Super Basmati Rice",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780389504595_0.jpg?t=1780389509023"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 145,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:38:29.023Z",
+      "updatedAt": "2026-06-02T08:38:29.023Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780389616805",
+      "name": "Fortune XXL Basmati Rice 10kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780389616805_0.jpg?t=1780389619832"
+      ],
+      "unit": "10 kg",
+      "stock": 50,
+      "price": 1040,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T08:40:19.832Z",
+      "updatedAt": "2026-06-02T08:40:19.832Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780394969855",
+      "name": "Fortune Super Basmati Rice ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780394969855_0.jpg?t=1780394972994"
+      ],
+      "unit": "1 Piece",
+      "stock": 100,
+      "price": 220,
+      "discount": 5,
+      "description": "Buy 1 Get 1 Free",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T10:09:32.994Z",
+      "updatedAt": "2026-06-02T10:09:32.994Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780395548696",
+      "name": "Kohinoor Basmati Rice ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/fortunerice/sub-category/baramatirice/products/prod_1780395548696_0.jpg?t=1780395551275"
+      ],
+      "unit": "1 pc",
+      "stock": 150,
+      "price": 220,
+      "discount": 5,
+      "description": "Buy 1 Get 1 Free",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-02T10:19:11.275Z",
+      "updatedAt": "2026-06-02T10:19:11.275Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

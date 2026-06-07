@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "Fortune oil",
+    "category_name": "Fortune oil",
+    "subcategory_id": "fortunericebranoil",
+    "subcategory_name": "Rice Bran Oil"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780072113239",
+      "name": "Fortune Rice Bran Health Oil",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/fortunericebranoil/products/prod_1780072113239_0.jpg?t=1780072117406"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 1584,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T16:28:37.406Z",
+      "updatedAt": "2026-05-29T16:28:37.406Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

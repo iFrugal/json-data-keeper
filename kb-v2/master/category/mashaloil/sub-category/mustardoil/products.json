@@ -1,0 +1,161 @@
+{
+  "parent": {
+    "category_id": "mashaloil",
+    "category_name": "Mashal oil",
+    "subcategory_id": "mustardoil",
+    "subcategory_name": "Mustard Oil"
+  },
+  "total": 6,
+  "products": [
+    {
+      "_id": "prod_1780074912344",
+      "name": "Mashal Kachi Ghani Mustard Oil 1lt Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780074912344_0.jpg?t=1780074915477"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2700,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:15:15.477Z",
+      "updatedAt": "2026-05-29T17:17:01.745Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780074994702",
+      "name": "Mashal Kachi Ghani Mustard Oil 1lt Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780074994702_0.jpg?t=1780074998010"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2880,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:16:38.010Z",
+      "updatedAt": "2026-05-29T17:16:38.010Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780075289245",
+      "name": "Mashal Kachi Ghani Mustard Oil 500ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780075289245_0.jpg?t=1780075292856"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2760,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:21:32.856Z",
+      "updatedAt": "2026-05-29T17:21:32.856Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780075332762",
+      "name": "Mashal Kachi Ghani Mustard Oil 200ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780075332762_0.jpg?t=1780075336192"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2340,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:22:16.192Z",
+      "updatedAt": "2026-05-29T17:22:16.192Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780075376726",
+      "name": "Mashal Kachi Ghani Mustard Oil 5lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780075376726_0.jpg?t=1780075381801"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 920,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:23:01.801Z",
+      "updatedAt": "2026-05-29T17:23:01.801Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780075452294",
+      "name": "Mashal Kachi Ghani Mustard Oil 100ml Bottle ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/mashaloil/sub-category/mustardoil/products/prod_1780075452294_0.jpg?t=1780075455505"
+      ],
+      "unit": "1 box",
+      "stock": 10,
+      "price": 2520,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T17:24:15.505Z",
+      "updatedAt": "2026-05-29T17:24:15.505Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

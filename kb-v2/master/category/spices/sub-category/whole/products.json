@@ -1,260 +1,296 @@
 {
   "parent": {
     "category_id": "spices",
-    "category_name": "Spices",
+    "category_name": "KB Spices",
     "subcategory_id": "whole",
-    "subcategory_name": "Whole"
+    "subcategory_name": "Powder"
   },
-  "total": 10,
+  "total": 11,
   "products": [
     {
-      "_id": "jeera5",
-      "name": "Jeera",
+      "_id": "prod_1772876915276",
+      "name": "KB Masale Red Chilli Powder – 50g",
       "image": [
-        "https://cdn.pixabay.com/photo/2016/06/29/02/23/cumin-1487527_960_720.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cumin-seeds.jpg",
-        "https://cdn.pixabay.com/photo/2017/08/09/00/41/spices-2601933_960_720.jpg"
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772876915276_1774015808866_0.webp?t=1774015810756",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772876915276_1774015810756_1.webp?t=1774015812669"
       ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "50 GM",
-      "stock": 100,
-      "price": 45,
-      "discount": 0,
-      "description": "Jeera",
-      "more_details": {},
+      "unit": "50 g",
+      "stock": 50,
+      "price": 16,
+      "discount": 5,
+      "description": "Our premium 50g Haldi Powder is made from carefully selected, high-quality turmeric roots, finely ground to deliver rich color, strong aroma, and natural flavor. Known for its purity and freshness, this turmeric enhances the taste and appearance of your everyday cooking. A staple in Indian kitchens, it is perfect for curries, vegetables, dals, and marinades. Hygienically processed and packed to retain its natural goodness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Turmeric\n\nRich color and strong aroma\n\nNo added colors or preservatives\n\nFinely ground for easy blending\n\nHygienically packed for freshness",
+        "Storage Tips": "Store in a cool, dry place away from direct sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months from Manufacturing Date",
+        "Manufacturer Details": "KB Masale",
+        "Marketed By": "KB Masale",
+        "Return Policy": "7 days"
+      },
       "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2026-03-06T04:09:14.799Z"
+      "createdAt": "2026-03-07T09:48:35.276Z",
+      "updatedAt": "2026-06-07T03:34:36.237Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "_showPreview": false
     },
     {
-      "_id": "ajwain6",
-      "name": "Ajwain",
+      "_id": "prod_1772880397968",
+      "name": "KB Masale Red Chilli Powder – 500g",
       "image": [
-        "https://cdn.pixabay.com/photo/2020/08/12/18/07/anise-5485889_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2018/04/21/22/56/spice-3335025_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2016/11/18/12/27/anise-1836803_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2021/11/11/22/03/anise-6783386_960_720.jpg"
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772880397968_1774016007165_0.webp?t=1774016008803",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1772880397968_1774016008803_1.webp?t=1774016010185"
       ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "50 GM",
-      "stock": 100,
-      "price": 28,
-      "discount": 0,
-      "description": "Ajwain",
-      "more_details": {},
+      "unit": "500 g",
+      "stock": 10,
+      "price": 160,
+      "discount": 2,
+      "description": "KB Masale Red Chilli Powder is made from carefully selected, sun-dried red chillies, finely ground to deliver vibrant natural color, rich aroma, and perfect spiciness. It enhances the taste and appearance of all your dishes, making them more flavorful and appetizing. Hygienically processed and packed to maintain freshness and purity for a longer duration.",
+      "more_details": {
+        "Key Features": "Made from premium quality red chillies\n\nBright natural color and rich flavor\n\nConsistent spice level\n\nNo added colors or preservatives\n\nFinely ground and hygienically packed",
+        "Storage Tips": "Store in a cool and dry place away from direct sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months from Manufacturing Date",
+        "Manufacturer Details": "KB Masale",
+        "Marketed By": "Kb Mart",
+        "Return Policy": "7 days"
+      },
       "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
+      "createdAt": "2026-03-07T10:46:37.968Z",
+      "updatedAt": "2026-06-07T03:35:09.635Z",
+      "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "_id": "poppyseed7",
-      "name": "Poppy Seed",
+      "_id": "prod_1774016175241",
+      "name": "KB Masale Haldi Powder – 50g",
       "image": [
-        "https://cdn.pixabay.com/photo/2017/11/06/23/11/poppy-seeds-2922023_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/04/02/18/00/poppy-seeds-704648_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2012/04/01/18/02/poppy-seeds-23727_960_720.png",
-        "https://cdn.pixabay.com/photo/2017/09/29/17/24/poppy-seed-2792213_960_720.jpg"
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016175241_0.webp?t=1774016178424",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016175241_1.webp?t=1774016180711"
       ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "50 GM",
-      "stock": 100,
-      "price": 105,
-      "discount": 0,
-      "description": "Poppy Seed",
-      "more_details": {},
-      "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
-    },
-    {
-      "_id": "saunf8",
-      "name": "Saunf",
-      "image": [
-        "https://cdn.pixabay.com/photo/2018/11/19/22/36/fennel-seeds-3820941_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/07/27/10/54/saunf-2549259_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2019/12/27/22/45/fennel-4722331_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2016/02/13/12/26/fennel-seeds-1199676_960_720.jpg"
-      ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "50 GM",
-      "stock": 100,
-      "price": 20,
-      "discount": 0,
-      "description": "Saunf",
-      "more_details": {},
-      "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
-    },
-    {
-      "_id": "sarso9",
-      "name": "Sarso",
-      "image": [
-        "https://cdn.pixabay.com/photo/2018/11/29/20/09/mustard-seeds-3843138_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2016/11/30/13/24/mustard-seeds-1876157_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/11/06/20/58/mustard-seeds-1027328_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2019/07/03/19/08/mustard-seeds-4318472_960_720.jpg"
-      ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "100 GM",
-      "stock": 100,
-      "price": 20,
-      "discount": 0,
-      "description": "Sarso",
-      "more_details": {},
-      "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
-    },
-    {
-      "_id": "sadasarso10",
-      "name": "Sada Sarso",
-      "image": [
-        "https://cdn.pixabay.com/photo/2018/11/29/20/09/mustard-seeds-3843138_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2016/11/30/13/24/mustard-seeds-1876157_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/11/06/20/58/mustard-seeds-1027328_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2019/07/03/19/08/mustard-seeds-4318472_960_720.jpg"
-      ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "100 GM",
-      "stock": 100,
-      "price": 20,
-      "discount": 0,
-      "description": "Sada Sarso",
-      "more_details": {},
-      "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
-    },
-    {
-      "_id": "methi11",
-      "name": "Methi",
-      "image": [
-        "https://cdn.pixabay.com/photo/2018/07/25/18/49/fenugreek-3563962_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/08/19/18/28/fenugreek-seeds-2651705_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/07/18/20/54/fenugreek-seeds-851289_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/07/12/21/14/seeds-2492488_960_720.jpg"
-      ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "100 GM",
-      "stock": 100,
-      "price": 20,
-      "discount": 0,
-      "description": "Methi",
-      "more_details": {},
-      "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
-    },
-    {
-      "_id": "panchphoran12",
-      "name": "Panch Phoran",
-      "image": [
-        "https://cdn.pixabay.com/photo/2020/01/24/11/10/indian-spices-4787749_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2019/09/13/10/12/spices-4472699_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/10/12/20/49/indian-spices-2843585_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2015/03/05/22/36/spices-660665_960_720.jpg"
-      ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "100 GM",
-      "stock": 100,
-      "price": 20,
-      "discount": 0,
-      "description": "Panch Phoran",
-      "more_details": {},
-      "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
-    },
-    {
-      "_id": "clove13",
-      "name": "Clove",
-      "image": [
-        "https://cdn.pixabay.com/photo/2017/03/08/23/57/cloves-2126199_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2016/03/11/23/15/clove-1249566_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2014/12/27/20/02/cloves-581496_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2017/01/31/16/23/cloves-2029739_960_720.jpg"
-      ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "50 GM",
-      "stock": 100,
+      "unit": "50 g",
+      "stock": 10,
       "price": 120,
-      "discount": 0,
-      "description": "Clove",
-      "more_details": {},
+      "discount": 2,
+      "description": "KB Masale Haldi Powder is made from premium quality turmeric roots, finely ground to give rich color, strong aroma, and natural flavor. Perfect for daily cooking, it enhances taste and appearance of all your dishes. Hygienically processed and packed for freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Turmeric\n\nMade from high-quality turmeric roots\n\nBright yellow color with rich aroma\n\nEnhances taste and appearance of dishes\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nSuitable for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place. Keep airtight after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Kb masale",
+        "Marketed By": "kb mart",
+        "Return Policy": "7 days"
+      },
       "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
+      "createdAt": "2026-03-20T14:16:20.711Z",
+      "updatedAt": "2026-03-20T14:16:20.711Z",
+      "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "_id": "sadatil14",
-      "name": "Sada Til",
+      "_id": "prod_1774016325865",
+      "name": "KB Masale Haldi Powder – 500g",
       "image": [
-        "https://cdn.pixabay.com/photo/2019/01/05/15/06/sesame-seeds-3917372_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2019/04/23/18/51/sesame-seeds-4152415_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2016/12/07/10/03/sesame-seeds-1898376_960_720.jpg",
-        "https://cdn.pixabay.com/photo/2018/05/12/08/43/sesame-seeds-3398294_960_720.jpg"
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016325865_0.webp?t=1774016331031",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016325865_1.webp?t=1774016333220"
       ],
-      "category": [
-        "spices"
-      ],
-      "subCategory": [
-        "whole"
-      ],
-      "unit": "50 GM",
+      "unit": "500 g",
       "stock": 100,
-      "price": 20,
-      "discount": 0,
-      "description": "Sada Til",
-      "more_details": {},
+      "price": 110,
+      "discount": 20,
+      "description": "KB Masale Haldi Powder is prepared from carefully selected turmeric roots, finely ground to deliver bright color, rich aroma, and authentic flavor. Ideal for everyday cooking, it adds taste, color, and quality to your meals. Hygienically packed to ensure purity and long-lasting freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Turmeric\n\nMade from high-quality turmeric roots\n\nBright yellow color with rich aroma\n\nEnhances taste and appearance of dishes\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nSuitable for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place away from sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months from Manufacturing Date",
+        "Manufacturer Details": "Kb masale",
+        "Marketed By": "Kb Mart",
+        "Return Policy": "7 days"
+      },
       "publish": true,
-      "createdAt": "2025-10-28T12:00:00.000Z",
-      "updatedAt": "2025-10-28T12:00:00.000Z"
+      "createdAt": "2026-03-20T14:18:53.220Z",
+      "updatedAt": "2026-06-07T03:34:55.637Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016451749",
+      "name": "KB Masale Dhaniya Powder (Coriander Powder) 50gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016451749_0.webp?t=1774016454268",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016451749_1.webp?t=1774016456115"
+      ],
+      "unit": "50 g",
+      "stock": 100,
+      "price": 12,
+      "discount": 5,
+      "description": "KB Masale Dhaniya Powder is made from carefully selected, high-quality coriander seeds, finely ground to deliver fresh aroma and mild, earthy flavor. It enhances the taste of curries, vegetables, and gravies, making your dishes more delicious and aromatic. Hygienically processed and packed to ensure purity and freshness.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Coriander Powder\n\nMade from premium quality coriander seeds\n\nFresh aroma and mild, authentic flavor\n\nNo added colors or preservatives\n\nFinely ground for easy mixing\n\nHygienically processed and packed\n\nIdeal for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "KB Masale",
+        "Marketed By": "KB Mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:20:56.115Z",
+      "updatedAt": "2026-06-07T03:35:22.074Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016680180",
+      "name": "KB Masale Isabgol Bhusi (Psyllium Husk) 50g",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016680180_0.webp?t=1774016682967",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016680180_1.webp?t=1774016686248"
+      ],
+      "unit": "50 g",
+      "stock": 100,
+      "price": 50,
+      "discount": 2,
+      "description": "KB Masale Isabgol Bhusi is made from high-quality psyllium husk, known for its natural fiber content. It supports healthy digestion and helps maintain regular bowel movement. Light, natural, and easy to consume, it is hygienically processed and packed to ensure purity and freshness.",
+      "more_details": {
+        "Key Features": "100% Natural Psyllium Husk\n\nRich source of dietary fiber\n\nSupports healthy digestion\n\nHelps maintain regular bowel movement\n\nNo added chemicals or preservatives\n\nLight and easy to consume\n\nHygienically processed and packed",
+        "Storage Tips": "Store in a cool and dry place away from moisture. Keep container tightly closed after use.",
+        "Type": "Manufactuer",
+        "Shelf Life": "24 Months from Manufacturing Date",
+        "Manufacturer Details": "Kb Masale",
+        "Marketed By": "Kb mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:24:46.248Z",
+      "updatedAt": "2026-06-07T03:36:16.635Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1774016793693",
+      "name": "KB Masale Jeera Powder (Cumin Powder) 50gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016793693_0.webp?t=1774016797197",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1774016793693_1.webp?t=1774016801071"
+      ],
+      "unit": "50 g",
+      "stock": 100,
+      "price": 19,
+      "discount": 5,
+      "description": "KB Masale Jeera Powder is made from premium quality cumin seeds, carefully roasted and finely ground to deliver a rich aroma and warm, earthy flavor. It enhances the taste of a variety of dishes including curries, vegetables, dals, and snacks. Hygienically processed and packed to ensure freshness, purity, and consistent quality.",
+      "more_details": {
+        "Key Features": "100% Pure and Natural Cumin Powder\n\nMade from high-quality cumin seeds\n\nRich aroma and authentic flavor\n\nFinely ground for easy blending\n\nNo added colors or preservatives\n\nHygienically processed and packed\n\nIdeal for everyday cooking",
+        "Storage Tips": "Store in a cool and dry place away from direct sunlight. Keep in an airtight container after opening.",
+        "Type": "Manufacturer",
+        "Shelf Life": "12 Months",
+        "Manufacturer Details": "Kb masale",
+        "Marketed By": "Kb Mart",
+        "Return Policy": "7 days"
+      },
+      "publish": true,
+      "createdAt": "2026-03-20T14:26:41.071Z",
+      "updatedAt": "2026-06-07T03:36:04.597Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779814840353",
+      "name": "Kb poppy sheed",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779814840353_0.jpg?t=1779814843131"
+      ],
+      "unit": "50 g",
+      "stock": 10,
+      "price": 85,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T17:00:43.132Z",
+      "updatedAt": "2026-06-07T03:35:30.351Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779815355717",
+      "name": "Almond",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815355717_0.jpg?t=1779815358715",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815355717_1.jpg?t=1779815362094"
+      ],
+      "unit": "500 g",
+      "stock": 10,
+      "price": 480,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T17:09:22.094Z",
+      "updatedAt": "2026-05-26T17:09:22.094Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779815428514",
+      "name": "KB Ajwain 500gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815428514_0.webp?t=1779815430808",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815428514_1.webp?t=1779815433264"
+      ],
+      "unit": "500 g",
+      "stock": 10,
+      "price": 130,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-26T17:10:33.264Z",
+      "updatedAt": "2026-06-07T03:35:47.564Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779873447006",
+      "name": "KB Turmeric Powder 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779873447006_0.webp?t=1779873449496"
+      ],
+      "unit": "1 kg",
+      "stock": 10,
+      "price": 210,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T09:17:29.496Z",
+      "updatedAt": "2026-05-27T09:17:29.496Z",
+      "updatedBy": "kbmasale12@gmail.com"
     }
   ]
 }

@@ -1,0 +1,61 @@
+{
+  "parent": {
+    "category_id": "spice",
+    "category_name": "Spice",
+    "subcategory_id": "haldi",
+    "subcategory_name": "Haldi"
+  },
+  "total": 2,
+  "products": [
+    {
+      "_id": "prod_1780741369612",
+      "name": "Swastik Gota Haldi 50kg bag ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/haldi/products/prod_1780741369612_0.webp?t=1780741373528"
+      ],
+      "unit": "1 kg",
+      "stock": 10,
+      "price": 186,
+      "discount": 1,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-06T10:22:53.528Z",
+      "updatedAt": "2026-06-06T10:23:18.914Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780802640767",
+      "name": "501 Haldi 50kg bag ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/haldi/products/prod_1780802640767_0.webp?t=1780802648053"
+      ],
+      "unit": "1 kg",
+      "stock": 1,
+      "price": 170,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-07T03:24:08.053Z",
+      "updatedAt": "2026-06-07T03:24:08.053Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

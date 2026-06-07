@@ -1,0 +1,211 @@
+{
+  "parent": {
+    "category_id": "Fortune oil",
+    "category_name": "Fortune oil",
+    "subcategory_id": "mustardoil",
+    "subcategory_name": "Mustard oil"
+  },
+  "total": 8,
+  "products": [
+    {
+      "_id": "prod_1779884329644",
+      "name": "Fortune kgmo 1lt Pouch",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884329644_0.webp?t=1779884332539"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2720,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:18:52.539Z",
+      "updatedAt": "2026-05-27T12:18:52.539Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884372431",
+      "name": "Fortune kgmo 1lt botel",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884372431_0.png?t=1779884376851"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2100,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:19:36.851Z",
+      "updatedAt": "2026-05-27T12:19:36.851Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884420147",
+      "name": "Fortune kgmo 200 gm botel ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884420147_0.webp?t=1779884423410"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2280,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:20:23.410Z",
+      "updatedAt": "2026-05-27T12:20:23.410Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884535393",
+      "name": "Fortune kgmo 5lt jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884535393_0.png?t=1779884538844"
+      ],
+      "unit": "1 pc",
+      "stock": 100,
+      "price": 900,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:22:18.844Z",
+      "updatedAt": "2026-05-27T12:22:18.844Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884625841",
+      "name": "Fortune kgmo 500 ml Pouch ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884625841_0.jpeg?t=1779884628177"
+      ],
+      "unit": "1 box",
+      "stock": 100,
+      "price": 2064,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:23:48.177Z",
+      "updatedAt": "2026-05-27T12:23:48.177Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1779884676995",
+      "name": "Fortunekgmo 15 kg tina",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884676995_0.webp?t=1779884681802"
+      ],
+      "unit": "1 pc",
+      "stock": 400,
+      "price": 2750,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-27T12:24:41.802Z",
+      "updatedAt": "2026-05-27T12:24:41.802Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780065346461",
+      "name": "Fortune Kgmo 500ml Bottle",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1780065346461_0.jpg?t=1780065349435"
+      ],
+      "unit": "1 Piece",
+      "stock": 240,
+      "price": 2140,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T14:35:49.435Z",
+      "updatedAt": "2026-05-29T14:38:06.058Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780065718594",
+      "name": "Fortune Kgmo 2lt Jar",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/Fortune oil/sub-category/mustardoil/products/prod_1780065718594_0.png?t=1780065721355"
+      ],
+      "unit": "1 Piece",
+      "stock": 1,
+      "price": 350,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-05-29T14:42:01.355Z",
+      "updatedAt": "2026-05-29T14:42:01.355Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
