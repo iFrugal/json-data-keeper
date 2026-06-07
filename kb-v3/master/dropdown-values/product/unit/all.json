@@ -216,7 +216,8 @@
       "types": [
         "packaging",
         "quantity"
-      ]
+      ],
+      "showPricePerPiece": true
     },
     {
       "id": "12-pcs",
