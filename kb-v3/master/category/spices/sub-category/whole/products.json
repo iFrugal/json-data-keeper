@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "Powder"
   },
-  "total": 11,
+  "total": 12,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -290,6 +290,31 @@
       "publish": true,
       "createdAt": "2026-05-27T09:17:29.496Z",
       "updatedAt": "2026-05-27T09:17:29.496Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780811321457",
+      "name": "KB Jeera 500 gm ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1780811321457_0.webp?t=1780811324211"
+      ],
+      "unit": "12 pcs",
+      "stock": 0,
+      "price": 100,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-07T05:48:44.211Z",
+      "updatedAt": "2026-06-07T05:48:44.211Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
