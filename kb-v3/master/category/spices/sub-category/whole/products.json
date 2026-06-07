@@ -300,8 +300,8 @@
       ],
       "unit": "1 pc",
       "stock": 10,
-      "price": 130,
-      "discount": 0,
+      "price": 140,
+      "discount": 5,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -314,7 +314,7 @@
       },
       "publish": true,
       "createdAt": "2026-06-07T05:48:44.211Z",
-      "updatedAt": "2026-06-07T05:50:04.422Z",
+      "updatedAt": "2026-06-07T05:50:18.514Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
