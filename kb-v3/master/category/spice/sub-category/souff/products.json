@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "spice",
+    "category_name": "Spice",
+    "subcategory_id": "souff",
+    "subcategory_name": "Souff"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780935518606",
+      "name": "Kohinoor Red Souff 30kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/souff/products/prod_1780935518606_0.webp?t=1780935521111"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 5550,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:18:41.111Z",
+      "updatedAt": "2026-06-08T16:18:41.111Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
