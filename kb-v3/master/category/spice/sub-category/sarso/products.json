@@ -5,7 +5,7 @@
     "subcategory_id": "sarso",
     "subcategory_name": "Sarso"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1780935776382",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-08T16:24:49.860Z",
       "updatedAt": "2026-06-08T16:24:49.860Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780936143336",
+      "name": "Sumangal Yellow Mustard Seeds Mini 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/sarso/products/prod_1780936143336_0.webp?t=1780936145754"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 6200,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:29:05.754Z",
+      "updatedAt": "2026-06-08T16:29:05.754Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
