@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "spice",
+    "category_name": "Spice",
+    "subcategory_id": "sarso",
+    "subcategory_name": "Sarso"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780935776382",
+      "name": "Sumangal Black Sarso 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/sarso/products/prod_1780935776382_0.webp?t=1780935778662"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 4500,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:22:58.662Z",
+      "updatedAt": "2026-06-08T16:22:58.662Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
