@@ -5,7 +5,7 @@
     "subcategory_id": "souff",
     "subcategory_name": "Souff"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1780935518606",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-08T16:20:00.270Z",
       "updatedAt": "2026-06-08T16:20:00.270Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780935651533",
+      "name": "Kb Souff 30kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/souff/products/prod_1780935651533_0.webp?t=1780935654030"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 6450,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:20:54.030Z",
+      "updatedAt": "2026-06-08T16:20:54.030Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
