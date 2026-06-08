@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "spice",
+    "category_name": "Spice",
+    "subcategory_id": "saboodana",
+    "subcategory_name": "Saboodana"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780936645069",
+      "name": "KBT Sabudana Small 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/saboodana/products/prod_1780936645069_0.webp?t=1780936648440"
+      ],
+      "unit": "1 pc",
+      "stock": 20,
+      "price": 2800,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:37:28.440Z",
+      "updatedAt": "2026-06-08T16:37:28.440Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
