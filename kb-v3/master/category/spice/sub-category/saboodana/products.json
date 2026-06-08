@@ -5,7 +5,7 @@
     "subcategory_id": "saboodana",
     "subcategory_name": "Saboodana"
   },
-  "total": 1,
+  "total": 2,
   "products": [
     {
       "_id": "prod_1780936645069",
@@ -30,6 +30,31 @@
       "publish": true,
       "createdAt": "2026-06-08T16:37:28.440Z",
       "updatedAt": "2026-06-08T16:37:28.440Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1780936727694",
+      "name": "KB Sabudana Big 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/saboodana/products/prod_1780936727694_0.webp?t=1780936731498"
+      ],
+      "unit": "1 pc",
+      "stock": 20,
+      "price": 3200,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:38:51.498Z",
+      "updatedAt": "2026-06-08T16:38:51.498Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
