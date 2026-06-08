@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "spice",
+    "category_name": "Spice",
+    "subcategory_id": "methi",
+    "subcategory_name": "Methi"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1780936259970",
+      "name": "Sumangal Methi 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/methi/products/prod_1780936259970_0.webp?t=1780936262697"
+      ],
+      "unit": "1 pc",
+      "stock": 15,
+      "price": 4800,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-08T16:31:02.697Z",
+      "updatedAt": "2026-06-08T16:31:02.697Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
