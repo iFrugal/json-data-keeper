@@ -34,14 +34,14 @@
     },
     {
       "_id": "prod_1780802640767",
-      "name": "501 Haldi 50kg bag ",
+      "name": "501 Haldi Special Finger 50kg bag ",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/haldi/products/prod_1780802640767_1781108777900_0.webp?t=1781108780565"
       ],
       "unit": "1 kg",
-      "stock": 1,
+      "stock": 10,
       "price": 170,
-      "discount": 0,
+      "discount": 2,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -54,7 +54,7 @@
       },
       "publish": true,
       "createdAt": "2026-06-07T03:24:08.053Z",
-      "updatedAt": "2026-06-10T16:26:20.565Z",
+      "updatedAt": "2026-06-10T16:28:33.505Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
