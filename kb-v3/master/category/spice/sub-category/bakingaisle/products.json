@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "spice",
+    "category_name": "Spice",
+    "subcategory_id": "bakingaisle",
+    "subcategory_name": "Baking Aisle"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1781110444819",
+      "name": "SS Maize Starch 50Kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/bakingaisle/products/prod_1781110444819_0.webp?t=1781110446932"
+      ],
+      "unit": "1 pc",
+      "stock": 25,
+      "price": 1750,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-10T16:54:06.932Z",
+      "updatedAt": "2026-06-10T16:54:06.932Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
