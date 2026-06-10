@@ -3,7 +3,7 @@
     "id": "spice",
     "name": "Spice"
   },
-  "total": 9,
+  "total": 10,
   "subcategories": [
     {
       "id": "poppyseed",
@@ -66,6 +66,13 @@
       "name": "Coriander Seeds",
       "order": 9,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/corianderseeds.webp?t=1781109712353",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "bakingaisle",
+      "name": "Baking Aisle",
+      "order": 10,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/bakingaisle.webp?t=1781110336641",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
