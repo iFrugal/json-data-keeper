@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "KB Powder Spices "
   },
-  "total": 13,
+  "total": 12,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -213,32 +213,6 @@
       "publish": true,
       "createdAt": "2026-05-26T17:00:43.132Z",
       "updatedAt": "2026-06-07T03:35:30.351Z",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
-      "_id": "prod_1779815355717",
-      "name": "Almond",
-      "image": [
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815355717_0.jpg?t=1779815358715",
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1779815355717_1.jpg?t=1779815362094"
-      ],
-      "unit": "500 g",
-      "stock": 10,
-      "price": 480,
-      "discount": 0,
-      "description": "",
-      "more_details": {
-        "Key Features": "",
-        "Storage Tips": "",
-        "Type": "",
-        "Shelf Life": "",
-        "Manufacturer Details": "",
-        "Marketed By": "",
-        "Return Policy": ""
-      },
-      "publish": true,
-      "createdAt": "2026-05-26T17:09:22.094Z",
-      "updatedAt": "2026-05-26T17:09:22.094Z",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
