@@ -5,7 +5,7 @@
     "subcategory_id": "haldi",
     "subcategory_name": "Haldi"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780741369612",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-10T16:29:56.320Z",
       "updatedAt": "2026-06-10T16:30:31.203Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781109171911",
+      "name": "5555 Haldi Rajapur Tukdi 50kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/haldi/products/prod_1781109171911_0.webp?t=1781109175421"
+      ],
+      "unit": "1 kg",
+      "stock": 20,
+      "price": 165,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-10T16:32:55.421Z",
+      "updatedAt": "2026-06-10T16:32:55.421Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
