@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "KB Powder Spices "
   },
-  "total": 12,
+  "total": 13,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -315,6 +315,31 @@
       "publish": true,
       "createdAt": "2026-06-07T05:48:44.211Z",
       "updatedAt": "2026-06-07T05:50:18.514Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781109283154",
+      "name": "Kb Red Chilli Powder 40kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1781109283154_0.webp?t=1781109286114"
+      ],
+      "unit": "1 kg",
+      "stock": 20,
+      "price": 320,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-10T16:34:46.114Z",
+      "updatedAt": "2026-06-10T16:34:46.114Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
