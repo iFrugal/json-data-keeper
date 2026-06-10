@@ -3,7 +3,7 @@
     "id": "spice",
     "name": "Spice"
   },
-  "total": 8,
+  "total": 9,
   "subcategories": [
     {
       "id": "poppyseed",
@@ -59,6 +59,13 @@
       "name": "Saboodana",
       "order": 8,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/saboodana.webp?t=1780936487988",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "corianderseeds",
+      "name": "Coriander Seeds",
+      "order": 9,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/corianderseeds.webp?t=1781109712353",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
