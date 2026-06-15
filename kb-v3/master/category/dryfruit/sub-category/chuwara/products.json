@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "dryfruit",
+    "category_name": "Dry Fruit",
+    "subcategory_id": "chuwara",
+    "subcategory_name": "Chuwara"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1781539832974",
+      "name": "Chuwara 1Kg Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/chuwara/products/prod_1781539832974_0.webp?t=1781539835651"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 285,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T16:10:35.651Z",
+      "updatedAt": "2026-06-15T16:10:35.651Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
