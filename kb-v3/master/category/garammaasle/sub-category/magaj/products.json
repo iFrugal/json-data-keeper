@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "garammaasle",
+    "category_name": "Garam masale",
+    "subcategory_id": "magaj",
+    "subcategory_name": "Magaj"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1781540079336",
+      "name": "Magaj Seeds 1kg Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/magaj/products/prod_1781540079336_0.webp?t=1781540081814"
+      ],
+      "unit": "1 kg",
+      "stock": 25,
+      "price": 620,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T16:14:41.814Z",
+      "updatedAt": "2026-06-15T16:14:41.814Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
