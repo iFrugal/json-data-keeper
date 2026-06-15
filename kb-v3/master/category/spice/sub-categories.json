@@ -3,7 +3,7 @@
     "id": "spice",
     "name": "Spice"
   },
-  "total": 10,
+  "total": 11,
   "subcategories": [
     {
       "id": "poppyseed",
@@ -73,6 +73,13 @@
       "name": "Baking Aisle",
       "order": 10,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/bakingaisle.webp?t=1781110336641",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "ajwainseeds",
+      "name": "Ajwain Seeds",
+      "order": 11,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/ajwainseeds.webp?t=1781539144132",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
