@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "KB Powder Spices "
   },
-  "total": 12,
+  "total": 13,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -314,6 +314,31 @@
       "publish": true,
       "createdAt": "2026-06-10T16:34:46.114Z",
       "updatedAt": "2026-06-10T16:34:46.114Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781538525300",
+      "name": "KB Masale Kasmiri Red Chilli Powder 1kg",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1781538525300_0.webp?t=1781538527891"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 520,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T15:48:47.891Z",
+      "updatedAt": "2026-06-15T15:48:47.891Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
