@@ -5,7 +5,7 @@
     "subcategory_id": "kishmis",
     "subcategory_name": "Kishmis"
   },
-  "total": 2,
+  "total": 3,
   "products": [
     {
       "_id": "prod_1781539456647",
@@ -55,6 +55,31 @@
       "publish": true,
       "createdAt": "2026-06-15T16:05:33.768Z",
       "updatedAt": "2026-06-15T16:05:33.768Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781539601627",
+      "name": "Kismis Gold Leaf 500Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/kishmis/products/prod_1781539601627_0.webp?t=1781539603890"
+      ],
+      "unit": "500 g",
+      "stock": 20,
+      "price": 220,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T16:06:43.890Z",
+      "updatedAt": "2026-06-15T16:06:43.890Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
