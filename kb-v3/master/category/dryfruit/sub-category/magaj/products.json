@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "dryfruit",
+    "category_name": "Dry Fruit",
+    "subcategory_id": "magaj",
+    "subcategory_name": "Magaj"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1781539662082",
+      "name": "Maga Seeds 1Kg Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/dryfruit/sub-category/magaj/products/prod_1781539662082_0.webp?t=1781539664261"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 620,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T16:07:44.261Z",
+      "updatedAt": "2026-06-15T16:07:44.261Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
