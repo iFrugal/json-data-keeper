@@ -5,7 +5,7 @@
     "subcategory_id": "whole",
     "subcategory_name": "KB Powder Spices "
   },
-  "total": 14,
+  "total": 15,
   "products": [
     {
       "_id": "prod_1772876915276",
@@ -364,6 +364,31 @@
       "publish": true,
       "createdAt": "2026-06-15T15:51:14.322Z",
       "updatedAt": "2026-06-15T15:51:14.322Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781538726381",
+      "name": "KB Masale Coriander Powder 250Gm ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/whole/products/prod_1781538726381_0.webp?t=1781538729006"
+      ],
+      "unit": "250 g",
+      "stock": 50,
+      "price": 65,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T15:52:09.006Z",
+      "updatedAt": "2026-06-15T15:52:09.006Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
