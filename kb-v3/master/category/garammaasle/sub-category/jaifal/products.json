@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "garammaasle",
+    "category_name": "Garam masale",
+    "subcategory_id": "jaifal",
+    "subcategory_name": "Jaifal"
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1781539997651",
+      "name": "Nutmegs 1Kg Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/garammaasle/sub-category/jaifal/products/prod_1781539997651_0.webp?t=1781540000206"
+      ],
+      "unit": "1 kg",
+      "stock": 20,
+      "price": 820,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-15T16:13:20.206Z",
+      "updatedAt": "2026-06-15T16:13:20.206Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
