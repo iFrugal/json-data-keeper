@@ -5,7 +5,7 @@
     "subcategory_id": "souff",
     "subcategory_name": "Souff"
   },
-  "total": 3,
+  "total": 4,
   "products": [
     {
       "_id": "prod_1780935518606",
@@ -80,6 +80,31 @@
       "publish": true,
       "createdAt": "2026-06-08T16:20:54.030Z",
       "updatedAt": "2026-06-08T16:20:54.030Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781796288531",
+      "name": "Keshari Souff 30kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/souff/products/prod_1781796288531_0.webp?t=1781796291035"
+      ],
+      "unit": "1 pc",
+      "stock": 25,
+      "price": 4890,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-18T15:24:51.035Z",
+      "updatedAt": "2026-06-18T15:24:51.035Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
