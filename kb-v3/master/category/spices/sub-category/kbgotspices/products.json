@@ -1,0 +1,36 @@
+{
+  "parent": {
+    "category_id": "spices",
+    "category_name": "KB Spices",
+    "subcategory_id": "kbgotspices",
+    "subcategory_name": " KB Gota Spices "
+  },
+  "total": 1,
+  "products": [
+    {
+      "_id": "prod_1781794951829",
+      "name": "KB Jeera 500Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spices/sub-category/kbgotspices/products/prod_1781794951829_0.webp?t=1781794954906"
+      ],
+      "unit": "500 g",
+      "stock": 25,
+      "price": 200,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-18T15:02:34.906Z",
+      "updatedAt": "2026-06-18T15:02:34.906Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
