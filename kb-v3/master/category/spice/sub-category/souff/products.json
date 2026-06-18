@@ -5,7 +5,7 @@
     "subcategory_id": "souff",
     "subcategory_name": "Souff"
   },
-  "total": 4,
+  "total": 5,
   "products": [
     {
       "_id": "prod_1780935518606",
@@ -105,6 +105,31 @@
       "publish": true,
       "createdAt": "2026-06-18T15:24:51.035Z",
       "updatedAt": "2026-06-18T15:24:51.035Z",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "_id": "prod_1781796409254",
+      "name": "Kohinoor Green Souff 30kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v3/images/category/spice/sub-category/souff/products/prod_1781796409254_0.webp?t=1781796411759"
+      ],
+      "unit": "1 pc",
+      "stock": 20,
+      "price": 4950,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-18T15:26:51.759Z",
+      "updatedAt": "2026-06-18T15:26:51.759Z",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
