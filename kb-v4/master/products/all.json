@@ -1,5 +1,5 @@
 {
-  "total": 187,
+  "total": 188,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5821,6 +5821,37 @@
       "subCategoryId": "kbgotspices",
       "subCategoryName": " KB Gota Spices ",
       "subCategoryOrder": 2
+    },
+    {
+      "_id": "prod_1782233867590",
+      "name": "KB Sah Marich 500Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/garammaasle/sub-category/sahmarich/products/prod_1782233867590_0.webp?t=1782233870291"
+      ],
+      "unit": "500 g",
+      "stock": 50,
+      "price": 750,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T16:57:50.291Z",
+      "updatedAt": "2026-06-23T16:57:50.291Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "garammaasle",
+      "categoryName": "Garam masale",
+      "categoryOrder": 14,
+      "subCategoryId": "sahmarich",
+      "subCategoryName": "Sah Marich",
+      "subCategoryOrder": 4
     }
   ]
 }
