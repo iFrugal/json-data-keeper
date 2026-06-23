@@ -1,5 +1,5 @@
 {
-  "total": 189,
+  "total": 190,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5883,6 +5883,37 @@
       "subCategoryId": "sahmarich",
       "subCategoryName": "Sah Marich",
       "subCategoryOrder": 4
+    },
+    {
+      "_id": "prod_1782234042398",
+      "name": "KB Black Paper 500Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/kbgotspices/products/prod_1782234042398_0.webp?t=1782234045599"
+      ],
+      "unit": "500 g",
+      "stock": 50,
+      "price": 550,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T17:00:45.599Z",
+      "updatedAt": "2026-06-23T17:00:45.599Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spices",
+      "categoryName": "KB Spices",
+      "categoryOrder": 1,
+      "subCategoryId": "kbgotspices",
+      "subCategoryName": " KB Gota Spices ",
+      "subCategoryOrder": 2
     }
   ]
 }
