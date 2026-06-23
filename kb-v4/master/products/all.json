@@ -1,5 +1,5 @@
 {
-  "total": 185,
+  "total": 186,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5750,6 +5750,37 @@
       "publish": true,
       "createdAt": "2026-06-23T16:52:42.983Z",
       "updatedAt": "2026-06-23T16:52:42.983Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spices",
+      "categoryName": "KB Spices",
+      "categoryOrder": 1,
+      "subCategoryId": "kbgotspices",
+      "subCategoryName": " KB Gota Spices ",
+      "subCategoryOrder": 2
+    },
+    {
+      "_id": "prod_1782233632532",
+      "name": "KB Coriander 50Gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/kbgotspices/products/prod_1782233632532_0.webp?t=1782233636104"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 400,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T16:53:56.104Z",
+      "updatedAt": "2026-06-23T16:53:56.104Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spices",
       "categoryName": "KB Spices",
