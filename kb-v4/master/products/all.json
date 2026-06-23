@@ -1,5 +1,5 @@
 {
-  "total": 188,
+  "total": 189,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5845,6 +5845,37 @@
       "publish": true,
       "createdAt": "2026-06-23T16:57:50.291Z",
       "updatedAt": "2026-06-23T16:57:50.291Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "garammaasle",
+      "categoryName": "Garam masale",
+      "categoryOrder": 14,
+      "subCategoryId": "sahmarich",
+      "subCategoryName": "Sah Marich",
+      "subCategoryOrder": 4
+    },
+    {
+      "_id": "prod_1782233930511",
+      "name": "KB Sah Marich 250Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/garammaasle/sub-category/sahmarich/products/prod_1782233930511_0.webp?t=1782233932750"
+      ],
+      "unit": "250 g",
+      "stock": 50,
+      "price": 400,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T16:58:52.750Z",
+      "updatedAt": "2026-06-23T16:58:52.750Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "garammaasle",
       "categoryName": "Garam masale",
