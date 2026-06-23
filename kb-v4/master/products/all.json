@@ -2282,14 +2282,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:11:01.195Z",
-      "updatedAt": "2026-06-02T08:23:34.496Z",
+      "updatedAt": "2026-06-23T17:13:29.514Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "kingsoil",
       "categoryName": "Kings oil",
       "categoryOrder": 8,
       "subCategoryId": "soyabinoil",
       "subCategoryName": "Soyabean Oil",
-      "subCategoryOrder": 2
+      "subCategoryOrder": 2,
+      "pcsPerUnit": 24
     },
     {
       "_id": "prod_1779883903627",
