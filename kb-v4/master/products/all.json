@@ -1075,7 +1075,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/mustardoil/products/prod_1780065346461_0.jpg?t=1780065349435"
       ],
-      "unit": "1 Piece",
+      "unit": "2 kg",
       "stock": 240,
       "price": 2140,
       "discount": 5,
@@ -1091,7 +1091,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T14:35:49.435Z",
-      "updatedAt": "2026-05-29T14:38:06.058Z",
+      "updatedAt": "2026-06-23T10:28:25.138Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
