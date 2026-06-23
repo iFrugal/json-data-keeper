@@ -1,5 +1,5 @@
 {
-  "total": 181,
+  "total": 182,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5627,6 +5627,40 @@
       "categoryOrder": 17,
       "subCategoryId": "rice",
       "subCategoryName": "Rice",
+      "subCategoryOrder": 1
+    },
+    {
+      "_id": "prod_1782231820062",
+      "name": "KBT Turmeric Powder 1kg Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/whole/products/prod_1782231820062_0.webp?t=1782231823912",
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/whole/products/prod_1782231820062_1.webp?t=1782231826571"
+      ],
+      "unit": "1 Bag",
+      "stock": 50,
+      "price": 6800,
+      "discount": 2,
+      "pcsPerUnit": 30,
+      "perUnitLabel": "kg",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T16:23:46.571Z",
+      "updatedAt": "2026-06-23T16:23:46.571Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spices",
+      "categoryName": "KB Spices",
+      "categoryOrder": 1,
+      "subCategoryId": "whole",
+      "subCategoryName": "KB Powder Spices ",
       "subCategoryOrder": 1
     }
   ]
