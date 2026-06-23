@@ -1,5 +1,5 @@
 {
-  "total": 184,
+  "total": 185,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5719,6 +5719,37 @@
       "publish": true,
       "createdAt": "2026-06-23T16:51:29.360Z",
       "updatedAt": "2026-06-23T16:51:29.360Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spices",
+      "categoryName": "KB Spices",
+      "categoryOrder": 1,
+      "subCategoryId": "kbgotspices",
+      "subCategoryName": " KB Gota Spices ",
+      "subCategoryOrder": 2
+    },
+    {
+      "_id": "prod_1782233559642",
+      "name": "KBT Jeera 50Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/kbgotspices/products/prod_1782233559642_0.webp?t=1782233562983"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 800,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T16:52:42.983Z",
+      "updatedAt": "2026-06-23T16:52:42.983Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spices",
       "categoryName": "KB Spices",
