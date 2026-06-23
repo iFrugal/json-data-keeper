@@ -2015,10 +2015,10 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunesoyabari/sub-category/soyabariplane/products/prod_1780398498171_0.jpg?t=1780398501284"
       ],
-      "unit": "1 pc",
+      "unit": "1 Bag",
       "stock": 200,
-      "price": 8,
-      "discount": 2,
+      "price": 2816,
+      "discount": 0,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -2031,14 +2031,15 @@
       },
       "publish": true,
       "createdAt": "2026-06-02T11:08:21.284Z",
-      "updatedAt": "2026-06-02T11:08:21.284Z",
+      "updatedAt": "2026-06-23T17:09:16.754Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "fortunesoyabari",
       "categoryName": "Fortune soya bari",
       "categoryOrder": 7,
       "subCategoryId": "soyabariplane",
       "subCategoryName": "Fortune Soyabari ",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 352
     },
     {
       "_id": "prod_1780398947786",
