@@ -1777,14 +1777,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T17:22:16.192Z",
-      "updatedAt": "2026-05-29T17:22:16.192Z",
+      "updatedAt": "2026-06-23T17:02:31.610Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "mashaloil",
       "categoryName": "Mashal oil",
       "categoryOrder": 6,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard Oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 60
     },
     {
       "_id": "prod_1780075289245",
