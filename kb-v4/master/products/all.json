@@ -1076,7 +1076,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/mustardoil/products/prod_1780065346461_0.jpg?t=1780065349435"
       ],
-      "unit": "2 kg",
+      "unit": "1 box",
       "stock": 240,
       "price": 2140,
       "discount": 5,
@@ -1092,14 +1092,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T14:35:49.435Z",
-      "updatedAt": "2026-06-23T10:28:25.138Z",
+      "updatedAt": "2026-06-23T17:06:07.591Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 24
     },
     {
       "_id": "prod_1779884535393",
