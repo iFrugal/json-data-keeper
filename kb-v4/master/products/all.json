@@ -1106,9 +1106,9 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/mustardoil/products/prod_1779884535393_0.png?t=1779884538844"
       ],
-      "unit": "1 pc",
+      "unit": "1 box",
       "stock": 100,
-      "price": 900,
+      "price": 3600,
       "discount": 0,
       "description": "",
       "more_details": {
@@ -1122,14 +1122,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:22:18.844Z",
-      "updatedAt": "2026-05-27T12:22:18.844Z",
+      "updatedAt": "2026-06-23T10:28:48.638Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 4
     },
     {
       "_id": "prod_1779884676995",
