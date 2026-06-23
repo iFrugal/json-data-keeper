@@ -1,0 +1,23 @@
+{
+  "parent": {
+    "id": "spices",
+    "name": "KB Spices"
+  },
+  "total": 2,
+  "subcategories": [
+    {
+      "id": "whole",
+      "name": "KB Powder Spices ",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/whole.jpg?t=1774025171231",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "kbgotspices",
+      "name": " KB Gota Spices ",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/kbgotspices.jpeg?t=1780811795097",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

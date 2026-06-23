@@ -1,0 +1,86 @@
+{
+  "parent": {
+    "id": "spice",
+    "name": "Spice"
+  },
+  "total": 11,
+  "subcategories": [
+    {
+      "id": "poppyseed",
+      "name": "Poppy Seed",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/poppyseed.jpeg?t=1779985209289",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "methi",
+      "name": "Methi",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/methi.jpeg?t=1779985377124",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "souff",
+      "name": "Souff",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/souff.jpeg?t=1779985391750",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "haldi",
+      "name": "Haldi",
+      "order": 4,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/haldi.jpeg?t=1779985450748",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "drychiilylanka",
+      "name": "Dry Chiily ( Lanka)",
+      "order": 5,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/drychiilylanka.jpeg?t=1779985476858",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "sarso",
+      "name": "Sarso",
+      "order": 6,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/sarso.jpeg?t=1779985513929",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "jeera",
+      "name": "Jeera",
+      "order": 7,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/jeera.jpeg?t=1780418242871",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "saboodana",
+      "name": "Saboodana",
+      "order": 8,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/saboodana.webp?t=1780936487988",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "corianderseeds",
+      "name": "Coriander Seeds",
+      "order": 9,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/corianderseeds.webp?t=1781109712353",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "bakingaisle",
+      "name": "Baking Aisle",
+      "order": 10,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/bakingaisle.webp?t=1781110336641",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "ajwainseeds",
+      "name": "Ajwain Seeds",
+      "order": 11,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/ajwainseeds.webp?t=1781539144132",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

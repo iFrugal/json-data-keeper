@@ -1,0 +1,23 @@
+{
+  "parent": {
+    "id": "kingsoil",
+    "name": "Kings oil"
+  },
+  "total": 2,
+  "subcategories": [
+    {
+      "id": "mustardoil",
+      "name": "Mustard oil",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/kingsoil/sub-category/mustardoil.webp?t=1779883270529",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "soyabinoil",
+      "name": "Soyabean Oil",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/kingsoil/sub-category/soyabinoil.jpg?t=1779883561157",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

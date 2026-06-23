@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "oils",
+    "name": "Salon oil"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "mustred",
+      "name": "MUSTRED",
+      "order": 100,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/oils/sub-category/mustred.jpg?t=1780331007134",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

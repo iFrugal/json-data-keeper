@@ -1,0 +1,37 @@
+{
+  "parent": {
+    "id": "purtioil",
+    "name": "Purti Oil"
+  },
+  "total": 4,
+  "subcategories": [
+    {
+      "id": "mustardoil",
+      "name": "Mustard Oil",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/purtioil/sub-category/mustardoil.jpeg?t=1780504073157",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "soyabeanoil",
+      "name": "Soyabean Oil ",
+      "order": 2,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/purtioil/sub-category/soyabeanoil.jpeg?t=1780504797391",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "sunfloweroil",
+      "name": "Sunflower Oil",
+      "order": 3,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/purtioil/sub-category/sunfloweroil.jpeg?t=1780587035224",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "vanaspati",
+      "name": "Vanaspati ",
+      "order": 4,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/purtioil/sub-category/vanaspati.jpeg?t=1780587283239",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}

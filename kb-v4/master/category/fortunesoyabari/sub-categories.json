@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "fortunesoyabari",
+    "name": "Fortune soya bari"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "soyabariplane",
+      "name": "Fortune Soyabari ",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunesoyabari/sub-category/soyabariplane.jpg?t=1779875570816",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
