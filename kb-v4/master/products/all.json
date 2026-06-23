@@ -2470,14 +2470,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T11:21:15.737Z",
-      "updatedAt": "2026-05-27T11:27:41.622Z",
+      "updatedAt": "2026-06-23T17:12:00.589Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "emamioil",
       "categoryName": "Emami oil",
       "categoryOrder": 9,
       "subCategoryId": "healthandtasty",
       "subCategoryName": "Health and tasty",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 16
     },
     {
       "_id": "prod_1779881052731",
