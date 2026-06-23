@@ -1,5 +1,5 @@
 {
-  "total": 28,
+  "total": 29,
   "types": [
     "weight",
     "volume",
@@ -234,6 +234,15 @@
       "types": [
         "packaging"
       ]
+    },
+    {
+      "id": "1-bag",
+      "label": "1 Bag",
+      "order": 29,
+      "types": [
+        "weight"
+      ],
+      "showPricePerPiece": true
     }
   ]
 }
