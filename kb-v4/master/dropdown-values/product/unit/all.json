@@ -21,8 +21,12 @@
       "label": "25 g",
       "order": 2,
       "types": [
-        "weight"
-      ]
+        "weight",
+        "quantity",
+        "volume",
+        "packaging"
+      ],
+      "showPricePerPiece": true
     },
     {
       "id": "50-g",
