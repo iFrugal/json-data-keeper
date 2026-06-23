@@ -932,14 +932,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:19:36.851Z",
-      "updatedAt": "2026-05-27T12:19:36.851Z",
+      "updatedAt": "2026-06-23T10:26:30.535Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 12
     },
     {
       "_id": "prod_1779884329644",
