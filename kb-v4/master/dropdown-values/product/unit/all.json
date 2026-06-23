@@ -198,7 +198,8 @@
       "order": 24,
       "types": [
         "quantity"
-      ]
+      ],
+      "showPricePerPiece": true
     },
     {
       "id": "1-pack",
