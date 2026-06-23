@@ -1,5 +1,5 @@
 {
-  "total": 183,
+  "total": 184,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5695,6 +5695,37 @@
       "subCategoryId": "whole",
       "subCategoryName": "KB Powder Spices ",
       "subCategoryOrder": 1
+    },
+    {
+      "_id": "prod_1782233486262",
+      "name": "KBT Souff 50Gm",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/sub-category/kbgotspices/products/prod_1782233486262_0.webp?t=1782233489360"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 700,
+      "discount": 2,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-23T16:51:29.360Z",
+      "updatedAt": "2026-06-23T16:51:29.360Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spices",
+      "categoryName": "KB Spices",
+      "categoryOrder": 1,
+      "subCategoryId": "kbgotspices",
+      "subCategoryName": " KB Gota Spices ",
+      "subCategoryOrder": 2
     }
   ]
 }
