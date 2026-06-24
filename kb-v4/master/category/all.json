@@ -1,11 +1,18 @@
 {
-  "total": 17,
+  "total": 18,
   "categories": [
     {
       "id": "spices",
       "name": "KB Spices",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spices/spices.jpg?t=1774026244479",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "garammaasle",
+      "name": "Garam masale",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/garammaasle/garammaasle.jpeg?t=1780414628250",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
@@ -93,13 +100,6 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "garammaasle",
-      "name": "Garam masale",
-      "order": 1,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/garammaasle/garammaasle.jpeg?t=1780414628250",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
       "id": "doctorschoiceoil",
       "name": "Doctors Choice Oil",
       "order": 15,
@@ -118,6 +118,13 @@
       "name": "Rice Villa",
       "order": 17,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/ricevilla/ricevilla.jpeg?t=1780587949040",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "pulses",
+      "name": "Pulses ",
+      "order": 18,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/pulses/pulses.webp?t=1782317302006",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
