@@ -1,5 +1,5 @@
 {
-  "total": 190,
+  "total": 191,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5934,6 +5934,39 @@
       "subCategoryId": "methi",
       "subCategoryName": "Methi",
       "subCategoryOrder": 2
+    },
+    {
+      "_id": "prod_1782316118461",
+      "name": "Ajwain 24Carat 30Kg Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/ajwainseeds/products/prod_1782316118461_0.webp?t=1782316121521"
+      ],
+      "unit": "1 Bag",
+      "stock": 50,
+      "price": 6850,
+      "discount": 5,
+      "pcsPerUnit": 30,
+      "perUnitLabel": "pc",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-24T15:48:41.521Z",
+      "updatedAt": "2026-06-24T15:48:41.521Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spice",
+      "categoryName": "Spice",
+      "categoryOrder": 11,
+      "subCategoryId": "ajwainseeds",
+      "subCategoryName": "Ajwain Seeds",
+      "subCategoryOrder": 11
     }
   ]
 }
