@@ -1,5 +1,5 @@
 {
-  "total": 194,
+  "total": 195,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6060,6 +6060,39 @@
       "subCategoryId": "poppyseed",
       "subCategoryName": "Poppy Seed",
       "subCategoryOrder": 1
+    },
+    {
+      "_id": "prod_1782317053812",
+      "name": "KBT Dry Chilly Hole Bag",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/drychiilylanka/products/prod_1782317053812_0.webp?t=1782317056658"
+      ],
+      "unit": "1 Bag",
+      "stock": 50,
+      "price": 10950,
+      "discount": 5,
+      "pcsPerUnit": 40,
+      "perUnitLabel": "pc",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-24T16:04:16.658Z",
+      "updatedAt": "2026-06-24T16:04:16.658Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spice",
+      "categoryName": "Spice",
+      "categoryOrder": 11,
+      "subCategoryId": "drychiilylanka",
+      "subCategoryName": "Dry Chiily ( Lanka)",
+      "subCategoryOrder": 5
     }
   ]
 }
