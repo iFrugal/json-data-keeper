@@ -1,5 +1,5 @@
 {
-  "total": 193,
+  "total": 194,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6022,6 +6022,37 @@
       "publish": true,
       "createdAt": "2026-06-24T15:56:11.692Z",
       "updatedAt": "2026-06-24T15:56:11.692Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spice",
+      "categoryName": "Spice",
+      "categoryOrder": 11,
+      "subCategoryId": "poppyseed",
+      "subCategoryName": "Poppy Seed",
+      "subCategoryOrder": 1
+    },
+    {
+      "_id": "prod_1782316709796",
+      "name": "KB Poppy Seeds 250Gm Pack",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/poppyseed/products/prod_1782316709796_0.webp?t=1782316712386"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 1600,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-24T15:58:32.386Z",
+      "updatedAt": "2026-06-24T15:58:32.386Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spice",
       "categoryName": "Spice",
