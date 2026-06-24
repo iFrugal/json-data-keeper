@@ -1,5 +1,5 @@
 {
-  "total": 191,
+  "total": 192,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -5967,6 +5967,37 @@
       "subCategoryId": "ajwainseeds",
       "subCategoryName": "Ajwain Seeds",
       "subCategoryOrder": 11
+    },
+    {
+      "_id": "prod_1782316326427",
+      "name": "KB Saboodana 500Gm ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/saboodana/products/prod_1782316326427_0.webp?t=1782316328897"
+      ],
+      "unit": "1 kg",
+      "stock": 50,
+      "price": 90,
+      "discount": 5,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-24T15:52:08.897Z",
+      "updatedAt": "2026-06-24T15:52:08.897Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "spice",
+      "categoryName": "Spice",
+      "categoryOrder": 11,
+      "subCategoryId": "saboodana",
+      "subCategoryName": "Saboodana",
+      "subCategoryOrder": 8
     }
   ]
 }
