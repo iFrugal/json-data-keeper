@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "pulses",
+    "name": "Pulses "
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "kbpulses",
+      "name": "KB Pulses ",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/pulses/sub-category/kbpulses.webp?t=1782317366929",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
