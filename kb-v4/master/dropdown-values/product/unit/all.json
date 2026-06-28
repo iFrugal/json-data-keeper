@@ -216,22 +216,22 @@
       ]
     },
     {
+      "id": "12-pcs",
+      "label": "12 pcs",
+      "order": 26,
+      "types": [
+        "quantity"
+      ]
+    },
+    {
       "id": "1-box",
       "label": "1 box",
-      "order": 26,
+      "order": 27,
       "types": [
         "packaging",
         "quantity"
       ],
       "showPricePerPiece": true
-    },
-    {
-      "id": "12-pcs",
-      "label": "12 pcs",
-      "order": 27,
-      "types": [
-        "quantity"
-      ]
     },
     {
       "id": "1-pouch",
