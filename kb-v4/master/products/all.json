@@ -3251,10 +3251,10 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/jeera/products/prod_1780741046464_0.webp?t=1780741051093"
       ],
-      "unit": "",
+      "unit": "1 Bag",
       "stock": 10,
-      "price": 216,
-      "discount": 1,
+      "price": 6900,
+      "discount": 0,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -3267,14 +3267,16 @@
       },
       "publish": true,
       "createdAt": "2026-06-06T10:17:31.093Z",
-      "updatedAt": "2026-06-06T10:18:16.695Z",
+      "updatedAt": "2026-06-28T16:37:12.231Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spice",
       "categoryName": "Spice",
-      "categoryOrder": 11,
+      "categoryOrder": 1,
       "subCategoryId": "jeera",
       "subCategoryName": "Jeera",
-      "subCategoryOrder": 7
+      "subCategoryOrder": 7,
+      "pcsPerUnit": 30,
+      "perUnitLabel": "kg"
     },
     {
       "_id": "prod_1781796607396",
