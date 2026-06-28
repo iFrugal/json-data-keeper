@@ -246,7 +246,10 @@
       "label": "1 Bag",
       "order": 29,
       "types": [
-        "weight"
+        "weight",
+        "volume",
+        "quantity",
+        "packaging"
       ],
       "showPricePerPiece": true
     }
