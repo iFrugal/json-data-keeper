@@ -3152,7 +3152,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/sarso/products/prod_1780935776382_0.webp?t=1780935778662"
       ],
-      "unit": "1 pc",
+      "unit": "1 Bag",
       "stock": 10,
       "price": 4500,
       "discount": 2,
@@ -3168,14 +3168,16 @@
       },
       "publish": true,
       "createdAt": "2026-06-08T16:22:58.662Z",
-      "updatedAt": "2026-06-08T16:25:15.430Z",
+      "updatedAt": "2026-06-28T16:33:35.664Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spice",
       "categoryName": "Spice",
-      "categoryOrder": 11,
+      "categoryOrder": 1,
       "subCategoryId": "sarso",
       "subCategoryName": "Sarso",
-      "subCategoryOrder": 6
+      "subCategoryOrder": 6,
+      "pcsPerUnit": 50,
+      "perUnitLabel": "kg"
     },
     {
       "_id": "prod_1780935887438",
