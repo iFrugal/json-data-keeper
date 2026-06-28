@@ -5914,7 +5914,7 @@
       "price": 2850,
       "discount": 5,
       "pcsPerUnit": 30,
-      "perUnitLabel": "pc",
+      "perUnitLabel": "kg",
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -5927,11 +5927,11 @@
       },
       "publish": true,
       "createdAt": "2026-06-24T15:46:02.304Z",
-      "updatedAt": "2026-06-24T15:46:02.304Z",
+      "updatedAt": "2026-06-28T16:26:42.096Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spice",
       "categoryName": "Spice",
-      "categoryOrder": 11,
+      "categoryOrder": 1,
       "subCategoryId": "methi",
       "subCategoryName": "Methi",
       "subCategoryOrder": 2
