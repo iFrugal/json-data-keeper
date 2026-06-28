@@ -2988,7 +2988,7 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/sub-category/haldi/products/prod_1780802640767_1781108777900_0.webp?t=1781108780565"
       ],
-      "unit": "",
+      "unit": "1 Bag",
       "stock": 10,
       "price": 170,
       "discount": 2,
@@ -3004,7 +3004,7 @@
       },
       "publish": true,
       "createdAt": "2026-06-07T03:24:08.053Z",
-      "updatedAt": "2026-06-28T16:28:59.788Z",
+      "updatedAt": "2026-06-28T16:32:28.217Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "spice",
       "categoryName": "Spice",
@@ -3012,7 +3012,8 @@
       "subCategoryId": "haldi",
       "subCategoryName": "Haldi",
       "subCategoryOrder": 4,
-      "_showPreview": false
+      "_showPreview": false,
+      "pcsPerUnit": 50
     },
     {
       "_id": "prod_1781109171911",
