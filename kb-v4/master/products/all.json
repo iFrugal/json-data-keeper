@@ -1461,7 +1461,7 @@
       ],
       "unit": "1 box",
       "stock": 10,
-      "price": 360,
+      "price": 2800,
       "discount": 5,
       "description": "",
       "more_details": {
@@ -1475,14 +1475,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:15:24.194Z",
-      "updatedAt": "2026-05-29T16:15:24.194Z",
+      "updatedAt": "2026-06-29T02:05:55.782Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "fortunesunfloweroil",
       "subCategoryName": " Sunflower Oil",
-      "subCategoryOrder": 3
+      "subCategoryOrder": 3,
+      "pcsPerUnit": 8
     },
     {
       "_id": "prod_1780070978675",
