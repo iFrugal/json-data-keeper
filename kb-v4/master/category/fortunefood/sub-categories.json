@@ -3,7 +3,7 @@
     "id": "fortunefood",
     "name": "Fortune food"
   },
-  "total": 5,
+  "total": 6,
   "subcategories": [
     {
       "id": "fortunebesan",
@@ -38,6 +38,13 @@
       "name": "Fortune Poha ",
       "order": 5,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunefood/sub-category/fortunepoha.webp?t=1782697706571",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "fortunesuger",
+      "name": "Fortune suger",
+      "order": 6,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunefood/sub-category/fortunesuger.jpeg?t=1782698055755",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
