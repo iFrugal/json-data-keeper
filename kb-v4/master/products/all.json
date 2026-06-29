@@ -1,5 +1,5 @@
 {
-  "total": 197,
+  "total": 198,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6176,6 +6176,39 @@
       "subCategoryId": "kbpulses",
       "subCategoryName": "KB Pulses ",
       "subCategoryOrder": 1
+    },
+    {
+      "_id": "prod_1782697779843",
+      "name": "Fortune Poha 500gm pkt",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunefood/sub-category/fortunepoha/products/prod_1782697779843_0.webp?t=1782697789718"
+      ],
+      "unit": "1 Bag",
+      "stock": 100,
+      "price": 1800,
+      "discount": 1,
+      "pcsPerUnit": 40,
+      "perUnitLabel": "pc",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-29T01:49:49.718Z",
+      "updatedAt": "2026-06-29T01:49:49.718Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "fortunefood",
+      "categoryName": "Fortune food",
+      "categoryOrder": 4,
+      "subCategoryId": "fortunepoha",
+      "subCategoryName": "Fortune Poha ",
+      "subCategoryOrder": 5
     }
   ]
 }
