@@ -1,5 +1,5 @@
 {
-  "total": 18,
+  "total": 19,
   "categories": [
     {
       "id": "spices",
@@ -13,6 +13,13 @@
       "name": "Garam masale",
       "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/garammaasle/garammaasle.jpeg?t=1780414628250",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "spice",
+      "name": "Spice",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/spice.jpeg?t=1779984779293",
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
@@ -72,13 +79,6 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
-      "id": "spice",
-      "name": "Spice",
-      "order": 1,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/spice/spice.jpeg?t=1779984779293",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
       "id": "fortunesoap",
       "name": "Fortune Soap",
       "order": 12,
@@ -125,6 +125,13 @@
       "name": "Pulses ",
       "order": 18,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/pulses/pulses.webp?t=1782317583398",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
+      "id": "gokuloil",
+      "name": "Gokul Oil",
+      "order": 19,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/gokuloil/gokuloil.png?t=1782698383844",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
