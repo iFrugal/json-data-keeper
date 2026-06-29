@@ -1539,14 +1539,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:13:42.930Z",
-      "updatedAt": "2026-05-29T16:13:42.930Z",
+      "updatedAt": "2026-06-29T02:07:40.024Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "fortunesunfloweroil",
       "subCategoryName": " Sunflower Oil",
-      "subCategoryOrder": 3
+      "subCategoryOrder": 3,
+      "pcsPerUnit": 24
     },
     {
       "_id": "prod_1780071389653",
