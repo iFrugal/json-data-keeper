@@ -1236,9 +1236,9 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/soyabeanoil/products/prod_1780068176703_0.jpg?t=1780068179897"
       ],
-      "unit": "1 Piece",
+      "unit": "1 box",
       "stock": 10,
-      "price": 350,
+      "price": 2800,
       "discount": 5,
       "description": "",
       "more_details": {
@@ -1252,14 +1252,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T15:22:59.897Z",
-      "updatedAt": "2026-05-29T16:19:18.218Z",
+      "updatedAt": "2026-06-29T02:05:00.530Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "soyabeanoil",
       "subCategoryName": "Soyabean Oil",
-      "subCategoryOrder": 2
+      "subCategoryOrder": 2,
+      "pcsPerUnit": 8
     },
     {
       "_id": "prod_1780067900636",
