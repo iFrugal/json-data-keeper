@@ -1654,7 +1654,7 @@
       "unit": "1 box",
       "stock": 10,
       "price": 1620,
-      "discount": 5,
+      "discount": 0,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -1667,7 +1667,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:28:37.406Z",
-      "updatedAt": "2026-06-29T02:08:00.825Z",
+      "updatedAt": "2026-06-29T02:08:08.976Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
