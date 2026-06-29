@@ -1,5 +1,5 @@
 {
-  "total": 201,
+  "total": 200,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6130,37 +6130,6 @@
       "subCategoryId": "drychiilylanka",
       "subCategoryName": "Dry Chiily ( Lanka)",
       "subCategoryOrder": 5
-    },
-    {
-      "_id": "prod_1782317482286",
-      "name": "KB Masoor Malka Small 500Gm",
-      "image": [
-        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/pulses/sub-category/kbpulses/products/prod_1782317482286_0.webp?t=1782317484690"
-      ],
-      "unit": "1 kg",
-      "stock": 50,
-      "price": 120,
-      "discount": 5,
-      "description": "",
-      "more_details": {
-        "Key Features": "",
-        "Storage Tips": "",
-        "Type": "",
-        "Shelf Life": "",
-        "Manufacturer Details": "",
-        "Marketed By": "",
-        "Return Policy": ""
-      },
-      "publish": true,
-      "createdAt": "2026-06-24T16:11:24.690Z",
-      "updatedAt": "2026-06-24T16:11:24.690Z",
-      "updatedBy": "kbmasale12@gmail.com",
-      "categoryId": "pulses",
-      "categoryName": "Pulses ",
-      "categoryOrder": 18,
-      "subCategoryId": "kbpulses",
-      "subCategoryName": "KB Pulses ",
-      "subCategoryOrder": 1
     },
     {
       "_id": "prod_1782317538029",
