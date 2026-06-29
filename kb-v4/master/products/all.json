@@ -1653,7 +1653,7 @@
       ],
       "unit": "1 box",
       "stock": 10,
-      "price": 1584,
+      "price": 1620,
       "discount": 5,
       "description": "",
       "more_details": {
@@ -1667,14 +1667,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:28:37.406Z",
-      "updatedAt": "2026-05-29T16:28:37.406Z",
+      "updatedAt": "2026-06-29T02:08:00.825Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "fortunericebranoil",
       "subCategoryName": "Rice Bran Oil",
-      "subCategoryOrder": 4
+      "subCategoryOrder": 4,
+      "pcsPerUnit": 12
     },
     {
       "_id": "prod_1780075452294",
