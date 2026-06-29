@@ -6219,7 +6219,7 @@
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunefood/sub-category/fortunesuger/products/prod_1782698132005_0.jpeg?t=1782698134837"
       ],
       "unit": "1 Bag",
-      "stock": 0,
+      "stock": 100,
       "price": 1350,
       "discount": 0,
       "pcsPerUnit": 25,
@@ -6236,7 +6236,7 @@
       },
       "publish": true,
       "createdAt": "2026-06-29T01:55:34.837Z",
-      "updatedAt": "2026-06-29T01:55:34.837Z",
+      "updatedAt": "2026-06-29T01:56:03.118Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "fortunefood",
       "categoryName": "Fortune food",
