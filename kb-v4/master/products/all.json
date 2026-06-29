@@ -1,5 +1,5 @@
 {
-  "total": 199,
+  "total": 200,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6244,6 +6244,37 @@
       "subCategoryId": "fortunesuger",
       "subCategoryName": "Fortune suger",
       "subCategoryOrder": 6
+    },
+    {
+      "_id": "prod_1782698479778",
+      "name": "Gokul Kgmo 15kg tina",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/gokuloil/sub-category/gokulkgmooil/products/prod_1782698479778_0.jpeg?t=1782698481430"
+      ],
+      "unit": "1 pc",
+      "stock": 0,
+      "price": 2700,
+      "discount": 0,
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-29T02:01:21.430Z",
+      "updatedAt": "2026-06-29T02:01:21.430Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "gokuloil",
+      "categoryName": "Gokul Oil",
+      "categoryOrder": 19,
+      "subCategoryId": "gokulkgmooil",
+      "subCategoryName": "Gokul Kgmo oil",
+      "subCategoryOrder": 1
     }
   ]
 }
