@@ -822,9 +822,9 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunefood/sub-category/fortunesuji/products/prod_1780400482101_0.jpg?t=1780400484650"
       ],
-      "unit": "500 g",
+      "unit": "1 Bag",
       "stock": 100,
-      "price": 25,
+      "price": 520,
       "discount": 2,
       "description": "",
       "more_details": {
@@ -838,14 +838,15 @@
       },
       "publish": true,
       "createdAt": "2026-06-02T11:41:24.650Z",
-      "updatedAt": "2026-06-02T11:41:24.650Z",
+      "updatedAt": "2026-06-29T01:52:50.950Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "fortunefood",
       "categoryName": "Fortune food",
       "categoryOrder": 4,
       "subCategoryId": "fortunesuji",
       "subCategoryName": "Fortune Suji",
-      "subCategoryOrder": 4
+      "subCategoryOrder": 4,
+      "pcsPerUnit": 20
     },
     {
       "_id": "prod_1780400874345",
