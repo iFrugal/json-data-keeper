@@ -1314,14 +1314,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T15:19:20.460Z",
-      "updatedAt": "2026-05-29T16:18:59.054Z",
+      "updatedAt": "2026-06-29T02:04:24.529Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "soyabeanoil",
       "subCategoryName": "Soyabean Oil",
-      "subCategoryOrder": 2
+      "subCategoryOrder": 2,
+      "pcsPerUnit": 24
     },
     {
       "_id": "prod_1780068243990",
