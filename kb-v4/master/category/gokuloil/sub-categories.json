@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "gokuloil",
+    "name": "Gokul Oil"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "gokulkgmooil",
+      "name": "Gokul Kgmo oil",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/gokuloil/sub-category/gokulkgmooil.png?t=1782698420399",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
