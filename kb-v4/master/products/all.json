@@ -1554,9 +1554,9 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/fortunesunfloweroil/products/prod_1780071389653_0.jpg?t=1780071392901"
       ],
-      "unit": "1 pc",
+      "unit": "1 box",
       "stock": 10,
-      "price": 920,
+      "price": 3680,
       "discount": 5,
       "description": "",
       "more_details": {
@@ -1570,14 +1570,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:16:32.901Z",
-      "updatedAt": "2026-05-29T16:16:32.901Z",
+      "updatedAt": "2026-06-29T02:06:35.819Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "fortunesunfloweroil",
       "subCategoryName": " Sunflower Oil",
-      "subCategoryOrder": 3
+      "subCategoryOrder": 3,
+      "pcsPerUnit": 4
     },
     {
       "_id": "prod_1780070925074",
