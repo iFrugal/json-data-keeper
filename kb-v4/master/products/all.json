@@ -1394,7 +1394,7 @@
       ],
       "unit": "1 box",
       "stock": 10,
-      "price": 1896,
+      "price": 1850,
       "discount": 5,
       "description": "",
       "more_details": {
@@ -1408,14 +1408,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T15:15:34.052Z",
-      "updatedAt": "2026-05-29T16:18:21.721Z",
+      "updatedAt": "2026-06-29T02:03:41.700Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
       "categoryOrder": 5,
       "subCategoryId": "soyabeanoil",
       "subCategoryName": "Soyabean Oil",
-      "subCategoryOrder": 2
+      "subCategoryOrder": 2,
+      "pcsPerUnit": 12
     },
     {
       "_id": "prod_1780071449434",
