@@ -1,5 +1,5 @@
 {
-  "total": 198,
+  "total": 199,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6211,6 +6211,39 @@
       "subCategoryId": "fortunepoha",
       "subCategoryName": "Fortune Poha ",
       "subCategoryOrder": 5
+    },
+    {
+      "_id": "prod_1782698132005",
+      "name": "Fortune Suger 1kg pkt",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/fortunefood/sub-category/fortunesuger/products/prod_1782698132005_0.jpeg?t=1782698134837"
+      ],
+      "unit": "1 Bag",
+      "stock": 0,
+      "price": 1350,
+      "discount": 0,
+      "pcsPerUnit": 25,
+      "perUnitLabel": "pc",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-06-29T01:55:34.837Z",
+      "updatedAt": "2026-06-29T01:55:34.837Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "fortunefood",
+      "categoryName": "Fortune food",
+      "categoryOrder": 4,
+      "subCategoryId": "fortunesuger",
+      "subCategoryName": "Fortune suger",
+      "subCategoryOrder": 6
     }
   ]
 }
