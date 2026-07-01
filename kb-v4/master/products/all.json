@@ -2238,14 +2238,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:02:13.056Z",
-      "updatedAt": "2026-06-02T08:09:54.549Z",
+      "updatedAt": "2026-07-01T05:55:29.008Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "kingsoil",
       "categoryName": "Kings oil",
       "categoryOrder": 8,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 12
     },
     {
       "_id": "prod_1779883460750",
