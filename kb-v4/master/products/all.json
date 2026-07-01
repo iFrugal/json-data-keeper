@@ -2158,10 +2158,10 @@
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/kingsoil/sub-category/mustardoil/products/prod_1780072432550_0.jpg?t=1780072435966"
       ],
-      "unit": "1 pc",
+      "unit": "1 box",
       "stock": 10,
-      "price": 880,
-      "discount": 5,
+      "price": 3400,
+      "discount": 0,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -2174,14 +2174,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:33:55.966Z",
-      "updatedAt": "2026-05-29T16:33:55.966Z",
+      "updatedAt": "2026-07-01T05:54:58.010Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "kingsoil",
       "categoryName": "Kings oil",
       "categoryOrder": 8,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 4
     },
     {
       "_id": "prod_1779883391714",
