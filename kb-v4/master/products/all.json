@@ -2192,7 +2192,7 @@
       ],
       "unit": "1 box",
       "stock": 100,
-      "price": 2040,
+      "price": 2016,
       "discount": 0,
       "description": "",
       "more_details": {
@@ -2206,14 +2206,15 @@
       },
       "publish": true,
       "createdAt": "2026-05-27T12:03:18.136Z",
-      "updatedAt": "2026-06-02T08:14:26.205Z",
+      "updatedAt": "2026-07-01T05:55:18.366Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "kingsoil",
       "categoryName": "Kings oil",
       "categoryOrder": 8,
       "subCategoryId": "mustardoil",
       "subCategoryName": "Mustard oil",
-      "subCategoryOrder": 1
+      "subCategoryOrder": 1,
+      "pcsPerUnit": 12
     },
     {
       "_id": "prod_1779883327392",
