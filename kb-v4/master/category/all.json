@@ -23,6 +23,13 @@
       "updatedBy": "kbmasale12@gmail.com"
     },
     {
+      "id": "khajoordateplam",
+      "name": "Khajoor ( Date Plam ) ",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/khajoordateplam/khajoordateplam.jpeg?t=1783226604046",
+      "updatedBy": "kbmasale12@gmail.com"
+    },
+    {
       "id": "dryfruit",
       "name": "Dry Fruit",
       "order": 3,
@@ -122,8 +129,8 @@
     },
     {
       "id": "pulses",
-      "name": "Pulses ",
-      "order": 18,
+      "name": "Pulses and Basamti Rice ",
+      "order": 1,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/pulses/pulses.webp?t=1782317583398",
       "updatedBy": "kbmasale12@gmail.com"
     },
@@ -132,13 +139,6 @@
       "name": "Gokul Oil",
       "order": 19,
       "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/gokuloil/gokuloil.png?t=1782698383844",
-      "updatedBy": "kbmasale12@gmail.com"
-    },
-    {
-      "id": "khajoordateplam",
-      "name": "Khajoor ( Date Plam ) ",
-      "order": 1,
-      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/khajoordateplam/khajoordateplam.jpeg?t=1783226604046",
       "updatedBy": "kbmasale12@gmail.com"
     }
   ]
