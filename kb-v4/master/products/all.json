@@ -1,5 +1,5 @@
 {
-  "total": 200,
+  "total": 201,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6293,6 +6293,39 @@
       "subCategoryId": "joytikirankgmo",
       "subCategoryName": "Joytikiran Kgmo ",
       "subCategoryOrder": 2
+    },
+    {
+      "_id": "prod_1783227474991",
+      "name": "Date Crown 500gm pkt ",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/khajoordateplam/sub-category/datecrown/products/prod_1783227474991_0.png?t=1783227477794"
+      ],
+      "unit": "1 pc",
+      "stock": 10,
+      "price": 250,
+      "discount": 5,
+      "pcsPerUnit": 16,
+      "perUnitLabel": "pc",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-07-05T04:57:57.794Z",
+      "updatedAt": "2026-07-05T04:57:57.794Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "khajoordateplam",
+      "categoryName": "Khajoor ( Date Plam ) ",
+      "categoryOrder": 1,
+      "subCategoryId": "datecrown",
+      "subCategoryName": "Date Crown ",
+      "subCategoryOrder": 1
     }
   ]
 }
