@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "khajoordateplam",
+    "name": "Khajoor ( Date Plam ) "
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "datecrown",
+      "name": "Date Crown ",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/khajoordateplam/sub-category/datecrown.png?t=1783227272955",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
