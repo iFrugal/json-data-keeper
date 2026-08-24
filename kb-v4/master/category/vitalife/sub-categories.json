@@ -1,0 +1,16 @@
+{
+  "parent": {
+    "id": "vitalife",
+    "name": "VITALIFE"
+  },
+  "total": 1,
+  "subcategories": [
+    {
+      "id": "vitalifesoyabinoil",
+      "name": "VITALIFE SOYABIN OIL",
+      "order": 1,
+      "image": "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/vitalife/sub-category/vitalifesoyabinoil.jpeg?t=1787585025996",
+      "updatedBy": "kbmasale12@gmail.com"
+    }
+  ]
+}
