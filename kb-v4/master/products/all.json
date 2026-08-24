@@ -1,5 +1,5 @@
 {
-  "total": 201,
+  "total": 202,
   "products": [
     {
       "_id": "prod_1779815428514",
@@ -6325,6 +6325,39 @@
       "categoryOrder": 1,
       "subCategoryId": "datecrown",
       "subCategoryName": "Date Crown ",
+      "subCategoryOrder": 1
+    },
+    {
+      "_id": "prod_1787585103665",
+      "name": "VITALIFE SOYA BIN OIL 1lt",
+      "image": [
+        "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/vitalife/sub-category/vitalifesoyabinoil/products/prod_1787585103665_0.jpeg?t=1787585106913"
+      ],
+      "unit": "1 box",
+      "stock": 0,
+      "price": 2400,
+      "discount": 0,
+      "pcsPerUnit": 12,
+      "perUnitLabel": "pc",
+      "description": "",
+      "more_details": {
+        "Key Features": "",
+        "Storage Tips": "",
+        "Type": "",
+        "Shelf Life": "",
+        "Manufacturer Details": "",
+        "Marketed By": "",
+        "Return Policy": ""
+      },
+      "publish": true,
+      "createdAt": "2026-08-24T15:25:06.914Z",
+      "updatedAt": "2026-08-24T15:25:06.914Z",
+      "updatedBy": "kbmasale12@gmail.com",
+      "categoryId": "vitalife",
+      "categoryName": "VITALIFE",
+      "categoryOrder": 21,
+      "subCategoryId": "vitalifesoyabinoil",
+      "subCategoryName": "VITALIFE SOYABIN OIL",
       "subCategoryOrder": 1
     }
   ]
