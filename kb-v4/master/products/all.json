@@ -1615,14 +1615,14 @@
     },
     {
       "_id": "prod_1780070851294",
-      "name": "Fortune Sunlite Refined Sunflower Oil 800g Pouch ",
+      "name": "Fortune Sunlite Refined Sunflower Oil 1lt Pouch ",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/fortunesunfloweroil/products/prod_1780070851294_0.jpg?t=1780070854486"
       ],
       "unit": "1 box",
       "stock": 10,
-      "price": 3360,
-      "discount": 5,
+      "price": 2848,
+      "discount": 0,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -1635,7 +1635,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T16:07:34.486Z",
-      "updatedAt": "2026-06-29T02:07:17.481Z",
+      "updatedAt": "2026-11-02T02:29:43.257Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
@@ -1643,7 +1643,7 @@
       "subCategoryId": "fortunesunfloweroil",
       "subCategoryName": " Sunflower Oil",
       "subCategoryOrder": 3,
-      "pcsPerUnit": 20
+      "pcsPerUnit": 16
     },
     {
       "_id": "prod_1780072113239",
