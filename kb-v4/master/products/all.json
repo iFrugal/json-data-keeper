@@ -1360,14 +1360,14 @@
     },
     {
       "_id": "prod_1780067564118",
-      "name": "Fortune Soya Health Refined Soyabean Oil 750g ",
+      "name": "Fortune Soya Health Refined Soyabin oil 1lt Pouch",
       "image": [
         "https://raw.githubusercontent.com/iFrugal/json-data-keeper/main/kb-v4/images/category/Fortune oil/sub-category/soyabeanoil/products/prod_1780067564118_0.jpg?t=1780067567658"
       ],
       "unit": "1 box",
       "stock": 10,
-      "price": 2920,
-      "discount": 5,
+      "price": 2640,
+      "discount": 0,
       "description": "",
       "more_details": {
         "Key Features": "",
@@ -1380,7 +1380,7 @@
       },
       "publish": true,
       "createdAt": "2026-05-29T15:12:47.658Z",
-      "updatedAt": "2026-06-29T02:04:10.707Z",
+      "updatedAt": "2026-11-02T02:24:24.317Z",
       "updatedBy": "kbmasale12@gmail.com",
       "categoryId": "Fortune oil",
       "categoryName": "Fortune oil",
@@ -1388,7 +1388,7 @@
       "subCategoryId": "soyabeanoil",
       "subCategoryName": "Soyabean Oil",
       "subCategoryOrder": 2,
-      "pcsPerUnit": 20
+      "pcsPerUnit": 16
     },
     {
       "_id": "prod_1780067730851",
